@@ -1,0 +1,72 @@
+
+To find the number of all installed cores/processors use nproc --all
+
+The nproc command shows the number of processing units available:
+# nproc
+
+
+lscpu gathers CPU architecture information form /proc/cpuinfon in human-read-able format:
+# lscpu
+
+
+/proc/cpuinfo
+The /proc/cpuinfo and sysfs stores info about your CPU architecture ike number of CPUs, threads, cores, sockets, NUMA nodes, information about CPU caches, CPU family, model, bogoMIPS, yte order and much more:
+# less /proc/cpuinfo
+
+
+
+---------------------------------
+Query information for NTP
+issue command ntpq -p
+[xtmplsk@LGDEBWEMSH1 ~]$ ntpq -p
+     remote           refid      st t when poll reach   delay   offset  jitter
+==============================================================================
+*10.119.211.61   172.25.26.101    4 u  635 1024  377    0.372  -23.696  44.579
++10.119.211.62   172.25.26.101    4 u  990 1024  377    0.403    2.552  80.242
+
+---------------------------------
+
+Check bonding
+In Unix: 
+lanscan -q
+
+
+In Linux:
+$ cat /proc/net/bonding/bond0
+
+
+--------------------------------
+Check log in Unix
+
+grep KEYWORD /var/adm/syslog/syslog.log
+tail /var/adm/syslog/syslog.log
+
+
+In Linux:
+To view a common log file called /var/log/messages use any one of the following command:
+# less /var/log/messages
+# more -f /var/log/messages
+# cat /var/log/messages
+# tail -f /var/log/messages
+# grep -i error /var/log/messages
+
+
+tail /var/log/messages
+-----------------------------------------------
+checking the status of ignite backup
+
+cat /var/opt/ignite/logs/ignite
+
+Some of options:
+
+a) Log files in /var/opt/ignite/...
+directories are always the simplest
+option.
+
+b) Refer to the following commands:
+
+check_tape_recovery
+check_net_recovery
+
+c) In reality, the paranoid ones go for
+full test restore as well.

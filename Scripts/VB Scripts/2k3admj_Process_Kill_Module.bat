@@ -1,0 +1,1 @@
+cscript /nologo "D:\WORK\PERM\2k3admj_Process_Kill_Module.vbs"

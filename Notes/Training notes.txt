@@ -1,0 +1,108 @@
+https://10.119.200.44/login/login.html
+
+
+paulsmith81 rlaghdrl12!
+
+iMessager: mynam
+
+Windows Pro Key: V2JRP-HPF9B-36P84-T7P93-9PXH7
+
+https://ucloud.lgcns.com/VmCube/Login
+http://lets.lgdisplay.com:8086/portal/main/portalMain.do
+http://clouddvh.lgdisplay.com/
+--------------------------ACSS-----------------
+
+https://10.119.200.44/login/login.html?lang=eng
+user: 1007033524
+pass: 
+
+------------------------SBC-----------------------------------
+http://10.119.211.55:8080
+user: sbc\1007033524
+pass: 10070335241Q@w
+
+Connect to SBC servers using sbc\clu_adm19 / P@ssw0rd
+sys_adm01 / camon!12
+
+
+-----------------------------Backup---------------------
+https://10.119.211.21
+admin / P@ssw0rd
+
+
+--------------------SAN/NAS---------------
+MES NAS 
+https://10.119.211.122:8080/
+root / Isilon1!
+
+
+https://10.119.211.201/
+
+VNX 5400
+http://10.119.211.205/
+http://10.119.211.206/
+sysadmin/sysadmin
+
+SAN switch
+10.119.211.207
+10.119.211.208
+admin/password
+
+
+-----------------Unix/Linux--------------------------
+Proxy
+Host: 10.119.200.43
+Port: 21080
+Username: 1007033524
+Password: (user password for ACSS)
+
+suel1221
+dltmfrl170#
+
+NTP server for system: 172.25.26.101
+
+id : sysadm01 
+Passwd : vhSysadm01
+
+id : xtmplsk
+passwd : !dlatl00
+
+id : root
+passwd : !dlatl00
+
+--------------------------
+Using iDRAC
+http://192.168.0.120
+root / calvin
+
+racadm -r 192.168.0.120 -u root -p calvin jobqueue delete -i JID_CLEARALL_FORCE
+
+racadm -r 192.168.0.120 -u root -p calvin racreset
+
+http://www.dell.com/support/home/vn/en/vnbiz1/product-support/servicetag/h4qvzh2/drivers?os=mws80
+http://en.community.dell.com/techcenter/systems-management/w/wiki/3205.racadm-command-line-interface-for-drac
+------------
+
+When you have problem with DELL Lifecycle Controller jobs you can delete all jobs by single iDRAC command. This command
+
+racadm -r ip address -u user name -p password jobqueue delete -i JID_CLEARALL_FORCE
+
+deletes all of the jobs plus the orphaned pending and restarts the data manager service on the iDRAC. It will take about 90-120 secs before the iDRAC is able to process another job.
+
+Occasionally the iDRAC may need to be reset after issuing the above command due to other issues outside the job queue processing. In such case you can issue commands in the following order:
+
+    racadm -r ip address -u user name -p password jobqueue delete -i JID_CLEARALL_FORCE
+    Wait 120 secs
+    racadm –r ip address –u user name –p password racreset
+
+	-------------------
+
+------------------------
+
+192.168.26.130
+root/123!@#
+dunglv/123!@#
+
+192.168.26.129
+root/123!@#
+dunglv / 123!@#

@@ -1,0 +1,27 @@
+Use the uname -r command to query the HP-UX revision on the server system. The uname command will report the release identifier, which can be mapped to the HP-UX release as follows: B.11.31 is HP-UX 11i v3, B.11.23 is 11i v2, and B.11.11 is 11i v1
+
+Use the bdf command to make sure you have at least 2 GB of free disk space available in /opt to support installation of all three HP-UX releases.
+Procedure
+# bdf /opt
+
+Extend the size of the logical volume with the lvextend command, and then extend the size of the file system within the logical volume with the extendfs command. Detailed instructions for this procedure are found in the HP-UX administration guides listed below, depending on your version of HP-UX. For HP-UX 11i v3, see the HP-UX System Administrator's Guide (volume 3): Logical Volume Management. Within this guide, look for the chapter on administering LVM, and then the section on extending a file system.
+
+Use the bdf command to make sure you have enough disk space in /var to hold the OE depots. You will need roughly 4.5 GB per DVD in the OE set.
+Procedure
+# bdf /var
+
+Gain access to the DVD drive on your system. This document assumes the DVD-ROM device is called /dev/dsk/c1t2d0 – substitute your actual device name throughout this document.
+Procedure
+a. Use the ioscan command to get the DVD-ROM device name, for example: /dev/dsk/c1t2d0. You are looking for DVD in the Description column of the ioscan output.
+# ioscan -fnkC disk | more
+b. Create the device directory:
+# mkdir /dvdrom
+c. Put the OE DVD in the drive and mount it onto the new directory as a file system. Note that you must unmount the DVD-ROM with the # umount /dvdrom command before you can extract it from the drive.
+# mount /dev/dsk/c1t2d0 /dvdrom
+
+
+
+
+
+
+
