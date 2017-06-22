@@ -29,6 +29,8 @@ sys_adm01 / camon!12
 https://10.119.211.21
 admin / P@ssw0rd
 
+https://
+
 
 --------------------SAN/NAS---------------
 MES NAS 
