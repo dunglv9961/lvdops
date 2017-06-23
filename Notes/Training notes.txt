@@ -26,10 +26,13 @@ sys_adm01 / camon!12
 
 
 -----------------------------Backup---------------------
+Netbackup Appliance
 https://10.119.211.21
 admin / P@ssw0rd
 
-https://10.119.211.
+IPMI Web
+https://10.119.211.22
+sysadmin / P@ssw0rd
 
 
 --------------------SAN/NAS---------------

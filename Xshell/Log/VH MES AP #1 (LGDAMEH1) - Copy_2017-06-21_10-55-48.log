@@ -1,0 +1,377 @@
+[BEGIN] 6/21/2017 10:55:48 AM
+[6/21/2017 10:55:48 AM] Connecting to 10.119.211.151
+[6/21/2017 10:55:48 AM] USER[1007033524], PC[10.119.236.192], TARGET[10.119.211.151]
+[6/21/2017 10:55:50 AM] Last successful login:       Wed Jun 21 10:32:53 TST 2017 ::ffff:10.119.200.44  
+[6/21/2017 10:55:50 AM] Last login: Wed Jun 21 10:32:53 2017 from 10.119.200.44
+[6/21/2017 10:55:50 AM] Warning!! Authorized users only. All activity may be monitored and reported.
+[6/21/2017 10:55:50 AM] 
+[6/21/2017 10:55:50 AM] 
+[6/21/2017 10:55:50 AM] INFORMATION: This session will expire after 8269 hours and 4 minutes.
+[6/21/2017 10:55:50 AM] (c)Copyright 1983-2006 Hewlett-Packard Development Company, L.P.
+[6/21/2017 10:55:50 AM] (c)Copyright 1979, 1980, 1983, 1985-1993 The Regents of the Univ. of California
+[6/21/2017 10:55:50 AM] (c)Copyright 1980, 1984, 1986 Novell, Inc.
+[6/21/2017 10:55:50 AM] (c)Copyright 1986-2000 Sun Microsystems, Inc.
+[6/21/2017 10:55:50 AM] (c)Copyright 1985, 1986, 1988 Massachusetts Institute of Technology
+[6/21/2017 10:55:50 AM] (c)Copyright 1989-1993  The Open Software Foundation, Inc.
+[6/21/2017 10:55:50 AM] (c)Copyright 1990 Motorola, Inc.
+[6/21/2017 10:55:50 AM] (c)Copyright 1990, 1991, 1992 Cornell University
+[6/21/2017 10:55:50 AM] (c)Copyright 1989-1991 The University of Maryland
+[6/21/2017 10:55:50 AM] (c)Copyright 1988 Carnegie Mellon University
+[6/21/2017 10:55:50 AM] (c)Copyright 1991-2006 Mentat Inc.
+[6/21/2017 10:55:50 AM] (c)Copyright 1996 Morning Star Technologies, Inc.
+[6/21/2017 10:55:50 AM] (c)Copyright 1996 Progressive Systems, Inc.
+[6/21/2017 10:55:50 AM] 
+[6/21/2017 10:55:50 AM] Confidential computer software. Valid license from HP required for
+[6/21/2017 10:55:50 AM] possession, use or copying.  Consistent with FAR 12.211 and 12.212,
+[6/21/2017 10:55:50 AM] Commercial Computer Software, Computer Software Documentation, and
+[6/21/2017 10:55:50 AM] Technical Data for Commercial Items are licensed to the U.S. Government
+[6/21/2017 10:55:50 AM] under vendor's standard commercial license.
+[6/21/2017 10:55:50 AM] 
+[6/21/2017 10:55:50 AM] Warning!! Authorized users only. All activity may be monitored and reported.
+[6/21/2017 10:55:50 AM] 
+[6/21/2017 10:55:50 AM] You have mail.
+[6/21/2017 10:55:51 AM]                                                                                         
+[6/21/2017 10:55:51 AM] Value of TERM has been set to "vt100". 
+[6/21/2017 10:55:56 AM] LGDAMEH1:/engn0h1/messvcd5] ??
+[6/21/2017 10:55:56 AM] ksh: ??:  not found
+[6/21/2017 10:56:02 AM] LGDAMEH1:/engn0h1/messvcd5] ls
+[6/21/2017 10:56:03 AM] bin/               dmp/               ./                 .profile
+[6/21/2017 10:56:03 AM] cfg/               log/               .cshrc             .sh_history
+[6/21/2017 10:56:03 AM] check_process*     messvcd5_profile*  .exrc              .ssh/
+[6/21/2017 10:56:03 AM] check_vi*          msg/               .glancerc_hp       .sw/
+[6/21/2017 10:56:03 AM] cmd/               rvq/               .login             ../
+[6/21/2017 10:56:07 AM] LGDAMEH1:/engn0h1/messvcd5] cd bin
+[6/21/2017 10:56:11 AM] LGDAMEH1:/engn0h1/messvcd5/bin] ls
+[6/21/2017 10:56:11 AM] AAPsvr*            backup/            EDSsvr*            JEUS_down          MAILsvr*           msend*             PTFsvr*            RTRsvr*            TIMsvr*
+[6/21/2017 10:56:11 AM] APCsvr*            copy_bin*          EIFsvr*            LOGsvr*            make*              PPCsvr*            PTFsvr_MULTIFAB    SMSsvr*            UIFsvr*
+[6/21/2017 10:56:11 AM] APSsvr*            DLSsvr*            EPPsvr*            MAILapp*           MATsvr*            PROsvr             RCPsvr*            SQLsvr*            USRRsvr*
+[6/21/2017 10:56:11 AM] ARCapp*            DLYsvr*            GUIsvr*            MAILapp_20170619*  MDLsvr*            PRSsvr             RDXsvr*            svrStop*           ./
+[6/21/2017 10:56:11 AM] ARCapp_MULTIFAB    EDPsvr*            JEUS_boot          MAILapp_20170621*  MPSsvr*            PTFBACKUP/         RTREVPsvr*         TAPsvr*            ../
+[6/21/2017 10:56:13 AM] LGDAMEH1:/engn0h1/messvcd5/bin] ll
+[6/21/2017 10:56:13 AM] total 2070750
+[6/21/2017 10:56:13 AM] 52366 -rwxr-xr-x   1 messvcd5   26810376 Jun  8 13:58 AAPsvr*
+[6/21/2017 10:56:13 AM] 169504 -rwxr-xr-x   1 messvcd5   86777696 Jun  2 12:03 APCsvr*
+[6/21/2017 10:56:13 AM] 149012 -rwxr-xr-x   1 messvcd5   76285472 Jun  2 12:03 APSsvr*
+[6/21/2017 10:56:13 AM] 10914 -rwxr-xr-x   1 messvcd5   5587824 Jun  2 12:03 ARCapp*
+[6/21/2017 10:56:13 AM] 10766 -rw-r--r--   1 messvcd5   5511336 Jun  2 12:03 ARCapp_MULTIFAB
+[6/21/2017 10:56:13 AM]    0 drwxr-xr-x   2 messvcd5        96 Apr 22 06:22 backup/
+[6/21/2017 10:56:13 AM]    2 -rwxr--r--   1 messvcd5        86 Jun  2 11:44 copy_bin*
+[6/21/2017 10:56:13 AM] 7934 -rwxr-xr-x   1 messvcd5   4061720 Jun  2 12:04 DLSsvr*
+[6/21/2017 10:56:13 AM] 36296 -rwxr-xr-x   1 messvcd5   18583440 Jun  2 13:55 DLYsvr*
+[6/21/2017 10:56:13 AM] 245652 -rwxr-xr-x   1 messvcd5   125773152 Jun  2 12:04 EDPsvr*
+[6/21/2017 10:56:13 AM] 26190 -rwxr-xr-x   1 messvcd5   13408536 Jun  2 12:04 EDSsvr*
+[6/21/2017 10:56:13 AM] 9420 -rwxr-xr-x   1 messvcd5   4822496 Jun  2 12:04 EIFsvr*
+[6/21/2017 10:56:13 AM] 170296 -rwxr-xr-x   1 messvcd5   87182880 Jun  2 12:04 EPPsvr*
+[6/21/2017 10:56:13 AM] 392774 -rwxr-xr-x   1 messvcd5   201091680 Jun  2 12:05 GUIsvr*
+[6/21/2017 10:56:13 AM]    2 -rw-r--r--   1 messvcd5        17 Jun  2 12:05 JEUS_boot
+[6/21/2017 10:56:13 AM]    2 -rw-r--r--   1 messvcd5        17 Jun  2 12:05 JEUS_down
+[6/21/2017 10:56:13 AM] 8492 -rwxr-xr-x   1 messvcd5   4347712 Jun  2 12:06 LOGsvr*
+[6/21/2017 10:56:13 AM] 36992 -rwxr-xr-x   1 messvcd5   18931432 Jun 19 10:44 MAILapp*
+[6/21/2017 10:56:13 AM] 36976 -rwxr-xr-x   1 messvcd5   18931432 Jun 19 10:40 MAILapp_20170619*
+[6/21/2017 10:56:13 AM] 36976 -rwxr-xr-x   1 root       18931432 Jun 21 10:50 MAILapp_20170621*
+[6/21/2017 10:56:13 AM] 10256 -rwxr-xr-x   1 messvcd5   5250464 Jun  2 12:06 MAILsvr*
+[6/21/2017 10:56:13 AM] 1814 -rwxr--r--   1 messvcd5    928120 Apr 22 06:22 make*
+[6/21/2017 10:56:13 AM] 111952 -rwxr-xr-x   1 messvcd5   57310368 Jun  2 13:55 MATsvr*
+[6/21/2017 10:56:13 AM] 22118 -rwxr-xr-x   1 messvcd5   11323880 Jun  2 12:06 MDLsvr*
+[6/21/2017 10:56:13 AM] 5194 -rwxr-xr-x   1 messvcd5   2659184 Jun  2 12:06 MPSsvr*
+[6/21/2017 10:56:13 AM] 1214 -rwxr-xr-x   1 messvcd5    621088 Apr 22 06:22 msend*
+[6/21/2017 10:56:13 AM] 16804 -rwxr-xr-x   1 messvcd5   8602896 Jun  2 12:06 PPCsvr*
+[6/21/2017 10:56:13 AM] 8492 -rw-r--r--   1 messvcd5   4347448 Jun  2 12:06 PROsvr
+[6/21/2017 10:56:13 AM] 11462 -rw-r--r--   1 messvcd5   5867976 Jun  2 12:06 PRSsvr
+[6/21/2017 10:56:13 AM]    0 drwxr-xr-x   2 messvcd5        96 Jun  8 13:57 PTFBACKUP/
+[6/21/2017 10:56:13 AM] 29782 -rwxr-xr-x   1 messvcd5   15247712 Jun  2 12:06 PTFsvr*
+[6/21/2017 10:56:13 AM] 29654 -rw-r--r--   1 messvcd5   15182824 Jun  2 12:06 PTFsvr_MULTIFAB
+[6/21/2017 10:56:13 AM] 156972 -rwxr-xr-x   1 messvcd5   80360528 Jun  2 12:07 RCPsvr*
+[6/21/2017 10:56:13 AM] 20316 -rwxr-xr-x   1 messvcd5   10401304 Jun  2 12:07 RDXsvr*
+[6/21/2017 10:56:13 AM] 11964 -rwxr-xr-x   1 messvcd5   6125088 Jun  2 11:47 RTREVPsvr*
+[6/21/2017 10:56:13 AM] 18238 -rwxr-xr-x   1 messvcd5   9337288 Jun  2 12:07 RTRsvr*
+[6/21/2017 10:56:13 AM] 9434 -rwxr-xr-x   1 messvcd5   4829832 Jun  2 12:07 SMSsvr*
+[6/21/2017 10:56:13 AM] 4810 -rwxr-xr-x   1 messvcd5   2462304 Jun  2 12:07 SQLsvr*
+[6/21/2017 10:56:13 AM] 1932 -rwxr-xr-x   1 messvcd5    988800 Apr 22 06:22 svrStop*
+[6/21/2017 10:56:13 AM] 169526 -rwxr-xr-x   1 messvcd5   86789032 Jun  2 13:56 TAPsvr*
+[6/21/2017 10:56:13 AM] 8744 -rwxr-xr-x   1 messvcd5   4476120 Jun  2 12:07 TIMsvr*
+[6/21/2017 10:56:13 AM] 9422 -rwxr-xr-x   1 messvcd5   4823624 Jun  2 12:07 UIFsvr*
+[6/21/2017 10:56:13 AM] 10080 -rwxr-xr-x   1 messvcd5   5160232 Jun  2 12:07 USRRsvr*
+[6/21/2017 10:56:13 AM]    2 drwxr--r--   4 messvcd5      1024 Jun 21 10:50 ./
+[6/21/2017 10:56:13 AM]    2 drwxr-xr-x  11 messvcd5      1024 Jun 19 14:28 ../
+[6/21/2017 10:58:06 AM] LGDAMEH1:/engn0h1/messvcd5/bin] ls
+[6/21/2017 10:58:06 AM] AAPsvr*            backup/            EDSsvr*            JEUS_down          make*              PPCsvr*            PTFsvr_MULTIFAB    SMSsvr*            UIFsvr*
+[6/21/2017 10:58:06 AM] APCsvr*            copy_bin*          EIFsvr*            LOGsvr*            MATsvr*            PROsvr             RCPsvr*            SQLsvr*            USRRsvr*
+[6/21/2017 10:58:06 AM] APSsvr*            DLSsvr*            EPPsvr*            MAILapp*           MDLsvr*            PRSsvr             RDXsvr*            svrStop*           ./
+[6/21/2017 10:58:06 AM] ARCapp*            DLYsvr*            GUIsvr*            MAILapp_20170619*  MPSsvr*            PTFBACKUP/         RTREVPsvr*         TAPsvr*            ../
+[6/21/2017 10:58:06 AM] ARCapp_MULTIFAB    EDPsvr*            JEUS_boot          MAILsvr*           msend*             PTFsvr*            RTRsvr*            TIMsvr*
+[6/21/2017 10:58:42 AM] LGDAMEH1:/engn0h1/messvcd5/bin] cp MAILapp MAILapp_20170621
+[6/21/2017 10:58:44 AM] LGDAMEH1:/engn0h1/messvcd5/bin] ll
+[6/21/2017 10:58:44 AM] total 2070750
+[6/21/2017 10:58:44 AM] 52366 -rwxr-xr-x   1 messvcd5   26810376 Jun  8 13:58 AAPsvr*
+[6/21/2017 10:58:44 AM] 169504 -rwxr-xr-x   1 messvcd5   86777696 Jun  2 12:03 APCsvr*
+[6/21/2017 10:58:44 AM] 149012 -rwxr-xr-x   1 messvcd5   76285472 Jun  2 12:03 APSsvr*
+[6/21/2017 10:58:44 AM] 10914 -rwxr-xr-x   1 messvcd5   5587824 Jun  2 12:03 ARCapp*
+[6/21/2017 10:58:44 AM] 10766 -rw-r--r--   1 messvcd5   5511336 Jun  2 12:03 ARCapp_MULTIFAB
+[6/21/2017 10:58:44 AM]    0 drwxr-xr-x   2 messvcd5        96 Apr 22 06:22 backup/
+[6/21/2017 10:58:44 AM]    2 -rwxr--r--   1 messvcd5        86 Jun  2 11:44 copy_bin*
+[6/21/2017 10:58:44 AM] 7934 -rwxr-xr-x   1 messvcd5   4061720 Jun  2 12:04 DLSsvr*
+[6/21/2017 10:58:44 AM] 36296 -rwxr-xr-x   1 messvcd5   18583440 Jun  2 13:55 DLYsvr*
+[6/21/2017 10:58:44 AM] 245652 -rwxr-xr-x   1 messvcd5   125773152 Jun  2 12:04 EDPsvr*
+[6/21/2017 10:58:44 AM] 26190 -rwxr-xr-x   1 messvcd5   13408536 Jun  2 12:04 EDSsvr*
+[6/21/2017 10:58:44 AM] 9420 -rwxr-xr-x   1 messvcd5   4822496 Jun  2 12:04 EIFsvr*
+[6/21/2017 10:58:44 AM] 170296 -rwxr-xr-x   1 messvcd5   87182880 Jun  2 12:04 EPPsvr*
+[6/21/2017 10:58:44 AM] 392774 -rwxr-xr-x   1 messvcd5   201091680 Jun  2 12:05 GUIsvr*
+[6/21/2017 10:58:44 AM]    2 -rw-r--r--   1 messvcd5        17 Jun  2 12:05 JEUS_boot
+[6/21/2017 10:58:44 AM]    2 -rw-r--r--   1 messvcd5        17 Jun  2 12:05 JEUS_down
+[6/21/2017 10:58:44 AM] 8492 -rwxr-xr-x   1 messvcd5   4347712 Jun  2 12:06 LOGsvr*
+[6/21/2017 10:58:44 AM] 36992 -rwxr-xr-x   1 messvcd5   18931432 Jun 19 10:44 MAILapp*
+[6/21/2017 10:58:44 AM] 36976 -rwxr-xr-x   1 messvcd5   18931432 Jun 19 10:40 MAILapp_20170619*
+[6/21/2017 10:58:44 AM] 36976 -rwxr-xr-x   1 messvcd5   18931432 Jun 21 10:58 MAILapp_20170621*
+[6/21/2017 10:58:44 AM] 10256 -rwxr-xr-x   1 messvcd5   5250464 Jun  2 12:06 MAILsvr*
+[6/21/2017 10:58:44 AM] 1814 -rwxr--r--   1 messvcd5    928120 Apr 22 06:22 make*
+[6/21/2017 10:58:44 AM] 111952 -rwxr-xr-x   1 messvcd5   57310368 Jun  2 13:55 MATsvr*
+[6/21/2017 10:58:44 AM] 22118 -rwxr-xr-x   1 messvcd5   11323880 Jun  2 12:06 MDLsvr*
+[6/21/2017 10:58:44 AM] 5194 -rwxr-xr-x   1 messvcd5   2659184 Jun  2 12:06 MPSsvr*
+[6/21/2017 10:58:44 AM] 1214 -rwxr-xr-x   1 messvcd5    621088 Apr 22 06:22 msend*
+[6/21/2017 10:58:44 AM] 16804 -rwxr-xr-x   1 messvcd5   8602896 Jun  2 12:06 PPCsvr*
+[6/21/2017 10:58:44 AM] 8492 -rw-r--r--   1 messvcd5   4347448 Jun  2 12:06 PROsvr
+[6/21/2017 10:58:44 AM] 11462 -rw-r--r--   1 messvcd5   5867976 Jun  2 12:06 PRSsvr
+[6/21/2017 10:58:44 AM]    0 drwxr-xr-x   2 messvcd5        96 Jun  8 13:57 PTFBACKUP/
+[6/21/2017 10:58:44 AM] 29782 -rwxr-xr-x   1 messvcd5   15247712 Jun  2 12:06 PTFsvr*
+[6/21/2017 10:58:44 AM] 29654 -rw-r--r--   1 messvcd5   15182824 Jun  2 12:06 PTFsvr_MULTIFAB
+[6/21/2017 10:58:44 AM] 156972 -rwxr-xr-x   1 messvcd5   80360528 Jun  2 12:07 RCPsvr*
+[6/21/2017 10:58:44 AM] 20316 -rwxr-xr-x   1 messvcd5   10401304 Jun  2 12:07 RDXsvr*
+[6/21/2017 10:58:44 AM] 11964 -rwxr-xr-x   1 messvcd5   6125088 Jun  2 11:47 RTREVPsvr*
+[6/21/2017 10:58:44 AM] 18238 -rwxr-xr-x   1 messvcd5   9337288 Jun  2 12:07 RTRsvr*
+[6/21/2017 10:58:44 AM] 9434 -rwxr-xr-x   1 messvcd5   4829832 Jun  2 12:07 SMSsvr*
+[6/21/2017 10:58:44 AM] 4810 -rwxr-xr-x   1 messvcd5   2462304 Jun  2 12:07 SQLsvr*
+[6/21/2017 10:58:44 AM] 1932 -rwxr-xr-x   1 messvcd5    988800 Apr 22 06:22 svrStop*
+[6/21/2017 10:58:44 AM] 169526 -rwxr-xr-x   1 messvcd5   86789032 Jun  2 13:56 TAPsvr*
+[6/21/2017 10:58:44 AM] 8744 -rwxr-xr-x   1 messvcd5   4476120 Jun  2 12:07 TIMsvr*
+[6/21/2017 10:58:44 AM] 9422 -rwxr-xr-x   1 messvcd5   4823624 Jun  2 12:07 UIFsvr*
+[6/21/2017 10:58:44 AM] 10080 -rwxr-xr-x   1 messvcd5   5160232 Jun  2 12:07 USRRsvr*
+[6/21/2017 10:58:44 AM]    2 drwxr--r--   4 messvcd5      1024 Jun 21 10:58 ./
+[6/21/2017 10:58:44 AM]    2 drwxr-xr-x  11 messvcd5      1024 Jun 19 14:28 ../
+[6/21/2017 10:59:48 AM] LGDAMEH1:/engn0h1/messvcd5/bin] bin
+[6/21/2017 10:59:50 AM] LGDAMEH1:/engn0h1/messvcd5/bin] ll
+[6/21/2017 10:59:50 AM] total 2070750
+[6/21/2017 10:59:50 AM] 52366 -rwxr-xr-x   1 messvcd5   26810376 Jun  8 13:58 AAPsvr*
+[6/21/2017 10:59:50 AM] 169504 -rwxr-xr-x   1 messvcd5   86777696 Jun  2 12:03 APCsvr*
+[6/21/2017 10:59:50 AM] 149012 -rwxr-xr-x   1 messvcd5   76285472 Jun  2 12:03 APSsvr*
+[6/21/2017 10:59:50 AM] 10914 -rwxr-xr-x   1 messvcd5   5587824 Jun  2 12:03 ARCapp*
+[6/21/2017 10:59:50 AM] 10766 -rw-r--r--   1 messvcd5   5511336 Jun  2 12:03 ARCapp_MULTIFAB
+[6/21/2017 10:59:50 AM]    0 drwxr-xr-x   2 messvcd5        96 Apr 22 06:22 backup/
+[6/21/2017 10:59:50 AM]    2 -rwxr--r--   1 messvcd5        86 Jun  2 11:44 copy_bin*
+[6/21/2017 10:59:50 AM] 7934 -rwxr-xr-x   1 messvcd5   4061720 Jun  2 12:04 DLSsvr*
+[6/21/2017 10:59:50 AM] 36296 -rwxr-xr-x   1 messvcd5   18583440 Jun  2 13:55 DLYsvr*
+[6/21/2017 10:59:50 AM] 245652 -rwxr-xr-x   1 messvcd5   125773152 Jun  2 12:04 EDPsvr*
+[6/21/2017 10:59:50 AM] 26190 -rwxr-xr-x   1 messvcd5   13408536 Jun  2 12:04 EDSsvr*
+[6/21/2017 10:59:50 AM] 9420 -rwxr-xr-x   1 messvcd5   4822496 Jun  2 12:04 EIFsvr*
+[6/21/2017 10:59:50 AM] 170296 -rwxr-xr-x   1 messvcd5   87182880 Jun  2 12:04 EPPsvr*
+[6/21/2017 10:59:50 AM] 392774 -rwxr-xr-x   1 messvcd5   201091680 Jun  2 12:05 GUIsvr*
+[6/21/2017 10:59:50 AM]    2 -rw-r--r--   1 messvcd5        17 Jun  2 12:05 JEUS_boot
+[6/21/2017 10:59:50 AM]    2 -rw-r--r--   1 messvcd5        17 Jun  2 12:05 JEUS_down
+[6/21/2017 10:59:50 AM] 8492 -rwxr-xr-x   1 messvcd5   4347712 Jun  2 12:06 LOGsvr*
+[6/21/2017 10:59:50 AM] 36992 -rwxr-xr-x   1 messvcd5   18931432 Jun 19 10:44 MAILapp*
+[6/21/2017 10:59:50 AM] 36976 -rwxr-xr-x   1 messvcd5   18931432 Jun 19 10:40 MAILapp_20170619*
+[6/21/2017 10:59:50 AM] 36976 -rwxr-xr-x   1 messvcd5   18931432 Jun 21 10:58 MAILapp_20170621*
+[6/21/2017 10:59:50 AM] 10256 -rwxr-xr-x   1 messvcd5   5250464 Jun  2 12:06 MAILsvr*
+[6/21/2017 10:59:50 AM] 1814 -rwxr--r--   1 messvcd5    928120 Apr 22 06:22 make*
+[6/21/2017 10:59:50 AM] 111952 -rwxr-xr-x   1 messvcd5   57310368 Jun  2 13:55 MATsvr*
+[6/21/2017 10:59:50 AM] 22118 -rwxr-xr-x   1 messvcd5   11323880 Jun  2 12:06 MDLsvr*
+[6/21/2017 10:59:50 AM] 5194 -rwxr-xr-x   1 messvcd5   2659184 Jun  2 12:06 MPSsvr*
+[6/21/2017 10:59:50 AM] 1214 -rwxr-xr-x   1 messvcd5    621088 Apr 22 06:22 msend*
+[6/21/2017 10:59:50 AM] 16804 -rwxr-xr-x   1 messvcd5   8602896 Jun  2 12:06 PPCsvr*
+[6/21/2017 10:59:50 AM] 8492 -rw-r--r--   1 messvcd5   4347448 Jun  2 12:06 PROsvr
+[6/21/2017 10:59:50 AM] 11462 -rw-r--r--   1 messvcd5   5867976 Jun  2 12:06 PRSsvr
+[6/21/2017 10:59:50 AM]    0 drwxr-xr-x   2 messvcd5        96 Jun  8 13:57 PTFBACKUP/
+[6/21/2017 10:59:50 AM] 29782 -rwxr-xr-x   1 messvcd5   15247712 Jun  2 12:06 PTFsvr*
+[6/21/2017 10:59:50 AM] 29654 -rw-r--r--   1 messvcd5   15182824 Jun  2 12:06 PTFsvr_MULTIFAB
+[6/21/2017 10:59:50 AM] 156972 -rwxr-xr-x   1 messvcd5   80360528 Jun  2 12:07 RCPsvr*
+[6/21/2017 10:59:50 AM] 20316 -rwxr-xr-x   1 messvcd5   10401304 Jun  2 12:07 RDXsvr*
+[6/21/2017 10:59:50 AM] 11964 -rwxr-xr-x   1 messvcd5   6125088 Jun  2 11:47 RTREVPsvr*
+[6/21/2017 10:59:50 AM] 18238 -rwxr-xr-x   1 messvcd5   9337288 Jun  2 12:07 RTRsvr*
+[6/21/2017 10:59:50 AM] 9434 -rwxr-xr-x   1 messvcd5   4829832 Jun  2 12:07 SMSsvr*
+[6/21/2017 10:59:50 AM] 4810 -rwxr-xr-x   1 messvcd5   2462304 Jun  2 12:07 SQLsvr*
+[6/21/2017 10:59:50 AM] 1932 -rwxr-xr-x   1 messvcd5    988800 Apr 22 06:22 svrStop*
+[6/21/2017 10:59:50 AM] 169526 -rwxr-xr-x   1 messvcd5   86789032 Jun  2 13:56 TAPsvr*
+[6/21/2017 10:59:50 AM] 8744 -rwxr-xr-x   1 messvcd5   4476120 Jun  2 12:07 TIMsvr*
+[6/21/2017 10:59:50 AM] 9422 -rwxr-xr-x   1 messvcd5   4823624 Jun  2 12:07 UIFsvr*
+[6/21/2017 10:59:50 AM] 10080 -rwxr-xr-x   1 messvcd5   5160232 Jun  2 12:07 USRRsvr*
+[6/21/2017 10:59:50 AM]    2 drwxr--r--   4 messvcd5      1024 Jun 21 10:58 ./
+[6/21/2017 10:59:50 AM]    2 drwxr-xr-x  11 messvcd5      1024 Jun 19 14:28 ../
+[6/21/2017 11:00:12 AM] LGDAMEH1:/engn0h1/messvcd5/bin] copy_bin MAILapp
+[6/21/2017 11:00:13 AM] MAILapp
+[6/21/2017 11:00:15 AM] LGDAMEH1:/engn0h1/messvcd5/bin] ll
+[6/21/2017 11:00:15 AM] total 2074398
+[6/21/2017 11:00:15 AM] 52366 -rwxr-xr-x   1 messvcd5   26810376 Jun  8 13:58 AAPsvr*
+[6/21/2017 11:00:15 AM] 169504 -rwxr-xr-x   1 messvcd5   86777696 Jun  2 12:03 APCsvr*
+[6/21/2017 11:00:15 AM] 149012 -rwxr-xr-x   1 messvcd5   76285472 Jun  2 12:03 APSsvr*
+[6/21/2017 11:00:15 AM] 10914 -rwxr-xr-x   1 messvcd5   5587824 Jun  2 12:03 ARCapp*
+[6/21/2017 11:00:15 AM] 10766 -rw-r--r--   1 messvcd5   5511336 Jun  2 12:03 ARCapp_MULTIFAB
+[6/21/2017 11:00:15 AM]    0 drwxr-xr-x   2 messvcd5        96 Apr 22 06:22 backup/
+[6/21/2017 11:00:15 AM]    2 -rwxr--r--   1 messvcd5        86 Jun  2 11:44 copy_bin*
+[6/21/2017 11:00:15 AM] 7934 -rwxr-xr-x   1 messvcd5   4061720 Jun  2 12:04 DLSsvr*
+[6/21/2017 11:00:15 AM] 36296 -rwxr-xr-x   1 messvcd5   18583440 Jun  2 13:55 DLYsvr*
+[6/21/2017 11:00:15 AM] 245652 -rwxr-xr-x   1 messvcd5   125773152 Jun  2 12:04 EDPsvr*
+[6/21/2017 11:00:15 AM] 26190 -rwxr-xr-x   1 messvcd5   13408536 Jun  2 12:04 EDSsvr*
+[6/21/2017 11:00:15 AM] 9420 -rwxr-xr-x   1 messvcd5   4822496 Jun  2 12:04 EIFsvr*
+[6/21/2017 11:00:15 AM] 170296 -rwxr-xr-x   1 messvcd5   87182880 Jun  2 12:04 EPPsvr*
+[6/21/2017 11:00:15 AM] 392774 -rwxr-xr-x   1 messvcd5   201091680 Jun  2 12:05 GUIsvr*
+[6/21/2017 11:00:15 AM]    2 -rw-r--r--   1 messvcd5        17 Jun  2 12:05 JEUS_boot
+[6/21/2017 11:00:15 AM]    2 -rw-r--r--   1 messvcd5        17 Jun  2 12:05 JEUS_down
+[6/21/2017 11:00:15 AM] 8492 -rwxr-xr-x   1 messvcd5   4347712 Jun  2 12:06 LOGsvr*
+[6/21/2017 11:00:15 AM] 40640 -rwxr-xr-x   1 messvcd5   19391320 Jun 21 11:00 MAILapp*
+[6/21/2017 11:00:15 AM] 36976 -rwxr-xr-x   1 messvcd5   18931432 Jun 19 10:40 MAILapp_20170619*
+[6/21/2017 11:00:15 AM] 36976 -rwxr-xr-x   1 messvcd5   18931432 Jun 21 10:58 MAILapp_20170621*
+[6/21/2017 11:00:15 AM] 10256 -rwxr-xr-x   1 messvcd5   5250464 Jun  2 12:06 MAILsvr*
+[6/21/2017 11:00:15 AM] 1814 -rwxr--r--   1 messvcd5    928120 Apr 22 06:22 make*
+[6/21/2017 11:00:15 AM] 111952 -rwxr-xr-x   1 messvcd5   57310368 Jun  2 13:55 MATsvr*
+[6/21/2017 11:00:15 AM] 22118 -rwxr-xr-x   1 messvcd5   11323880 Jun  2 12:06 MDLsvr*
+[6/21/2017 11:00:15 AM] 5194 -rwxr-xr-x   1 messvcd5   2659184 Jun  2 12:06 MPSsvr*
+[6/21/2017 11:00:15 AM] 1214 -rwxr-xr-x   1 messvcd5    621088 Apr 22 06:22 msend*
+[6/21/2017 11:00:15 AM] 16804 -rwxr-xr-x   1 messvcd5   8602896 Jun  2 12:06 PPCsvr*
+[6/21/2017 11:00:15 AM] 8492 -rw-r--r--   1 messvcd5   4347448 Jun  2 12:06 PROsvr
+[6/21/2017 11:00:15 AM] 11462 -rw-r--r--   1 messvcd5   5867976 Jun  2 12:06 PRSsvr
+[6/21/2017 11:00:15 AM]    0 drwxr-xr-x   2 messvcd5        96 Jun  8 13:57 PTFBACKUP/
+[6/21/2017 11:00:15 AM] 29782 -rwxr-xr-x   1 messvcd5   15247712 Jun  2 12:06 PTFsvr*
+[6/21/2017 11:00:15 AM] 29654 -rw-r--r--   1 messvcd5   15182824 Jun  2 12:06 PTFsvr_MULTIFAB
+[6/21/2017 11:00:15 AM] 156972 -rwxr-xr-x   1 messvcd5   80360528 Jun  2 12:07 RCPsvr*
+[6/21/2017 11:00:15 AM] 20316 -rwxr-xr-x   1 messvcd5   10401304 Jun  2 12:07 RDXsvr*
+[6/21/2017 11:00:15 AM] 11964 -rwxr-xr-x   1 messvcd5   6125088 Jun  2 11:47 RTREVPsvr*
+[6/21/2017 11:00:15 AM] 18238 -rwxr-xr-x   1 messvcd5   9337288 Jun  2 12:07 RTRsvr*
+[6/21/2017 11:00:15 AM] 9434 -rwxr-xr-x   1 messvcd5   4829832 Jun  2 12:07 SMSsvr*
+[6/21/2017 11:00:15 AM] 4810 -rwxr-xr-x   1 messvcd5   2462304 Jun  2 12:07 SQLsvr*
+[6/21/2017 11:00:15 AM] 1932 -rwxr-xr-x   1 messvcd5    988800 Apr 22 06:22 svrStop*
+[6/21/2017 11:00:15 AM] 169526 -rwxr-xr-x   1 messvcd5   86789032 Jun  2 13:56 TAPsvr*
+[6/21/2017 11:00:15 AM] 8744 -rwxr-xr-x   1 messvcd5   4476120 Jun  2 12:07 TIMsvr*
+[6/21/2017 11:00:15 AM] 9422 -rwxr-xr-x   1 messvcd5   4823624 Jun  2 12:07 UIFsvr*
+[6/21/2017 11:00:15 AM] 10080 -rwxr-xr-x   1 messvcd5   5160232 Jun  2 12:07 USRRsvr*
+[6/21/2017 11:00:15 AM]    2 drwxr--r--   4 messvcd5      1024 Jun 21 10:58 ./
+[6/21/2017 11:00:15 AM]    2 drwxr-xr-x  11 messvcd5      1024 Jun 19 14:28 ../
+[6/21/2017 11:31:56 AM] LGDAMEH1:/engn0h1/messvcd5/bin] whoami
+[6/21/2017 11:31:56 AM] messvcd5
+[6/21/2017 11:34:25 AM] LGDAMEH1:/engn0h1/messvcd5/bin] ls
+[6/21/2017 11:34:26 AM] AAPsvr*            backup/            EDSsvr*            JEUS_down          MAILsvr*           msend*             PTFsvr*            RTRsvr*            TIMsvr*
+[6/21/2017 11:34:26 AM] APCsvr*            copy_bin*          EIFsvr*            LOGsvr*            make*              PPCsvr*            PTFsvr_MULTIFAB    SMSsvr*            UIFsvr*
+[6/21/2017 11:34:26 AM] APSsvr*            DLSsvr*            EPPsvr*            MAILapp*           MATsvr*            PROsvr             RCPsvr*            SQLsvr*            USRRsvr*
+[6/21/2017 11:34:26 AM] ARCapp*            DLYsvr*            GUIsvr*            MAILapp_20170619*  MDLsvr*            PRSsvr             RDXsvr*            svrStop*           ./
+[6/21/2017 11:34:26 AM] ARCapp_MULTIFAB    EDPsvr*            JEUS_boot          MAILapp_20170621*  MPSsvr*            PTFBACKUP/         RTREVPsvr*         TAPsvr*            ../
+[6/21/2017 01:06:03 PM] LGDAMEH1:/engn0h1/messvcd5/bin] copy_bin MAILapp
+[6/21/2017 01:06:03 PM] MAILapp
+[6/21/2017 01:07:14 PM] LGDAMEH1:/engn0h1/messvcd5/bin] ll | grep MA
+[6/21/2017 01:07:15 PM] 37890 -rwxr-xr-x   1 messvcd5   19391320 Jun 21 13:06 MAILapp*
+[6/21/2017 01:07:15 PM] 36976 -rwxr-xr-x   1 messvcd5   18931432 Jun 19 10:40 MAILapp_20170619*
+[6/21/2017 01:07:15 PM] 36976 -rwxr-xr-x   1 messvcd5   18931432 Jun 21 10:58 MAILapp_20170621*
+[6/21/2017 01:07:15 PM] 10256 -rwxr-xr-x   1 messvcd5   5250464 Jun  2 12:06 MAILsvr*
+[6/21/2017 01:07:15 PM] 111952 -rwxr-xr-x   1 messvcd5   57310368 Jun  2 13:55 MATsvr*
+[6/21/2017 01:15:05 PM] LGDAMEH1:/engn0h1/messvcd5/bin] ps -ef | grep EDPsvr
+[6/21/2017 01:15:05 PM] messvcd5 21023     1  0  Jun  6  ?        00:05:11 /engn0h1/messvcd5/bin/EDPsvr sys=CCS seq=35 shop=D5C env=EDPsvr_D5C.cfg ftweight=30 type= dest=
+[6/21/2017 01:15:05 PM] messvcd5 21015     1  0  Jun  6  ?        00:05:18 /engn0h1/messvcd5/bin/EDPsvr sys=CCS seq=34 shop=D5C env=EDPsvr_D5C.cfg ftweight=30 type= dest=
+[6/21/2017 01:15:05 PM] messvcd5 23501 11472  1 13:15:05 pts/3    00:00:00 grep EDPsvr
+[6/21/2017 01:15:05 PM] messvcd5 21031     1  0  Jun  6  ?        00:05:39 /engn0h1/messvcd5/bin/EDPsvr sys=CCS seq=36 shop=D5C env=EDPsvr_D5C.cfg ftweight=30 type= dest=
+[6/21/2017 01:15:05 PM] messvcd5 21005     1  0  Jun  6  ?        00:05:55 /engn0h1/messvcd5/bin/EDPsvr sys=CCS seq=33 shop=D5C env=EDPsvr_D5C.cfg ftweight=30 type= dest=
+[6/21/2017 01:15:05 PM] messvcd5 20971     1  0  Jun  6  ?        00:05:39 /engn0h1/messvcd5/bin/EDPsvr sys=CCS seq=31 shop=D5C env=EDPsvr_D5C.cfg ftweight=30 type= dest=
+[6/21/2017 01:15:05 PM] messvcd5 20982     1  0  Jun  6  ?        00:05:22 /engn0h1/messvcd5/bin/EDPsvr sys=CCS seq=32 shop=D5C env=EDPsvr_D5C.cfg ftweight=30 type= dest=
+[6/21/2017 01:15:05 PM] messvcd5 21039     1  0  Jun  6  ?        00:05:42 /engn0h1/messvcd5/bin/EDPsvr sys=CCS seq=37 shop=D5C env=EDPsvr_D5C.cfg ftweight=30 type= dest=
+[6/21/2017 01:18:57 PM] LGDAMEH1:/engn0h1/messvcd5/bin] ps -ef | grep GUIsvr     
+[6/21/2017 01:18:57 PM] messvcd5 21108     1  0  Jun  6  ?        00:05:58 /engn0h1/messvcd5/bin/GUIsvr sys=CCS seq=7 shop=D5C env=GUIsvr_D5C.cfg ftweight=30 type= dest=
+[6/21/2017 01:18:57 PM] messvcht  8309     1  0  May 18  ?        00:10:22 /engn0h1/messvcht/v1.0/bin/GUIsvr sys=CCS seq=25 shop=MOD env=GUIsvr_HT.cfg ftweight=20 type=
+[6/21/2017 01:18:57 PM] messvcht  8271     1  0  May 18  ?        00:09:47 /engn0h1/messvcht/v1.0/bin/GUIsvr sys=CCS seq=23 shop=MOD env=GUIsvr_HT.cfg ftweight=20 type=
+[6/21/2017 01:18:57 PM] messvchm  7079     1  0  May 18  ?        00:09:34 /engn0h1/messvchm/v1.0/bin/GUIsvr sys=CCS seq=15 shop=MOD env=GUIsvr_HM.cfg ftweight=30 type=
+[6/21/2017 01:18:57 PM] messvcd5 21092     1  0  Jun  6  ?        00:05:41 /engn0h1/messvcd5/bin/GUIsvr sys=CCS seq=5 shop=D5C env=GUIsvr_D5C.cfg ftweight=30 type= dest=
+[6/21/2017 01:18:57 PM] messvchm  7052     1  0  May 18  ?        00:10:46 /engn0h1/messvchm/v1.0/bin/GUIsvr sys=CCS seq=12 shop=MOD env=GUIsvr_HM.cfg ftweight=30 type=
+[6/21/2017 01:18:57 PM] messvchm  7070     1  0  May 18  ?        00:09:35 /engn0h1/messvchm/v1.0/bin/GUIsvr sys=CCS seq=14 shop=MOD env=GUIsvr_HM.cfg ftweight=30 type=
+[6/21/2017 01:18:57 PM] messvchm  7061     1  0  May 18  ?        00:09:29 /engn0h1/messvchm/v1.0/bin/GUIsvr sys=CCS seq=13 shop=MOD env=GUIsvr_HM.cfg ftweight=30 type=
+[6/21/2017 01:18:57 PM] messvcd5 21116     1  0  Jun  6  ?        00:06:20 /engn0h1/messvcd5/bin/GUIsvr sys=CCS seq=8 shop=D5C env=GUIsvr_D5C.cfg ftweight=30 type= dest=
+[6/21/2017 01:18:57 PM] messvcd5 23687 11472  1 13:18:57 pts/3    00:00:00 grep GUIsvr
+[6/21/2017 01:18:57 PM] messvchm  7032     1  0  May 18  ?        00:09:48 /engn0h1/messvchm/v1.0/bin/GUIsvr sys=CCS seq=11 shop=MOD env=GUIsvr_HM.cfg ftweight=30 type=
+[6/21/2017 01:18:57 PM] messvcd5 21074     1  0  Jun  6  ?        00:06:03 /engn0h1/messvcd5/bin/GUIsvr sys=CCS seq=3 shop=D5C env=GUIsvr_D5C.cfg ftweight=30 type= dest=
+[6/21/2017 01:18:57 PM] messvcht  8290     1  0  May 18  ?        00:09:43 /engn0h1/messvcht/v1.0/bin/GUIsvr sys=CCS seq=24 shop=MOD env=GUIsvr_HT.cfg ftweight=20 type=
+[6/21/2017 01:18:57 PM] messvcht  8229     1  0  May 18  ?        00:10:22 /engn0h1/messvcht/v1.0/bin/GUIsvr sys=CCS seq=21 shop=MOD env=GUIsvr_HT.cfg ftweight=20 type=
+[6/21/2017 01:18:57 PM] messvcd5 21084     1  0  Jun  6  ?        00:05:59 /engn0h1/messvcd5/bin/GUIsvr sys=CCS seq=4 shop=D5C env=GUIsvr_D5C.cfg ftweight=30 type= dest=
+[6/21/2017 01:18:57 PM] messvcht  8252     1  0  May 18  ?        00:09:40 /engn0h1/messvcht/v1.0/bin/GUIsvr sys=CCS seq=22 shop=MOD env=GUIsvr_HT.cfg ftweight=20 type=
+[6/21/2017 01:18:57 PM] messvcd5 21100     1  0  Jun  6  ?        00:06:04 /engn0h1/messvcd5/bin/GUIsvr sys=CCS seq=6 shop=D5C env=GUIsvr_D5C.cfg ftweight=30 type= dest=
+[6/21/2017 01:18:57 PM] messvcd5 21058     1  0  Jun  6  ?        00:07:52 /engn0h1/messvcd5/bin/GUIsvr sys=CCS seq=1 shop=D5C env=GUIsvr_D5C.cfg ftweight=30 type= dest=
+[6/21/2017 01:18:57 PM] messvcd5 21066     1  0  Jun  6  ?        00:05:55 /engn0h1/messvcd5/bin/GUIsvr sys=CCS seq=2 shop=D5C env=GUIsvr_D5C.cfg ftweight=30 type= dest=
+[6/21/2017 01:22:16 PM] LGDAMEH1:/engn0h1/messvcd5/bin] ll
+[6/21/2017 01:22:16 PM] total 2071648
+[6/21/2017 01:22:16 PM] 52366 -rwxr-xr-x   1 messvcd5   26810376 Jun  8 13:58 AAPsvr*
+[6/21/2017 01:22:16 PM] 169504 -rwxr-xr-x   1 messvcd5   86777696 Jun  2 12:03 APCsvr*
+[6/21/2017 01:22:16 PM] 149012 -rwxr-xr-x   1 messvcd5   76285472 Jun  2 12:03 APSsvr*
+[6/21/2017 01:22:16 PM] 10914 -rwxr-xr-x   1 messvcd5   5587824 Jun  2 12:03 ARCapp*
+[6/21/2017 01:22:16 PM] 10766 -rw-r--r--   1 messvcd5   5511336 Jun  2 12:03 ARCapp_MULTIFAB
+[6/21/2017 01:22:16 PM]    0 drwxr-xr-x   2 messvcd5        96 Apr 22 06:22 backup/
+[6/21/2017 01:22:16 PM]    2 -rwxr--r--   1 messvcd5        86 Jun  2 11:44 copy_bin*
+[6/21/2017 01:22:16 PM] 7934 -rwxr-xr-x   1 messvcd5   4061720 Jun  2 12:04 DLSsvr*
+[6/21/2017 01:22:16 PM] 36296 -rwxr-xr-x   1 messvcd5   18583440 Jun  2 13:55 DLYsvr*
+[6/21/2017 01:22:16 PM] 245652 -rwxr-xr-x   1 messvcd5   125773152 Jun  2 12:04 EDPsvr*
+[6/21/2017 01:22:16 PM] 26190 -rwxr-xr-x   1 messvcd5   13408536 Jun  2 12:04 EDSsvr*
+[6/21/2017 01:22:16 PM] 9420 -rwxr-xr-x   1 messvcd5   4822496 Jun  2 12:04 EIFsvr*
+[6/21/2017 01:22:16 PM] 170296 -rwxr-xr-x   1 messvcd5   87182880 Jun  2 12:04 EPPsvr*
+[6/21/2017 01:22:16 PM] 392774 -rwxr-xr-x   1 messvcd5   201091680 Jun  2 12:05 GUIsvr*
+[6/21/2017 01:22:16 PM]    2 -rw-r--r--   1 messvcd5        17 Jun  2 12:05 JEUS_boot
+[6/21/2017 01:22:16 PM]    2 -rw-r--r--   1 messvcd5        17 Jun  2 12:05 JEUS_down
+[6/21/2017 01:22:16 PM] 8492 -rwxr-xr-x   1 messvcd5   4347712 Jun  2 12:06 LOGsvr*
+[6/21/2017 01:22:16 PM] 37890 -rwxr-xr-x   1 messvcd5   19391320 Jun 21 13:06 MAILapp*
+[6/21/2017 01:22:16 PM] 36976 -rwxr-xr-x   1 messvcd5   18931432 Jun 19 10:40 MAILapp_20170619*
+[6/21/2017 01:22:16 PM] 36976 -rwxr-xr-x   1 messvcd5   18931432 Jun 21 10:58 MAILapp_20170621*
+[6/21/2017 01:22:16 PM] 10256 -rwxr-xr-x   1 messvcd5   5250464 Jun  2 12:06 MAILsvr*
+[6/21/2017 01:22:16 PM] 1814 -rwxr--r--   1 messvcd5    928120 Apr 22 06:22 make*
+[6/21/2017 01:22:16 PM] 111952 -rwxr-xr-x   1 messvcd5   57310368 Jun  2 13:55 MATsvr*
+[6/21/2017 01:22:16 PM] 22118 -rwxr-xr-x   1 messvcd5   11323880 Jun  2 12:06 MDLsvr*
+[6/21/2017 01:22:16 PM] 5194 -rwxr-xr-x   1 messvcd5   2659184 Jun  2 12:06 MPSsvr*
+[6/21/2017 01:22:16 PM] 1214 -rwxr-xr-x   1 messvcd5    621088 Apr 22 06:22 msend*
+[6/21/2017 01:22:16 PM] 16804 -rwxr-xr-x   1 messvcd5   8602896 Jun  2 12:06 PPCsvr*
+[6/21/2017 01:22:16 PM] 8492 -rw-r--r--   1 messvcd5   4347448 Jun  2 12:06 PROsvr
+[6/21/2017 01:22:16 PM] 11462 -rw-r--r--   1 messvcd5   5867976 Jun  2 12:06 PRSsvr
+[6/21/2017 01:22:16 PM]    0 drwxr-xr-x   2 messvcd5        96 Jun  8 13:57 PTFBACKUP/
+[6/21/2017 01:22:16 PM] 29782 -rwxr-xr-x   1 messvcd5   15247712 Jun  2 12:06 PTFsvr*
+[6/21/2017 01:22:16 PM] 29654 -rw-r--r--   1 messvcd5   15182824 Jun  2 12:06 PTFsvr_MULTIFAB
+[6/21/2017 01:22:16 PM] 156972 -rwxr-xr-x   1 messvcd5   80360528 Jun  2 12:07 RCPsvr*
+[6/21/2017 01:22:16 PM] 20316 -rwxr-xr-x   1 messvcd5   10401304 Jun  2 12:07 RDXsvr*
+[6/21/2017 01:22:16 PM] 11964 -rwxr-xr-x   1 messvcd5   6125088 Jun  2 11:47 RTREVPsvr*
+[6/21/2017 01:22:16 PM] 18238 -rwxr-xr-x   1 messvcd5   9337288 Jun  2 12:07 RTRsvr*
+[6/21/2017 01:22:16 PM] 9434 -rwxr-xr-x   1 messvcd5   4829832 Jun  2 12:07 SMSsvr*
+[6/21/2017 01:22:16 PM] 4810 -rwxr-xr-x   1 messvcd5   2462304 Jun  2 12:07 SQLsvr*
+[6/21/2017 01:22:16 PM] 1932 -rwxr-xr-x   1 messvcd5    988800 Apr 22 06:22 svrStop*
+[6/21/2017 01:22:16 PM] 169526 -rwxr-xr-x   1 messvcd5   86789032 Jun  2 13:56 TAPsvr*
+[6/21/2017 01:22:16 PM] 8744 -rwxr-xr-x   1 messvcd5   4476120 Jun  2 12:07 TIMsvr*
+[6/21/2017 01:22:16 PM] 9422 -rwxr-xr-x   1 messvcd5   4823624 Jun  2 12:07 UIFsvr*
+[6/21/2017 01:22:16 PM] 10080 -rwxr-xr-x   1 messvcd5   5160232 Jun  2 12:07 USRRsvr*
+[6/21/2017 01:22:16 PM]    2 drwxr--r--   4 messvcd5      1024 Jun 21 10:58 ./
+[6/21/2017 01:22:16 PM]    2 drwxr-xr-x  11 messvcd5      1024 Jun 19 14:28 ../
+[6/21/2017 01:22:36 PM] LGDAMEH1:/engn0h1/messvcd5/bin] ll | grep svr
+[6/21/2017 01:22:36 PM] 52366 -rwxr-xr-x   1 messvcd5   26810376 Jun  8 13:58 AAPsvr*
+[6/21/2017 01:22:36 PM] 169504 -rwxr-xr-x   1 messvcd5   86777696 Jun  2 12:03 APCsvr*
+[6/21/2017 01:22:36 PM] 149012 -rwxr-xr-x   1 messvcd5   76285472 Jun  2 12:03 APSsvr*
+[6/21/2017 01:22:36 PM] 7934 -rwxr-xr-x   1 messvcd5   4061720 Jun  2 12:04 DLSsvr*
+[6/21/2017 01:22:36 PM] 36296 -rwxr-xr-x   1 messvcd5   18583440 Jun  2 13:55 DLYsvr*
+[6/21/2017 01:22:36 PM] 245652 -rwxr-xr-x   1 messvcd5   125773152 Jun  2 12:04 EDPsvr*
+[6/21/2017 01:22:36 PM] 26190 -rwxr-xr-x   1 messvcd5   13408536 Jun  2 12:04 EDSsvr*
+[6/21/2017 01:22:36 PM] 9420 -rwxr-xr-x   1 messvcd5   4822496 Jun  2 12:04 EIFsvr*
+[6/21/2017 01:22:36 PM] 170296 -rwxr-xr-x   1 messvcd5   87182880 Jun  2 12:04 EPPsvr*
+[6/21/2017 01:22:36 PM] 392774 -rwxr-xr-x   1 messvcd5   201091680 Jun  2 12:05 GUIsvr*
+[6/21/2017 01:22:36 PM] 8492 -rwxr-xr-x   1 messvcd5   4347712 Jun  2 12:06 LOGsvr*
+[6/21/2017 01:22:36 PM] 10256 -rwxr-xr-x   1 messvcd5   5250464 Jun  2 12:06 MAILsvr*
+[6/21/2017 01:22:36 PM] 111952 -rwxr-xr-x   1 messvcd5   57310368 Jun  2 13:55 MATsvr*
+[6/21/2017 01:22:36 PM] 22118 -rwxr-xr-x   1 messvcd5   11323880 Jun  2 12:06 MDLsvr*
+[6/21/2017 01:22:36 PM] 5194 -rwxr-xr-x   1 messvcd5   2659184 Jun  2 12:06 MPSsvr*
+[6/21/2017 01:22:36 PM] 16804 -rwxr-xr-x   1 messvcd5   8602896 Jun  2 12:06 PPCsvr*
+[6/21/2017 01:22:36 PM] 8492 -rw-r--r--   1 messvcd5   4347448 Jun  2 12:06 PROsvr
+[6/21/2017 01:22:36 PM] 11462 -rw-r--r--   1 messvcd5   5867976 Jun  2 12:06 PRSsvr
+[6/21/2017 01:22:36 PM] 29782 -rwxr-xr-x   1 messvcd5   15247712 Jun  2 12:06 PTFsvr*
+[6/21/2017 01:22:36 PM] 29654 -rw-r--r--   1 messvcd5   15182824 Jun  2 12:06 PTFsvr_MULTIFAB
+[6/21/2017 01:22:36 PM] 156972 -rwxr-xr-x   1 messvcd5   80360528 Jun  2 12:07 RCPsvr*
+[6/21/2017 01:22:36 PM] 20316 -rwxr-xr-x   1 messvcd5   10401304 Jun  2 12:07 RDXsvr*
+[6/21/2017 01:22:36 PM] 11964 -rwxr-xr-x   1 messvcd5   6125088 Jun  2 11:47 RTREVPsvr*
+[6/21/2017 01:22:36 PM] 18238 -rwxr-xr-x   1 messvcd5   9337288 Jun  2 12:07 RTRsvr*
+[6/21/2017 01:22:36 PM] 9434 -rwxr-xr-x   1 messvcd5   4829832 Jun  2 12:07 SMSsvr*
+[6/21/2017 01:22:36 PM] 4810 -rwxr-xr-x   1 messvcd5   2462304 Jun  2 12:07 SQLsvr*
+[6/21/2017 01:22:36 PM] 1932 -rwxr-xr-x   1 messvcd5    988800 Apr 22 06:22 svrStop*
+[6/21/2017 01:22:36 PM] 169526 -rwxr-xr-x   1 messvcd5   86789032 Jun  2 13:56 TAPsvr*
+[6/21/2017 01:22:36 PM] 8744 -rwxr-xr-x   1 messvcd5   4476120 Jun  2 12:07 TIMsvr*
+[6/21/2017 01:22:36 PM] 9422 -rwxr-xr-x   1 messvcd5   4823624 Jun  2 12:07 UIFsvr*
+[6/21/2017 01:22:36 PM] 10080 -rwxr-xr-x   1 messvcd5   5160232 Jun  2 12:07 USRRsvr*
+[6/21/2017 01:23:09 PM] LGDAMEH1:/engn0h1/messvcd5/bin] exit
+[6/21/2017 01:23:09 PM] logout
+[6/21/2017 01:23:09 PM] 
+[6/21/2017 01:23:09 PM] Connection closed by foreign host.
+
+[END] 6/21/2017 01:23:09 PM

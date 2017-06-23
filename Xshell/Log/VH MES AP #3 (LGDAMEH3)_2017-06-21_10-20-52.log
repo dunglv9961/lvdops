@@ -1,0 +1,879 @@
+[BEGIN] 6/21/2017 10:20:52 AM
+[6/21/2017 10:20:52 AM] Disconnected from remote host(VH MES AP #2 (LGDAMEH2)) at 10:20:45.
+Type `help' to learn how to use Xshell prompt.
+[e:\~]$ 
+Looking up proxy server '10.119.200.44'...
+Host '10.119.200.44' resolved to 10.119.200.44.
+Connecting to 10.119.200.44:21080...
+Connection established.
+To escape to local shell, press 'Ctrl+Alt+]'.
+Connecting to 10.119.211.153
+[6/21/2017 10:20:52 AM] USER[1007033524], PC[10.119.236.192], TARGET[10.119.211.153]
+[6/21/2017 10:20:54 AM] Last successful login:       Wed Jun 21 08:03:23 TST 2017 10.119.200.44  
+[6/21/2017 10:20:54 AM] Last login: Wed Jun 21 08:03:25 2017 from 10.119.200.44
+[6/21/2017 10:20:54 AM] Warning!! Authorized users only. All activity may be monitored and reported.
+[6/21/2017 10:20:54 AM] 
+[6/21/2017 10:20:54 AM] 
+[6/21/2017 10:20:54 AM] INFORMATION: This session will expire after 8269 hours and 39 minutes.
+[6/21/2017 10:20:54 AM] (c)Copyright 1983-2006 Hewlett-Packard Development Company, L.P.
+[6/21/2017 10:20:54 AM] (c)Copyright 1979, 1980, 1983, 1985-1993 The Regents of the Univ. of California
+[6/21/2017 10:20:54 AM] (c)Copyright 1980, 1984, 1986 Novell, Inc.
+[6/21/2017 10:20:54 AM] (c)Copyright 1986-2000 Sun Microsystems, Inc.
+[6/21/2017 10:20:54 AM] (c)Copyright 1985, 1986, 1988 Massachusetts Institute of Technology
+[6/21/2017 10:20:54 AM] (c)Copyright 1989-1993  The Open Software Foundation, Inc.
+[6/21/2017 10:20:54 AM] (c)Copyright 1990 Motorola, Inc.
+[6/21/2017 10:20:54 AM] (c)Copyright 1990, 1991, 1992 Cornell University
+[6/21/2017 10:20:54 AM] (c)Copyright 1989-1991 The University of Maryland
+[6/21/2017 10:20:54 AM] (c)Copyright 1988 Carnegie Mellon University
+[6/21/2017 10:20:54 AM] (c)Copyright 1991-2006 Mentat Inc.
+[6/21/2017 10:20:54 AM] (c)Copyright 1996 Morning Star Technologies, Inc.
+[6/21/2017 10:20:54 AM] (c)Copyright 1996 Progressive Systems, Inc.
+[6/21/2017 10:20:54 AM] 
+[6/21/2017 10:20:54 AM] Confidential computer software. Valid license from HP required for
+[6/21/2017 10:20:54 AM] possession, use or copying.  Consistent with FAR 12.211 and 12.212,
+[6/21/2017 10:20:54 AM] Commercial Computer Software, Computer Software Documentation, and
+[6/21/2017 10:20:54 AM] Technical Data for Commercial Items are licensed to the U.S. Government
+[6/21/2017 10:20:54 AM] under vendor's standard commercial license.
+[6/21/2017 10:20:54 AM] 
+[6/21/2017 10:20:54 AM] Warning!! Authorized users only. All activity may be monitored and reported.
+[6/21/2017 10:20:54 AM] 
+[6/21/2017 10:21:13 AM] LGDAMEH3:/home/sysadm01>cd /engn0h1/messvcd5/cfg                                        
+[6/21/2017 10:21:15 AM] LGDAMEH3:/engn0h1/messvcd5/cfg>ls
+[6/21/2017 10:21:15 AM] AAPsvr_D5.cfg      GUIsvr_D5C.cfg     PROsvr_D5.cfg      SQLsvr_HISD5.cfg
+[6/21/2017 10:21:15 AM] APCsvr_D5C.cfg     LOGsvr_D5.cfg      PTFsvr.cfg         SQLsvr_RPTD5.cfg
+[6/21/2017 10:21:15 AM] APSsvr_D5C.cfg     LOGsvr_D5C.cfg     PTFsvr_Env.cfg     TAPsvr_D5C.cfg
+[6/21/2017 10:21:15 AM] ARCapp_D5.cfg      MAILapp_D5.cfg     RCPsvr_D5C.cfg     TIMSVR.CFG
+[6/21/2017 10:21:15 AM] CONMSG.CFG         MAILsvr_D5.cfg     RDSsvr_D5C.cfg     TIMsvr_D5C.cfg
+[6/21/2017 10:21:15 AM] DB.cfg             MATsvr_D5.cfg      RDXsvr_D5C.cfg     UIFMSG.CFG
+[6/21/2017 10:21:15 AM] DLSsvr_D5C.cfg     MDLsvr.cfg         RTRsvr_D5C.cfg     UIFsvr_D5.cfg
+[6/21/2017 10:21:15 AM] DLYsvr_D5.cfg      MHSsvr_D5C.cfg     SMSsvr_D5C.cfg     UIFsvr_D5C.cfg
+[6/21/2017 10:21:15 AM] EDPsvr_D5C.cfg     MOSsvr_D5C.cfg     SQLsvr_COMD5.cfg   USRRsvr_D5.cfg
+[6/21/2017 10:21:15 AM] EDSsvr_D5C.cfg     MPSsvr_D5.cfg      SQLsvr_D5.cfg      back
+[6/21/2017 10:21:15 AM] EIFMSG.CFG         MULTICAST.CFG      SQLsvr_D5C.cfg     chamge_work.ksh
+[6/21/2017 10:21:15 AM] EIFsvr_D5C.cfg     MULTICAST_BAK.CFG  SQLsvr_EAHD5.cfg   dump.ksh
+[6/21/2017 10:21:15 AM] EPPsvr_D5C.cfg     PFMsvr_D5C.cfg     SQLsvr_EASD5.cfg   findfile.dat
+[6/21/2017 10:21:15 AM] ERRsvr_D5.cfg      PPCsvr_D5.cfg      SQLsvr_EDSD5.cfg
+[6/21/2017 10:25:48 AM] LGDAMEH3:/engn0h1/messvcd5/cfg>vi UMSMSG.CFG
+[6/21/2017 10:26:02 AM] "UMSMSG.CFG" [New file] 
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+Pattern not found
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+:q
+[6/21/2017 10:26:04 AM] LGDAMEH3:/engn0h1/messvcd5/cfg>ls
+[6/21/2017 10:26:04 AM] AAPsvr_D5.cfg      GUIsvr_D5C.cfg     PROsvr_D5.cfg      SQLsvr_HISD5.cfg
+[6/21/2017 10:26:04 AM] APCsvr_D5C.cfg     LOGsvr_D5.cfg      PTFsvr.cfg         SQLsvr_RPTD5.cfg
+[6/21/2017 10:26:04 AM] APSsvr_D5C.cfg     LOGsvr_D5C.cfg     PTFsvr_Env.cfg     TAPsvr_D5C.cfg
+[6/21/2017 10:26:04 AM] ARCapp_D5.cfg      MAILapp_D5.cfg     RCPsvr_D5C.cfg     TIMSVR.CFG
+[6/21/2017 10:26:04 AM] CONMSG.CFG         MAILsvr_D5.cfg     RDSsvr_D5C.cfg     TIMsvr_D5C.cfg
+[6/21/2017 10:26:04 AM] DB.cfg             MATsvr_D5.cfg      RDXsvr_D5C.cfg     UIFMSG.CFG
+[6/21/2017 10:26:04 AM] DLSsvr_D5C.cfg     MDLsvr.cfg         RTRsvr_D5C.cfg     UIFsvr_D5.cfg
+[6/21/2017 10:26:04 AM] DLYsvr_D5.cfg      MHSsvr_D5C.cfg     SMSsvr_D5C.cfg     UIFsvr_D5C.cfg
+[6/21/2017 10:26:04 AM] EDPsvr_D5C.cfg     MOSsvr_D5C.cfg     SQLsvr_COMD5.cfg   USRRsvr_D5.cfg
+[6/21/2017 10:26:04 AM] EDSsvr_D5C.cfg     MPSsvr_D5.cfg      SQLsvr_D5.cfg      back
+[6/21/2017 10:26:04 AM] EIFMSG.CFG         MULTICAST.CFG      SQLsvr_D5C.cfg     chamge_work.ksh
+[6/21/2017 10:26:04 AM] EIFsvr_D5C.cfg     MULTICAST_BAK.CFG  SQLsvr_EAHD5.cfg   dump.ksh
+[6/21/2017 10:26:04 AM] EPPsvr_D5C.cfg     PFMsvr_D5C.cfg     SQLsvr_EASD5.cfg   findfile.dat
+[6/21/2017 10:26:04 AM] ERRsvr_D5.cfg      PPCsvr_D5.cfg      SQLsvr_EDSD5.cfg
+[6/21/2017 10:26:17 AM] LGDAMEH3:/engn0h1/messvcd5/cfg>ci UIFMSG.CFG
+[6/21/2017 10:26:17 AM] UIFMSG.CFG,v  <--  UIFMSG.CFG
+[6/21/2017 10:26:17 AM] ci error: Current directory not writable
+[6/21/2017 10:26:23 AM] LGDAMEH3:/engn0h1/messvcd5/cfg>vi UIFMSG.CFG
+[6/21/2017 10:26:37 AM] "UIFMSG.CFG" [Read only] 625 lines, 29745 characters 
+*
+*    UIFsvr MESSAGE PATH INFORMATION
+*
+*COMMAND NAME    WORKLOT CHECK    DEST MAILBOX NAME
+*------------    -------------   (Must Be Single MailBox)
+*------------    -------------   ------------------------
+* UIFsvr        =>  D5.G1.GUIsvr.D5~
+ PFMSTART        N               D5.G1.PFMsvr.D5~
+ TCHG            N               D5.G1.DLYsvr.D5~
+ ADBP            N               D5.G1.GUIsvr.D5~
+ CJFM            N               D5.G1.GUIsvr.D5~
+ ACST            N               D5.G1.GUIsvr.D5~
+ AMAT            N               D5.G1.GUIsvr.D5~
+ BHCN            N               D5.G1.GUIsvr.D5~
+ BOLA            N               D5.G1.GUIsvr.D5~
+ CACC            N               D5.G1.GUIsvr.D5~
+ CBBS            N               D5.G1.GUIsvr.D5~
+ CCST            N               D5.G1.GUIsvr.D5~
+ CEMP            N               D5.G1.GUIsvr.D5~
+ CHEP            N               D5.G1.GUIsvr.D5~
+ CHLT            N               D5.G1.GUIsvr.D5~
+ CMCH            Y               D5.G1.GUIsvr.D5~
+ CPLT            Y               D5.G1.GUIsvr.D5~
+ CRLT            Y               D5.G1.GUIsvr.D5~
+ CRTN            N               D5.G1.GUIsvr.D5~
+ CSON            N               D5.G1.GUIsvr.D5~
+ DACM            N               D5.G1.GUIsvr.D5~
+ DCST            N               D5.G1.GUIsvr.D5~
+ DGLT            N               D5.G1.GUIsvr.D5~
+ DSTO            N               D5.G1.GUIsvr.D5~
+ ESCH            N               D5.G1.GUIsvr.D5~
+/MATsvr
+ CGIC            N               D5.G1.SRTsvr.D5~
+ CPSC            N               D5.G1.SRTsvr.D5~
+ CPRS            N               D5.G1.SRTsvr.D5~
+ CPRC            N               D5.G1.SRTsvr.D5~
+* UIFsvr => D5.G1.RDSsvr.D5~
+ DLIS            N               D5.G1.RDSsvr.D5~
+ ATDL            N               D5.G1.RDSsvr.D5~
+ RULM            N               D5.G1.RDSsvr.D5~
+ BTDL            N               D5.G1.RDSsvr.D5~
+* UIFsvr => D5.G1.PROsvr.D5~
+ PCPW            N               D5.G1.PROsvr.D5~
+ PCMD            N               D5.G1.PROsvr.D5~
+* UIFsvr => D5.G1.BAYsvr.D5~
+ CBAY            N               D5.G1.BAYsvr.D5~
+* UIFsvr => D5.G1.MATsvr.D5~
+ LTMC            N               D5.G1.MATsvr.D5
+ MGUDS           N               D5.G1.MATsvr.D5
+ MUUDF           N               D5.G1.MATsvr.D5
+ MCBLT           N               D5.G1.MATsvr.D5
+ MUFTI           N               D5.G1.MATsvr.D5
+ MMIMG           N               D5.G1.MATsvr.D5
+ MPIOM           N               D5.G1.MATsvr.D5
+ MPDHT           N               D5.G1.MATsvr.D5
+ MULNO           N               D5.G1.MATsvr.D5
+ MBACP           N               D5.G1.MATsvr.D5
+ MMSET           N               D5.G1.MATsvr.D5
+ MLRLP           N               D5.G1.MATsvr.D5
+ MAMLT           N               D5.G1.MATsvr.D5
+ MREMM           N               D5.G1.MATsvr.D5
+ MCAPU           N               D5.G1.MATsvr.D5
+ MRERC           N               D5.G1.MATsvr.D5
+[6/21/2017 10:26:37 AM] 
+[6/21/2017 10:26:37 AM] 
+[6/21/2017 10:26:37 AM] 
+[6/21/2017 10:26:37 AM] 
+[6/21/2017 10:26:37 AM] 
+[6/21/2017 10:26:37 AM] 
+[6/21/2017 10:26:37 AM] 
+[6/21/2017 10:26:37 AM] 
+[6/21/2017 10:26:37 AM] 
+[6/21/2017 10:26:37 AM] 
+[6/21/2017 10:26:37 AM] 
+[6/21/2017 10:26:37 AM] 
+[6/21/2017 10:26:37 AM] 
+[6/21/2017 10:26:37 AM] 
+[6/21/2017 10:26:37 AM] 
+[6/21/2017 10:26:37 AM] 
+[6/21/2017 10:27:32 AM]  MCBLT           N               D5.G1.MATsvr.D5
+ MUFTI           N               D5.G1.MATsvr.D5
+ MMIMG           N               D5.G1.MATsvr.D5
+ MPIOM           N               D5.G1.MATsvr.D5
+ MPDHT           N               D5.G1.MATsvr.D5
+ MULNO           N               D5.G1.MATsvr.D5
+ MBACP           N               D5.G1.MATsvr.D5
+ MMSET           N               D5.G1.MATsvr.D5
+ MLRLP           N               D5.G1.MATsvr.D5
+ MAMLT           N               D5.G1.MATsvr.D5
+ MREMM           N               D5.G1.MATsvr.D5
+ MCAPU           N               D5.G1.MATsvr.D5
+ MRERC           N               D5.G1.MATsvr.D5
+ MSRSC           N               D5.G1.MATsvr.D5
+ MSRRC           N               D5.G1.MATsvr.D5
+ MISLB           N               D5.G1.MATsvr.D5
+ MFBMP           N               D5.G1.MATsvr.D5
+ MTKSR           N               D5.G1.MATsvr.D5
+ MOFSE           N               D5.G1.MATsvr.D5
+ MOUCH           N               D5.G1.MATsvr.D5
+* UIFsvr => D5.G1.RCPsvr.D5~
+ EEPR            N               D5.G1.RCPsvr.D5~
+ EPCS            N               D5.G1.RCPsvr.D5~
+ ESPR            N               D5.G1.RCPsvr.D5~
+* Add RCPSvr Msg For D5
+ EPLR            N               D5.G1.RCPsvr.D5~
+ ELPR            N               D5.G1.RCPsvr.D5~
+ EPCC            N               D5.G1.RCPsvr.D5~
+ EPCR            N               D5.G1.RCPsvr.D5~
+ MUUDF           N               D5.G1.MATsvr.D5
+ MCBLT           N               D5.G1.MATsvr.D5
+ MUFTI           N               D5.G1.MATsvr.D5
+ MMIMG           N               D5.G1.MATsvr.D5
+ MPIOM           N               D5.G1.MATsvr.D5
+ MPDHT           N               D5.G1.MATsvr.D5
+ MULNO           N               D5.G1.MATsvr.D5
+ MBACP           N               D5.G1.MATsvr.D5
+ MMSET           N               D5.G1.MATsvr.D5
+ MLRLP           N               D5.G1.MATsvr.D5
+ MAMLT           N               D5.G1.MATsvr.D5
+ MREMM           N               D5.G1.MATsvr.D5
+ MCAPU           N               D5.G1.MATsvr.D5
+ MRERC           N               D5.G1.MATsvr.D5
+ MSRSC           N               D5.G1.MATsvr.D5
+ MSRRC           N               D5.G1.MATsvr.D5
+ MISLB           N               D5.G1.MATsvr.D5
+ MFBMP           N               D5.G1.MATsvr.D5
+ MTKSR           N               D5.G1.MATsvr.D5
+ MOFSE           N               D5.G1.MATsvr.D5
+ MOUCH           N               D5.G1.MATsvr.D5
+* UIFsvr => D5.G1.RCPsvr.D5~
+ EEPR            N               D5.G1.RCPsvr.D5~
+ EPCS            N               D5.G1.RCPsvr.D5~
+ ESPR            N               D5.G1.RCPsvr.D5~
+* Add RCPSvr Msg For D5
+ EPLR            N               D5.G1.RCPsvr.D5~
+ ELPR            N               D5.G1.RCPsvr.D5~
+ EPCC            N               D5.G1.RCPsvr.D5~
+ EPCR            N               D5.G1.RCPsvr.D5~
+/MOSsvr
+ LCDS            N               D5.G1.GUIsvr.D5~
+ EILS            N               D5.G1.GUIsvr.D5~
+ * UIFsvr send to MIFsvr  ( MES Adv. Project )
+ DPAR            Y               D5.G1.MIFsvr.D5~
+ DMTL            Y               D5.G1.MIFsvr.D5~
+ * UIFsvr send to APSsvr D5.G1.APSsvr.D5
+ APDS            N               D5.G1.APSsvr.D5~
+ DAPD            N               D5.G1.APSsvr.D5~
+ * UIFsvr => D5.G1.EPSsvr.D5
+ EPS_RESA        N               D5.G1.EPSsvr.D5
+ EPS_ESSC        N               D5.G1.EPSsvr.D5
+ * UIFsvr => D5.G1.MOSsvr.D5
+ MOS_ACST        N               D5.G1.MOSsvr.D5~
+ MOS_DCST        N               D5.G1.MOSsvr.D5~
+ MOS_RMVP        N               D5.G1.MOSsvr.D5~
+ MOS_DSMT        N               D5.G1.MOSsvr.D5~
+ MOS_MVIN        N               D5.G1.MOSsvr.D5~
+ MOS_MVOU        N               D5.G1.MOSsvr.D5~
+ MOS_ALOC        N               D5.G1.MOSsvr.D5~
+ MOS_AMAT        N               D5.G1.MOSsvr.D5~
+ MOS_OPCH        N               D5.G1.MOSsvr.D5~
+ MOS_UNDO        N               D5.G1.MOSsvr.D5~
+ MOS_RMIS        N               D5.G1.MOSsvr.D5~
+ MOS_RMCP        N               D5.G1.MOSsvr.D5~
+ MOS_RMCS        N               D5.G1.MOSsvr.D5~
+ MOS_RNNT        N               D5.G1.MOSsvr.D5~
+ MOS_HLLT             N               D5.G1.MOSsvr.D5~
+ MOS_RLLT             N               D5.G1.MOSsvr.D5~
+[6/21/2017 10:28:05 AM]  EILS            N               D5.G1.GUIsvr.D5~
+ * UIFsvr send to MIFsvr  ( MES Adv. Project )
+ DPAR            Y               D5.G1.MIFsvr.D5~
+ DMTL            Y               D5.G1.MIFsvr.D5~
+ * UIFsvr send to APSsvr D5.G1.APSsvr.D5
+ APDS            N               D5.G1.APSsvr.D5~
+ DAPD            N               D5.G1.APSsvr.D5~
+ * UIFsvr => D5.G1.EPSsvr.D5
+ EPS_RESA        N               D5.G1.EPSsvr.D5
+ EPS_ESSC        N               D5.G1.EPSsvr.D5
+ * UIFsvr => D5.G1.MOSsvr.D5
+ MOS_ACST        N               D5.G1.MOSsvr.D5~
+ MOS_DCST        N               D5.G1.MOSsvr.D5~
+ MOS_RMVP        N               D5.G1.MOSsvr.D5~
+ MOS_DSMT        N               D5.G1.MOSsvr.D5~
+ MOS_MVIN        N               D5.G1.MOSsvr.D5~
+ MOS_MVOU        N               D5.G1.MOSsvr.D5~
+ MOS_ALOC        N               D5.G1.MOSsvr.D5~
+ MOS_AMAT        N               D5.G1.MOSsvr.D5~
+ MOS_OPCH        N               D5.G1.MOSsvr.D5~
+ MOS_UNDO        N               D5.G1.MOSsvr.D5~
+ MOS_RMIS        N               D5.G1.MOSsvr.D5~
+ MOS_RMCP        N               D5.G1.MOSsvr.D5~
+ MOS_RMCS        N               D5.G1.MOSsvr.D5~
+ MOS_RNNT        N               D5.G1.MOSsvr.D5~
+ MOS_HLLT        N               D5.G1.MOSsvr.D5~
+ MOS_RLLT        N               D5.G1.MOSsvr.D5~
+ MOS_MSMC        N               D5.G1.MOSsvr.D5~
+/GUIsvr
+*
+*    UIFsvr MESSAGE PATH INFORMATION
+*
+*COMMAND NAME    WORKLOT CHECK    DEST MAILBOX NAME
+*------------    -------------   (Must Be Single MailBox)
+*------------    -------------   ------------------------
+* UIFsvr        =>  D5.G1.GUIsvr.D5~
+ PFMSTART        N               D5.G1.PFMsvr.D5~
+ TCHG            N               D5.G1.DLYsvr.D5~
+ ADBP            N               D5.G1.GUIsvr.D5~
+ CJFM            N               D5.G1.GUIsvr.D5~
+ ACST            N               D5.G1.GUIsvr.D5~
+ AMAT            N               D5.G1.GUIsvr.D5~
+ BHCN            N               D5.G1.GUIsvr.D5~
+ BOLA            N               D5.G1.GUIsvr.D5~
+ CACC            N               D5.G1.GUIsvr.D5~
+ CBBS            N               D5.G1.GUIsvr.D5~
+ CCST            N               D5.G1.GUIsvr.D5~
+ CEMP            N               D5.G1.GUIsvr.D5~
+ CHEP            N               D5.G1.GUIsvr.D5~
+ CHLT            N               D5.G1.GUIsvr.D5~
+ CMCH            Y               D5.G1.GUIsvr.D5~
+ CPLT            Y               D5.G1.GUIsvr.D5~
+ CRLT            Y               D5.G1.GUIsvr.D5~
+ CRTN            N               D5.G1.GUIsvr.D5~
+ CSON            N               D5.G1.GUIsvr.D5~
+ DACM            N               D5.G1.GUIsvr.D5~
+ DCST            N               D5.G1.GUIsvr.D5~
+ DGLT            N               D5.G1.GUIsvr.D5~
+ DSTO            N               D5.G1.GUIsvr.D5~
+ ESCH            N               D5.G1.GUIsvr.D5~
+[6/21/2017 10:28:05 AM] 
+[6/21/2017 10:28:05 AM] 
+[6/21/2017 10:28:05 AM] 
+[6/21/2017 10:28:05 AM] 
+[6/21/2017 10:28:05 AM] 
+[6/21/2017 10:28:05 AM] 
+[6/21/2017 10:28:05 AM] 
+[6/21/2017 10:28:05 AM] 
+[6/21/2017 10:28:05 AM] 
+[6/21/2017 10:28:05 AM] 
+[6/21/2017 10:28:05 AM] 
+[6/21/2017 10:28:05 AM] 
+[6/21/2017 10:28:05 AM] 
+[6/21/2017 10:28:05 AM] 
+[6/21/2017 10:28:05 AM] 
+[6/21/2017 10:28:05 AM] 
+[6/21/2017 10:28:05 AM] 
+[6/21/2017 10:28:05 AM] 
+[6/21/2017 10:28:05 AM] 
+[6/21/2017 10:28:05 AM] 
+[6/21/2017 10:28:05 AM] 
+[6/21/2017 10:28:05 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:06 AM] 
+[6/21/2017 10:28:07 AM] 
+[6/21/2017 10:28:07 AM] 
+[6/21/2017 10:28:07 AM] 
+[6/21/2017 10:28:07 AM] 
+[6/21/2017 10:28:07 AM] 
+[6/21/2017 10:28:07 AM] 
+[6/21/2017 10:28:07 AM] 
+[6/21/2017 10:28:07 AM] 
+[6/21/2017 10:28:07 AM] 
+[6/21/2017 10:28:07 AM] 
+[6/21/2017 10:28:07 AM] 
+[6/21/2017 10:28:07 AM] 
+[6/21/2017 10:28:07 AM] 
+[6/21/2017 10:28:07 AM] 
+[6/21/2017 10:28:07 AM] 
+[6/21/2017 10:28:07 AM] 
+[6/21/2017 10:28:08 AM] 
+[6/21/2017 10:28:08 AM] 
+[6/21/2017 10:28:08 AM] 
+[6/21/2017 10:28:08 AM] 
+[6/21/2017 10:28:08 AM] 
+[6/21/2017 10:28:08 AM] 
+[6/21/2017 10:28:08 AM] 
+[6/21/2017 10:28:08 AM] 
+[6/21/2017 10:28:08 AM] 
+[6/21/2017 10:28:08 AM] 
+[6/21/2017 10:28:08 AM] 
+[6/21/2017 10:28:08 AM] 
+[6/21/2017 10:28:08 AM] 
+[6/21/2017 10:28:08 AM] 
+[6/21/2017 10:28:08 AM] 
+[6/21/2017 10:28:08 AM] 
+[6/21/2017 10:28:10 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:11 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:12 AM] 
+[6/21/2017 10:28:13 AM] 
+[6/21/2017 10:28:18 AM] 
+[6/21/2017 10:28:18 AM] 
+[6/21/2017 10:28:18 AM] 
+[6/21/2017 10:28:18 AM] 
+[6/21/2017 10:28:18 AM] 
+[6/21/2017 10:28:18 AM] 
+[6/21/2017 10:28:18 AM] 
+[6/21/2017 10:28:18 AM] 
+[6/21/2017 10:28:18 AM] 
+[6/21/2017 10:28:18 AM] 
+[6/21/2017 10:28:18 AM] 
+[6/21/2017 10:28:18 AM] 
+[6/21/2017 10:28:18 AM] 
+[6/21/2017 10:28:18 AM] 
+[6/21/2017 10:28:19 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:21 AM] 
+[6/21/2017 10:28:22 AM] 
+[6/21/2017 10:28:22 AM] 
+[6/21/2017 10:28:22 AM] 
+[6/21/2017 10:28:22 AM] 
+[6/21/2017 10:28:22 AM] 
+[6/21/2017 10:28:22 AM] 
+[6/21/2017 10:28:22 AM] 
+[6/21/2017 10:28:22 AM] 
+[6/21/2017 10:28:22 AM] 
+[6/21/2017 10:28:22 AM] 
+[6/21/2017 10:28:22 AM] 
+[6/21/2017 10:28:23 AM] 
+[6/21/2017 10:28:23 AM] 
+[6/21/2017 10:28:23 AM] 
+[6/21/2017 10:28:23 AM] 
+[6/21/2017 10:28:23 AM] 
+[6/21/2017 10:28:23 AM] 
+[6/21/2017 10:28:23 AM] 
+[6/21/2017 10:28:23 AM] 
+[6/21/2017 10:28:23 AM] 
+[6/21/2017 10:28:23 AM] 
+[6/21/2017 10:28:23 AM] 
+[6/21/2017 10:28:24 AM] 
+[6/21/2017 10:28:24 AM] 
+[6/21/2017 10:28:24 AM] 
+[6/21/2017 10:28:24 AM] 
+[6/21/2017 10:28:24 AM] 
+[6/21/2017 10:28:24 AM] 
+[6/21/2017 10:28:24 AM] 
+[6/21/2017 10:28:24 AM] 
+[6/21/2017 10:28:24 AM] 
+[6/21/2017 10:28:24 AM] 
+[6/21/2017 10:28:24 AM] 
+[6/21/2017 10:28:24 AM] 
+[6/21/2017 10:28:24 AM] 
+[6/21/2017 10:28:24 AM] 
+[6/21/2017 10:28:24 AM] 
+[6/21/2017 10:28:24 AM] 
+[6/21/2017 10:28:24 AM] 
+[6/21/2017 10:28:24 AM] 
+[6/21/2017 10:28:24 AM] 
+[6/21/2017 10:28:24 AM] 
+[6/21/2017 10:28:24 AM] 
+[6/21/2017 10:28:24 AM] 
+[6/21/2017 10:28:24 AM] 
+[6/21/2017 10:28:25 AM] 
+[6/21/2017 10:28:25 AM] 
+[6/21/2017 10:28:25 AM] 
+[6/21/2017 10:28:25 AM] 
+[6/21/2017 10:28:25 AM] 
+[6/21/2017 10:28:25 AM] 
+[6/21/2017 10:28:25 AM] 
+[6/21/2017 10:28:25 AM] 
+[6/21/2017 10:28:31 AM] 
+[6/21/2017 10:28:31 AM] 
+[6/21/2017 10:28:31 AM] 
+[6/21/2017 10:28:31 AM] 
+[6/21/2017 10:28:31 AM] 
+[6/21/2017 10:28:31 AM] 
+[6/21/2017 10:28:31 AM] 
+[6/21/2017 10:28:31 AM] 
+[6/21/2017 10:28:31 AM] 
+[6/21/2017 10:28:31 AM] 
+[6/21/2017 10:28:31 AM] 
+[6/21/2017 10:28:31 AM] 
+[6/21/2017 10:28:31 AM] 
+[6/21/2017 10:28:31 AM] 
+[6/21/2017 10:28:31 AM] 
+[6/21/2017 10:28:31 AM] 
+[6/21/2017 10:28:31 AM] 
+[6/21/2017 10:28:31 AM] 
+[6/21/2017 10:28:31 AM] 
+[6/21/2017 10:28:31 AM] 
+[6/21/2017 10:28:32 AM] 
+[6/21/2017 10:28:32 AM] 
+[6/21/2017 10:28:32 AM] 
+[6/21/2017 10:28:32 AM] 
+[6/21/2017 10:28:32 AM] 
+[6/21/2017 10:28:32 AM] 
+[6/21/2017 10:28:32 AM] 
+[6/21/2017 10:28:32 AM] 
+[6/21/2017 10:28:32 AM] 
+[6/21/2017 10:28:32 AM] 
+[6/21/2017 10:28:32 AM] 
+[6/21/2017 10:28:32 AM] 
+[6/21/2017 10:28:32 AM] 
+[6/21/2017 10:28:32 AM] 
+[6/21/2017 10:28:32 AM] 
+[6/21/2017 10:28:32 AM] 
+[6/21/2017 10:28:32 AM] 
+[6/21/2017 10:28:32 AM] 
+[6/21/2017 10:28:32 AM] 
+[6/21/2017 10:28:32 AM] 
+[6/21/2017 10:28:33 AM] 
+[6/21/2017 10:28:33 AM] 
+[6/21/2017 10:28:33 AM] 
+[6/21/2017 10:28:33 AM] 
+[6/21/2017 10:28:33 AM] 
+[6/21/2017 10:28:33 AM] 
+[6/21/2017 10:28:33 AM] 
+[6/21/2017 10:28:33 AM] 
+[6/21/2017 10:28:33 AM] 
+[6/21/2017 10:28:33 AM] 
+[6/21/2017 10:28:33 AM] 
+[6/21/2017 10:28:33 AM] 
+[6/21/2017 10:28:33 AM] 
+[6/21/2017 10:28:33 AM] 
+[6/21/2017 10:28:34 AM] 
+[6/21/2017 10:28:34 AM] 
+[6/21/2017 10:28:34 AM] 
+[6/21/2017 10:28:34 AM] 
+[6/21/2017 10:28:34 AM] 
+[6/21/2017 10:28:34 AM] 
+[6/21/2017 10:28:34 AM] 
+[6/21/2017 10:28:34 AM] 
+[6/21/2017 10:28:34 AM] 
+[6/21/2017 10:28:34 AM] 
+[6/21/2017 10:28:34 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:35 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:36 AM] 
+[6/21/2017 10:28:37 AM] 
+[6/21/2017 10:29:10 AM]  ECSL            N               D5.G1.GUIsvr.D5~
+ PRPM            N               D5.G1.GUIsvr.D5~
+ ACHK            N               D5.G1.GUIsvr.D5~
+ REOI            N               D5.G1.GUIsvr.D5~
+ HECO            N               D5.G1.GUIsvr.D5~
+ JMMC            N               D5.G1.GUIsvr.D5~
+ ICIM            N               D5.G1.GUIsvr.D5~
+ EGHP            N               D5.G1.GUIsvr.D5~
+ RNAC            N               D5.G1.GUIsvr.D5~
+ UCPC            N               D5.G1.GUIsvr.D5~
+ UECI            N               D5.G1.GUIsvr.D5~
+ GJSC            N               D5.G1.GUIsvr.D5~
+ ROEM            N               D5.G1.GUIsvr.D5~
+ UAMT            N               D5.G1.GUIsvr.D5~
+ ROAP            N               D5.G1.TAPsvr.D5~
+ RANL            N               D5.G1.GUIsvr.D5~
+ CHAP            N               D5.G1.TAPsvr.D5~
+ ESAC            N               D5.G1.TAPsvr.D5~
+ GASM            N               D5.G1.GUIsvr.D5~
+ EWNU            N               D5.G1.GUIsvr.D5~
+//------------------------------------------------
+* UIFsvr => D5.G1.OPTsvr.D5~
+ COSC            Y               D5.G1.OPTsvr.D5C
+ COSL            Y               D5.G1.OPTsvr.D5C
+ COSS            Y               D5.G1.OPTsvr.D5C
+ COSR            Y               D5.G1.OPTsvr.D5C
+ CLSG            Y               D5.G1.LSGsvr.D5C
+ COLS            Y               D5.G1.LSTsvr.D5C
+* UIFsvr => D5.G1.MIFsvr.D5~
+ DMAP            Y               D5.G1.MIFsvr.D5
+ EAPD            Y               D5.G1.MIFsvr.D5
+[6/21/2017 10:29:10 AM] 
+[6/21/2017 10:29:10 AM] 
+[6/21/2017 10:29:10 AM] 
+[6/21/2017 10:29:10 AM] 
+[6/21/2017 10:29:10 AM] 
+[6/21/2017 10:29:10 AM] 
+[6/21/2017 10:29:10 AM] 
+[6/21/2017 10:29:10 AM] 
+[6/21/2017 10:29:10 AM] 
+[6/21/2017 10:29:10 AM] 
+[6/21/2017 10:29:10 AM] 
+[6/21/2017 10:29:10 AM] 
+[6/21/2017 10:29:10 AM] 
+[6/21/2017 10:29:10 AM] 
+[6/21/2017 10:29:23 AM] 
+[6/21/2017 10:29:24 AM] 
+[6/21/2017 10:29:24 AM] 
+[6/21/2017 10:29:24 AM] 
+[6/21/2017 10:29:24 AM] 
+[6/21/2017 10:29:24 AM] 
+[6/21/2017 10:29:24 AM] 
+[6/21/2017 10:29:24 AM] 
+[6/21/2017 10:29:24 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:29:25 AM] 
+[6/21/2017 10:32:15 AM]  CSLI            N               D5.G1.MHSsvr.D5~
+ CSCI            N               D5.G1.MHSsvr.D5~
+ CSPR            N               D5.G1.MHSsvr.D5~
+ CSTR            N               D5.G1.MHSsvr.D5~
+ SCST            N               D5.G1.MHSsvr.D5~
+ SCHG            N               D5.G1.MHSsvr.D5~
+ CDIR            N               D5.G1.MHSsvr.D5~
+ SMDL            N               D5.G1.MHSsvr.D5~
+ CFRM            N               D5.G1.MHSsvr.D5~
+ CRNG            N               D5.G1.MHSsvr.D5~
+ CLRS            N               D5.G1.MHSsvr.D5~
+ CURS            N               D5.G1.MHSsvr.D5~
+ CTLE            N               D5.G1.MHSsvr.D5~
+ SMCF            N               D5.G1.MHSsvr.D5~
+ CTMR            N               D5.G1.MHSsvr.D5~
+ CUSE            N               D5.G1.MHSsvr.D5~
+ CMRC            N               D5.G1.MHSsvr.D5~
+ CEAT            N               D5.G1.MHSsvr.D5~
+ CEDT            N               D5.G1.MHSsvr.D5~
+ STEC            N               D5.G1.MHSsvr.D5~
+* UIFsvr => D5.G1.SRTsvr.D5~
+ CMOD            N               D5.G1.SRTsvr.D5~
+ COPT            N               D5.G1.SRTsvr.D5~
+ COPC            N               D5.G1.SRTsvr.D5~
+ CPST            N               D5.G1.SRTsvr.D5~
+ CGIS            N               D5.G1.SRTsvr.D5~
+ CGIC            N               D5.G1.SRTsvr.D5~
+ CPSC            N               D5.G1.SRTsvr.D5~
+ CPRS            N               D5.G1.SRTsvr.D5~
+ CPRC            N               D5.G1.SRTsvr.D5~
+* UIFsvr => D5.G1.RDSsvr.D5~
+"UIFMSG.CFG" File is read only
+ CSLI            N               D5.G1.MHSsvr.D5~
+ CSCI            N               D5.G1.MHSsvr.D5~
+ CSPR            N               D5.G1.MHSsvr.D5~
+ CSTR            N               D5.G1.MHSsvr.D5~
+ SCST            N               D5.G1.MHSsvr.D5~
+ SCHG            N               D5.G1.MHSsvr.D5~
+ CDIR            N               D5.G1.MHSsvr.D5~
+ SMDL            N               D5.G1.MHSsvr.D5~
+ CFRM            N               D5.G1.MHSsvr.D5~
+ CRNG            N               D5.G1.MHSsvr.D5~
+ CLRS            N               D5.G1.MHSsvr.D5~
+ CURS            N               D5.G1.MHSsvr.D5~
+ CTLE            N               D5.G1.MHSsvr.D5~
+ SMCF            N               D5.G1.MHSsvr.D5~
+ CTMR            N               D5.G1.MHSsvr.D5~
+ CUSE            N               D5.G1.MHSsvr.D5~
+ CMRC            N               D5.G1.MHSsvr.D5~
+ CEAT            N               D5.G1.MHSsvr.D5~
+ CEDT            N               D5.G1.MHSsvr.D5~
+ STEC            N               D5.G1.MHSsvr.D5~
+[6/21/2017 10:32:15 AM] Connection closed by foreign host.
+
+[END] 6/21/2017 10:32:15 AM

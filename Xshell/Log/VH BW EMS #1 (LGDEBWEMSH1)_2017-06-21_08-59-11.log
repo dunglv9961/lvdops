@@ -1,0 +1,24 @@
+[BEGIN] 6/21/2017 08:59:11 AM
+[6/21/2017 08:59:11 AM] Disconnected from remote host(VH Backup BCV (LGDABUH2)) at 08:58:45.
+Type `help' to learn how to use Xshell prompt.
+[c:\~]$ 
+Looking up proxy server '10.119.200.44'...
+Host '10.119.200.44' resolved to 10.119.200.44.
+Connecting to 10.119.200.44:21080...
+Connection established.
+To escape to local shell, press 'Ctrl+Alt+]'.
+Warning: The host key of 10.119.211.71 (port: 22) is not registered.
+The authenticity of host '10.119.211.71:22 (10.119.200.44:22)' can't be established.
+DSA key fingerprint is 44:78:f0:b9:a2:3c:c5:18:20:09:ff:75:5b:c1:d2:6c.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added '10.119.211.71' (DSA) to the list of known hosts.
+Connecting to 10.119.211.71
+[6/21/2017 08:59:11 AM] USER[1007033524], PC[10.119.236.192], TARGET[10.119.211.71]
+[6/21/2017 08:59:11 AM] Warning: your password will expire in 6 days
+[6/21/2017 08:59:11 AM] Last login: Tue Jun 20 15:11:45 2017 from 10.119.200.45
+[6/21/2017 08:59:11 AM] 
+[6/21/2017 08:59:11 AM] INFORMATION: This session will expire after 8271 hours and 0 minutes.
+[6/21/2017 08:59:40 AM] [xtmplsk@LGDEBWEMSH1 ~]$  
+[6/21/2017 08:59:40 AM] Connection closed by foreign host.
+
+[END] 6/21/2017 08:59:40 AM
