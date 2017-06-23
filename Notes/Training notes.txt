@@ -35,6 +35,22 @@ https://10.119.211.22
 sysadmin / P@ssw0rd
 
 
+Change to root account:
+Support Maintenance
+
+/opt/Symantec/sdcssagent/IPS/sisipsoverride.sh
+2. Override Prevention Completely
+6. 8 hours
+
+* Check deamon service
+bpps -a | grep /bpdbm
+bpps -a | grep /bpjobd
+bpps -a | grep /nbemm
+bpps -a | grep /nbrb
+bpps -a | grep /bprd
+bpps -a | grep /nbpem
+
+
 --------------------SAN/NAS---------------
 MES NAS 
 https://10.119.211.122:8080/
