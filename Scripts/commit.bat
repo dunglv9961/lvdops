@@ -4,4 +4,4 @@ e:
 cd E:\Data\lvdops
 git add -A
 git commit -a -m "Backup"
-git pushs
+git push
