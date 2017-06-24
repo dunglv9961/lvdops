@@ -36,11 +36,10 @@ sysadmin / P@ssw0rd
 
 
 Change to root account:
-Support Maintenance
-
-/opt/Symantec/sdcssagent/IPS/sisipsoverride.sh
-2. Override Prevention Completely
-6. 8 hours
+type: Support Maintenance
+type: /opt/Symantec/sdcssagent/IPS/sisipsoverride.sh
+Select 2. Override Prevention Completely
+Select 6. 8 hours
 
 * Check deamon service
 bpps -a | grep /bpdbm

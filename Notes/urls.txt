@@ -2,7 +2,8 @@ https://www.microsoft.com/net/framework/versions/net462?source=getdotnet&utm_sou
 
 
 
-
+Connection Information:
+gcloudvcs.lgdisplay.com
 
 
 
