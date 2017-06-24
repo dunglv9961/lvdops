@@ -35,7 +35,7 @@ https://10.119.211.22
 sysadmin / P@ssw0rd
 
 
-Change to root account in m:
+Change to root account in maintenance mode:
 type: Support Maintenance
 type: /opt/Symantec/sdcssagent/IPS/sisipsoverride.sh
 Select 2. Override Prevention Completely
