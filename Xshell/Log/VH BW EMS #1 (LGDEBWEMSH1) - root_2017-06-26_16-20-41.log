@@ -1,0 +1,20 @@
+[BEGIN] 26/06/2017 04:20:41 PM
+[26/06/2017 04:20:41 PM] Disconnected from remote host(VH BW HUB #2 (LGDEBWHUBH2)) at 16:16:41.
+Type `help' to learn how to use Xshell prompt.
+[e:\~]$ 
+Looking up proxy server '10.119.200.44'...
+Host '10.119.200.44' resolved to 10.119.200.44.
+Connecting to 10.119.200.44:21080...
+Connection established.
+To escape to local shell, press 'Ctrl+Alt+]'.
+Connecting to 10.119.211.71
+[26/06/2017 04:20:41 PM] USER[1007033524], PC[10.119.236.192], TARGET[10.119.211.71]
+[26/06/2017 04:20:41 PM] Last login: Fri Apr 28 18:20:34 2017 from 10.119.200.44
+[26/06/2017 04:20:41 PM] 
+[26/06/2017 04:20:41 PM] INFORMATION: This session will expire after 8143 hours and 39 minutes.
+[26/06/2017 04:32:16 PM] [root@LGDEBWEMSH1 ~]# exit
+[26/06/2017 04:32:16 PM] logout
+[26/06/2017 04:32:16 PM] 
+[26/06/2017 04:32:16 PM] Connection closed by foreign host.
+
+[END] 26/06/2017 04:32:16 PM

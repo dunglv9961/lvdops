@@ -1,0 +1,25 @@
+[BEGIN] 26/06/2017 03:44:07 PM
+[26/06/2017 03:44:07 PM] Disconnected from remote host(VH BW EMS #2 (LGDEBWEMSH2) - xadmlvd) at 15:41:59.
+Type `help' to learn how to use Xshell prompt.
+[e:\~]$ 
+Looking up proxy server '10.119.200.44'...
+Host '10.119.200.44' resolved to 10.119.200.44.
+Connecting to 10.119.200.44:21080...
+Connection established.
+To escape to local shell, press 'Ctrl+Alt+]'.
+Connecting to 10.119.211.71
+[26/06/2017 03:44:07 PM] USER[1007033524], PC[10.119.236.192], TARGET[10.119.211.71]
+[26/06/2017 03:44:07 PM] Warning: your password will expire in 1 day
+[26/06/2017 03:44:07 PM] Last login: Mon Jun 26 15:31:27 2017 from 10.119.200.44
+[26/06/2017 03:44:07 PM] 
+[26/06/2017 03:44:07 PM] INFORMATION: This session will expire after 8144 hours and 15 minutes.
+[26/06/2017 03:44:13 PM] [xtmplsk@LGDEBWEMSH1 ~]$ su -
+[26/06/2017 03:44:15 PM] Password: 
+[26/06/2017 03:45:11 PM] [root@LGDEBWEMSH1 ~]# exit
+[26/06/2017 03:45:11 PM] logout
+[26/06/2017 03:45:13 PM] [xtmplsk@LGDEBWEMSH1 ~]$ exit
+[26/06/2017 03:45:13 PM] logout
+[26/06/2017 03:45:13 PM] 
+[26/06/2017 03:45:13 PM] Connection closed by foreign host.
+
+[END] 26/06/2017 03:45:13 PM

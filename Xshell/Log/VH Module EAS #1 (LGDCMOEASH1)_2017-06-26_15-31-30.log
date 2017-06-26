@@ -1,0 +1,18 @@
+[BEGIN] 26/06/2017 03:31:30 PM
+[26/06/2017 03:31:30 PM] Connecting to 10.119.211.85
+[26/06/2017 03:31:30 PM] USER[1007033524], PC[10.119.236.192], TARGET[10.119.211.85]
+[26/06/2017 03:31:30 PM] Warning: your password will expire in 1 day
+[26/06/2017 03:31:30 PM] Last login: Mon Jun 26 15:00:38 2017 from 10.119.200.44
+[26/06/2017 03:31:30 PM] 
+[26/06/2017 03:31:30 PM] INFORMATION: This session will expire after 8144 hours and 28 minutes.
+[26/06/2017 03:31:36 PM] [xtmplsk@LGDCMOEASH1 ~]$ su -
+[26/06/2017 03:31:53 PM] Password:  
+[26/06/2017 03:32:02 PM] [root@LGDCMOEASH1 ~]# usermod -c "Le Viet Dung" xadmlvd
+[26/06/2017 03:32:19 PM] [root@LGDCMOEASH1 ~]# cat /etc/passwd | grep xadmlvd
+[26/06/2017 03:32:19 PM] xadmlvd:x:9001:9001:Le Viet Dung:/home/xadmlvd:/bin/bash
+[26/06/2017 03:34:33 PM] [root@LGDCMOEASH1 ~]# exit
+[26/06/2017 03:34:33 PM] logout
+[26/06/2017 03:34:36 PM] [xtmplsk@LGDCMOEASH1 ~]$ 
+[26/06/2017 03:34:36 PM] Connection closed by foreign host.
+
+[END] 26/06/2017 03:34:36 PM

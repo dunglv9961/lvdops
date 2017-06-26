@@ -1,0 +1,12 @@
+[BEGIN] 26/06/2017 03:56:35 PM
+[26/06/2017 03:56:35 PM] Connecting to 10.119.211.71
+[26/06/2017 03:56:35 PM] USER[1007033524], PC[10.119.236.192], TARGET[10.119.211.71]
+[26/06/2017 03:56:35 PM] Last login: Mon Jun 26 15:05:13 2017 from 10.119.200.44
+[26/06/2017 03:56:35 PM] 
+[26/06/2017 03:56:35 PM] INFORMATION: This session will expire after 8144 hours and 3 minutes.
+[26/06/2017 03:56:47 PM] [xadmlvd@LGDEBWEMSH1 ~]$ chage -l xtmplsk
+[26/06/2017 03:56:48 PM] chage: Permission denied.
+[26/06/2017 03:57:00 PM] [xadmlvd@LGDEBWEMSH1 ~]$ exit
+[26/06/2017 03:57:00 PM] Connection closed by foreign host.
+
+[END] 26/06/2017 03:57:00 PM

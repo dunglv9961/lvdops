@@ -1,0 +1,32 @@
+[BEGIN] 26/06/2017 04:06:30 PM
+[26/06/2017 04:06:30 PM] Disconnected from remote host(VH BW EMS #1 (LGDEBWEMSH1)) at 16:06:19.
+Type `help' to learn how to use Xshell prompt.
+[e:\~]$ 
+Looking up proxy server '10.119.200.44'...
+Host '10.119.200.44' resolved to 10.119.200.44.
+Connecting to 10.119.200.44:21080...
+Connection established.
+To escape to local shell, press 'Ctrl+Alt+]'.
+Connecting to 10.119.211.72
+[26/06/2017 04:06:30 PM] USER[1007033524], PC[10.119.236.192], TARGET[10.119.211.72]
+[26/06/2017 04:06:30 PM] Warning: your password will expire in 1 day
+[26/06/2017 04:06:30 PM] Last login: Mon Jun 26 15:45:27 2017 from 10.119.200.44
+[26/06/2017 04:06:30 PM] 
+[26/06/2017 04:06:30 PM] INFORMATION: This session will expire after 8143 hours and 53 minutes.
+[26/06/2017 04:06:35 PM] [xtmplsk@LGDEBWEMSH2 ~]$ su -
+[26/06/2017 04:06:36 PM] Password: 
+[26/06/2017 04:06:46 PM] [root@LGDEBWEMSH2 ~]# chage -I -1 -m 0 -M 400 -E -1 xtmplsk
+[26/06/2017 04:06:57 PM] [root@LGDEBWEMSH2 ~]# chage -l xtmplsk
+[26/06/2017 04:06:57 PM] Last password change					: Mar 29, 2017
+[26/06/2017 04:06:57 PM] Password expires					: May 03, 2018
+[26/06/2017 04:06:57 PM] Password inactive					: never
+[26/06/2017 04:06:57 PM] Account expires						: never
+[26/06/2017 04:06:57 PM] Minimum number of days between password change		: 0
+[26/06/2017 04:06:57 PM] Maximum number of days between password change		: 400
+[26/06/2017 04:06:57 PM] Number of days of warning before password expires	: 7
+[26/06/2017 04:07:16 PM] [root@LGDEBWEMSH2 ~]# exit
+[26/06/2017 04:07:16 PM] logout
+[26/06/2017 04:07:19 PM] [xtmplsk@LGDEBWEMSH2 ~]$ exit
+[26/06/2017 04:07:19 PM] Connection closed by foreign host.
+
+[END] 26/06/2017 04:07:19 PM

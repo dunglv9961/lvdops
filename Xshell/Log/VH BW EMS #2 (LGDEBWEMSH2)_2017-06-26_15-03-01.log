@@ -1,0 +1,21 @@
+[BEGIN] 26/06/2017 03:03:01 PM
+[26/06/2017 03:03:01 PM] Connecting to 10.119.211.72
+[26/06/2017 03:03:01 PM] USER[1007033524], PC[10.119.236.192], TARGET[10.119.211.72]
+[26/06/2017 03:03:01 PM] Warning: your password will expire in 1 day
+[26/06/2017 03:03:01 PM] Last login: Mon Jun 26 07:56:10 2017 from 10.119.200.44
+[26/06/2017 03:03:01 PM] 
+[26/06/2017 03:03:01 PM] INFORMATION: This session will expire after 8144 hours and 56 minutes.
+[26/06/2017 03:03:16 PM] [xtmplsk@LGDEBWEMSH2 ~]$ su -
+[26/06/2017 03:03:18 PM] Password: 
+[26/06/2017 03:03:34 PM] [root@LGDEBWEMSH2 ~]# useradd xadmlvd
+[26/06/2017 03:03:42 PM] [root@LGDEBWEMSH2 ~]# passwd xadmlvd
+[26/06/2017 03:03:42 PM] Changing password for user xadmlvd.
+[26/06/2017 03:03:55 PM] New password:  
+[26/06/2017 03:03:56 PM] Retype new password: 
+[26/06/2017 03:03:56 PM] passwd: all authentication tokens updated successfully.
+[26/06/2017 03:04:07 PM] [root@LGDEBWEMSH2 ~]# exit
+[26/06/2017 03:04:07 PM] logout
+[26/06/2017 03:04:09 PM] [xtmplsk@LGDEBWEMSH2 ~]$ 
+[26/06/2017 03:04:09 PM] Connection closed by foreign host.
+
+[END] 26/06/2017 03:04:09 PM

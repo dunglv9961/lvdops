@@ -1,0 +1,157 @@
+[BEGIN] 26/06/2017 02:38:45 PM
+[26/06/2017 02:38:45 PM] Disconnected from remote host(VH MES AP #1 (LGDAMEH1) - messvcd5) at 14:38:39.
+Type `help' to learn how to use Xshell prompt.
+[e:\~]$ 
+Looking up proxy server '10.119.200.44'...
+Host '10.119.200.44' resolved to 10.119.200.44.
+Connecting to 10.119.200.44:21080...
+Connection established.
+To escape to local shell, press 'Ctrl+Alt+]'.
+Connecting to 10.119.211.151
+[26/06/2017 02:38:46 PM] USER[1007033524], PC[10.119.236.192], TARGET[10.119.211.151]
+[26/06/2017 02:38:48 PM] Last successful login:       Sat Jun 24 10:29:07 TST 2017 10.119.200.45  
+[26/06/2017 02:38:48 PM] Last authentication failure: Fri May 19 17:05:18 TST 2017 10.119.200.45  
+[26/06/2017 02:38:48 PM] Last login: Sat Jun 24 10:29:09 2017 from 10.119.200.45
+[26/06/2017 02:38:48 PM] Warning!! Authorized users only. All activity may be monitored and reported.
+[26/06/2017 02:38:48 PM] 
+[26/06/2017 02:38:48 PM] 
+[26/06/2017 02:38:48 PM] INFORMATION: This session will expire after 8145 hours and 21 minutes.
+[26/06/2017 02:38:48 PM] (c)Copyright 1983-2006 Hewlett-Packard Development Company, L.P.
+[26/06/2017 02:38:48 PM] (c)Copyright 1979, 1980, 1983, 1985-1993 The Regents of the Univ. of California
+[26/06/2017 02:38:48 PM] (c)Copyright 1980, 1984, 1986 Novell, Inc.
+[26/06/2017 02:38:48 PM] (c)Copyright 1986-2000 Sun Microsystems, Inc.
+[26/06/2017 02:38:48 PM] (c)Copyright 1985, 1986, 1988 Massachusetts Institute of Technology
+[26/06/2017 02:38:48 PM] (c)Copyright 1989-1993  The Open Software Foundation, Inc.
+[26/06/2017 02:38:48 PM] (c)Copyright 1990 Motorola, Inc.
+[26/06/2017 02:38:48 PM] (c)Copyright 1990, 1991, 1992 Cornell University
+[26/06/2017 02:38:48 PM] (c)Copyright 1989-1991 The University of Maryland
+[26/06/2017 02:38:48 PM] (c)Copyright 1988 Carnegie Mellon University
+[26/06/2017 02:38:48 PM] (c)Copyright 1991-2006 Mentat Inc.
+[26/06/2017 02:38:48 PM] (c)Copyright 1996 Morning Star Technologies, Inc.
+[26/06/2017 02:38:48 PM] (c)Copyright 1996 Progressive Systems, Inc.
+[26/06/2017 02:38:48 PM] 
+[26/06/2017 02:38:48 PM] Confidential computer software. Valid license from HP required for
+[26/06/2017 02:38:48 PM] possession, use or copying.  Consistent with FAR 12.211 and 12.212,
+[26/06/2017 02:38:48 PM] Commercial Computer Software, Computer Software Documentation, and
+[26/06/2017 02:38:48 PM] Technical Data for Commercial Items are licensed to the U.S. Government
+[26/06/2017 02:38:48 PM] under vendor's standard commercial license.
+[26/06/2017 02:38:48 PM] 
+[26/06/2017 02:38:48 PM] Warning!! Authorized users only. All activity may be monitored and reported.
+[26/06/2017 02:38:48 PM] 
+[26/06/2017 02:38:55 PM] LGDAMEH1:/home/sysadm01>cat etc/passwd                                                                                                                                                  
+[26/06/2017 02:38:55 PM] cat: Cannot open etc/passwd: No such file or directory
+[26/06/2017 02:39:08 PM] LGDAMEH1:/home/sysadm01>su -
+[26/06/2017 02:39:08 PM] Password: 
+[26/06/2017 02:39:08 PM] (c)Copyright 1983-2006 Hewlett-Packard Development Company, L.P.
+[26/06/2017 02:39:08 PM] (c)Copyright 1979, 1980, 1983, 1985-1993 The Regents of the Univ. of California
+[26/06/2017 02:39:08 PM] (c)Copyright 1980, 1984, 1986 Novell, Inc.
+[26/06/2017 02:39:08 PM] (c)Copyright 1986-2000 Sun Microsystems, Inc.
+[26/06/2017 02:39:08 PM] (c)Copyright 1985, 1986, 1988 Massachusetts Institute of Technology
+[26/06/2017 02:39:08 PM] (c)Copyright 1989-1993  The Open Software Foundation, Inc.
+[26/06/2017 02:39:08 PM] (c)Copyright 1990 Motorola, Inc.
+[26/06/2017 02:39:08 PM] (c)Copyright 1990, 1991, 1992 Cornell University
+[26/06/2017 02:39:08 PM] (c)Copyright 1989-1991 The University of Maryland
+[26/06/2017 02:39:08 PM] (c)Copyright 1988 Carnegie Mellon University
+[26/06/2017 02:39:08 PM] (c)Copyright 1991-2006 Mentat Inc.
+[26/06/2017 02:39:08 PM] (c)Copyright 1996 Morning Star Technologies, Inc.
+[26/06/2017 02:39:08 PM] (c)Copyright 1996 Progressive Systems, Inc.
+[26/06/2017 02:39:08 PM] 
+[26/06/2017 02:39:08 PM] Confidential computer software. Valid license from HP required for
+[26/06/2017 02:39:08 PM] possession, use or copying.  Consistent with FAR 12.211 and 12.212,
+[26/06/2017 02:39:08 PM] Commercial Computer Software, Computer Software Documentation, and
+[26/06/2017 02:39:08 PM] Technical Data for Commercial Items are licensed to the U.S. Government
+[26/06/2017 02:39:08 PM] under vendor's standard commercial license.
+[26/06/2017 02:39:08 PM] 
+[26/06/2017 02:39:08 PM] Warning!! Authorized users only. All activity may be monitored and reported.
+[26/06/2017 02:39:08 PM] 
+[26/06/2017 02:39:08 PM] You have mail.
+[26/06/2017 02:39:09 PM]                                                                                                                                                                                         
+[26/06/2017 02:39:09 PM] Value of TERM has been set to "vt100". 
+[26/06/2017 02:39:09 PM] WARNING:  YOU ARE SUPERUSER !!
+[26/06/2017 02:39:09 PM] 
+[26/06/2017 02:39:17 PM] LGDAMEH1:/>cat /etc/passwd
+[26/06/2017 02:39:17 PM] root:x:0:3::/:/sbin/sh
+[26/06/2017 02:39:17 PM] daemon:x:1:5::/:/sbin/sh
+[26/06/2017 02:39:17 PM] bin:x:2:2::/usr/bin:/sbin/sh
+[26/06/2017 02:39:17 PM] sys:x:3:3::/:
+[26/06/2017 02:39:17 PM] adm:x:4:4::/var/adm:/sbin/sh
+[26/06/2017 02:39:17 PM] uucp:x:5:3::/var/spool/uucppublic:/usr/lbin/uucp/uucico
+[26/06/2017 02:39:17 PM] lp:x:9:7::/var/spool/lp:/sbin/sh
+[26/06/2017 02:39:17 PM] nuucp:x:11:11::/var/spool/uucppublic:/usr/lbin/uucp/uucico
+[26/06/2017 02:39:17 PM] hpdb:x:27:1:ALLBASE:/:/sbin/sh
+[26/06/2017 02:39:17 PM] nobody:x:-2:-2::/:
+[26/06/2017 02:39:17 PM] www:x:30:1::/:
+[26/06/2017 02:39:17 PM] smbnull:x:101:101:DO NOT USE OR DELETE - needed by Samba:/var/opt/samba/nologin:/bin/false
+[26/06/2017 02:39:17 PM] cimsrvr:x:102:102:WBEM Services:/var/opt/wbem:/sbin/sh
+[26/06/2017 02:39:17 PM] opc_op:x:777:177:OVO default operator:/home/opc_op:/sbin/sh
+[26/06/2017 02:39:17 PM] tftp:x:103:103:Trivial FTP user:/home/tftp:/usr/bin/false
+[26/06/2017 02:39:17 PM] sfmdb:x:104:20::/home/sfmdb:/sbin/sh
+[26/06/2017 02:39:17 PM] sshd:x:105:104:sshd privsep:/var/empty:/bin/false
+[26/06/2017 02:39:17 PM] iwww:x:106:1::/home/iwww:/sbin/sh
+[26/06/2017 02:39:17 PM] owww:x:107:1::/home/owww:/sbin/sh
+[26/06/2017 02:39:17 PM] hpsmh:x:108:105:System Management Homepage:/var/opt/hpsmh:/sbin/sh
+[26/06/2017 02:39:17 PM] jussvc01:x:3000:3000:Module MES Engine Web Server Service Account:/engn0h1/jussvc01:/usr/bin/ksh
+[26/06/2017 02:39:17 PM] egnsvc01:x:3010:3010:Module MES Engine Application Service Account:/engn0h1/egnsvc01:/usr/bin/ksh
+[26/06/2017 02:39:17 PM] eposvc01:x:3020:3020:Module MES EPO Agent Service Account:/engn0h1/eposvc01:/usr/bin/ksh
+[26/06/2017 02:39:17 PM] jussvc02:x:3500:3500:Panel MES Engine Web Server Service Account:/engn0h1/jussvc02:/usr/bin/ksh
+[26/06/2017 02:39:17 PM] egnsvc02:x:3510:3510:Panel MES Engine Application Service Account:/engn0h1/egnsvc02:/usr/bin/ksh
+[26/06/2017 02:39:17 PM] messvcht:x:4010:4010:HT MES Application Service Account:/engn0h1/messvcht:/usr/bin/ksh
+[26/06/2017 02:39:17 PM] tibsvcht:x:4020:4020:HT MES TIB/RV Service Account:/engn0h1/tibsvcht:/usr/bin/ksh
+[26/06/2017 02:39:17 PM] messvchm:x:4030:4030:HM MES Application Service Account:/engn0h1/messvchm:/usr/bin/ksh
+[26/06/2017 02:39:17 PM] tibsvchm:x:4040:4040:HM MES TIB/RV Service Account:/engn0h1/tibsvchm:/usr/bin/ksh
+[26/06/2017 02:39:17 PM] messvcd5:x:4510:4510:D5 MES Application Service Account:/engn0h1/messvcd5:/usr/bin/ksh
+[26/06/2017 02:39:17 PM] tibsvcd5:x:4520:4520:D5 MES TIB/RV Service Account:/engn0h1/tibsvcd5:/usr/bin/ksh
+[26/06/2017 02:39:17 PM] wonjy:x:5010:5010:Source Managemant Account:/home/wonjy:/usr/bin/ksh
+[26/06/2017 02:39:17 PM] sysadm01:x:5000:5000:System Admin General Account:/home/sysadm01:/usr/bin/ksh
+[26/06/2017 02:39:17 PM] orasvc01:x:2000:2000:Oracle DBMS(Client) Service Account:/engn0h1/orasvc01:/usr/bin/ksh
+[26/06/2017 02:39:17 PM] rmssvc01:x:3030:3030:Module RMS Service Account:/engn0h1/rmssvc01:/usr/bin/ksh
+[26/06/2017 02:39:17 PM] rmssvc02:x:3530:3530:Panel RMS Service Account:/engn0h1/rmssvc02:/usr/bin/ksh
+[26/06/2017 02:39:17 PM] rtdsvcd5:x:4530:4530:D5 MES RTD Service Account:/engn0h1/rtdsvcd5:/usr/bin/ksh
+[26/06/2017 02:39:46 PM] LGDAMEH1:/>cat /etc/passwd | grep wonjy
+[26/06/2017 02:39:46 PM] wonjy:x:5010:5010:Source Managemant Account:/home/wonjy:/usr/bin/ksh
+[26/06/2017 02:41:41 PM] LGDAMEH1:/>exit
+[26/06/2017 02:41:41 PM] logout root
+[26/06/2017 02:43:38 PM] LGDAMEH1:/home/sysadm01>passwd wonjy
+[26/06/2017 02:43:38 PM] Permission denied.
+[26/06/2017 02:43:44 PM] LGDAMEH1:/home/sysadm01>su -
+[26/06/2017 02:43:45 PM] Password: 
+[26/06/2017 02:43:45 PM] (c)Copyright 1983-2006 Hewlett-Packard Development Company, L.P.
+[26/06/2017 02:43:45 PM] (c)Copyright 1979, 1980, 1983, 1985-1993 The Regents of the Univ. of California
+[26/06/2017 02:43:45 PM] (c)Copyright 1980, 1984, 1986 Novell, Inc.
+[26/06/2017 02:43:45 PM] (c)Copyright 1986-2000 Sun Microsystems, Inc.
+[26/06/2017 02:43:45 PM] (c)Copyright 1985, 1986, 1988 Massachusetts Institute of Technology
+[26/06/2017 02:43:45 PM] (c)Copyright 1989-1993  The Open Software Foundation, Inc.
+[26/06/2017 02:43:45 PM] (c)Copyright 1990 Motorola, Inc.
+[26/06/2017 02:43:45 PM] (c)Copyright 1990, 1991, 1992 Cornell University
+[26/06/2017 02:43:45 PM] (c)Copyright 1989-1991 The University of Maryland
+[26/06/2017 02:43:45 PM] (c)Copyright 1988 Carnegie Mellon University
+[26/06/2017 02:43:45 PM] (c)Copyright 1991-2006 Mentat Inc.
+[26/06/2017 02:43:45 PM] (c)Copyright 1996 Morning Star Technologies, Inc.
+[26/06/2017 02:43:45 PM] (c)Copyright 1996 Progressive Systems, Inc.
+[26/06/2017 02:43:45 PM] 
+[26/06/2017 02:43:45 PM] Confidential computer software. Valid license from HP required for
+[26/06/2017 02:43:45 PM] possession, use or copying.  Consistent with FAR 12.211 and 12.212,
+[26/06/2017 02:43:45 PM] Commercial Computer Software, Computer Software Documentation, and
+[26/06/2017 02:43:45 PM] Technical Data for Commercial Items are licensed to the U.S. Government
+[26/06/2017 02:43:45 PM] under vendor's standard commercial license.
+[26/06/2017 02:43:45 PM] 
+[26/06/2017 02:43:45 PM] Warning!! Authorized users only. All activity may be monitored and reported.
+[26/06/2017 02:43:45 PM] 
+[26/06/2017 02:43:45 PM] You have mail.
+[26/06/2017 02:43:46 PM]                                                                                                                                                                                         
+[26/06/2017 02:43:46 PM] Value of TERM has been set to "vt100". 
+[26/06/2017 02:43:46 PM] WARNING:  YOU ARE SUPERUSER !!
+[26/06/2017 02:43:46 PM] 
+[26/06/2017 02:43:52 PM] LGDAMEH1:/>passwd wonjy
+[26/06/2017 02:43:52 PM] Changing password for wonjy
+[26/06/2017 02:44:00 PM] New password: 
+[26/06/2017 02:44:04 PM] Re-enter new password: 
+[26/06/2017 02:44:04 PM] Passwd successfully changed
+[26/06/2017 02:44:53 PM] LGDAMEH1:/>exit
+[26/06/2017 02:44:53 PM] logout root
+[26/06/2017 02:44:58 PM] LGDAMEH1:/home/sysadm01>exit
+[26/06/2017 02:44:58 PM] logout
+[26/06/2017 02:44:58 PM] 
+[26/06/2017 02:44:58 PM] Connection closed by foreign host.
+
+[END] 26/06/2017 02:44:58 PM

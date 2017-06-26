@@ -1,0 +1,68 @@
+[BEGIN] 26/06/2017 04:21:55 PM
+[26/06/2017 04:21:55 PM] Connecting to 10.119.211.163
+[26/06/2017 04:21:55 PM] USER[1007033524], PC[10.119.236.192], TARGET[10.119.211.163]
+[26/06/2017 04:21:56 PM] Last successful login:       Thu Jun 15 17:25:23 TST 2017 LGDFDFH1  
+[26/06/2017 04:21:56 PM] Last authentication failure: Fri May 19 14:00:54 TST 2017 LGDFDFH1  
+[26/06/2017 04:21:56 PM] Last login: Thu May 18 21:47:10 2017 from 10.119.200.44
+[26/06/2017 04:21:56 PM] Warning!! Authorized users only. All activity may be monitored and reported.
+[26/06/2017 04:21:56 PM] 
+[26/06/2017 04:21:56 PM] 
+[26/06/2017 04:21:56 PM] INFORMATION: This session will expire after 8143 hours and 38 minutes.
+[26/06/2017 04:21:56 PM] (c)Copyright 1983-2006 Hewlett-Packard Development Company, L.P.
+[26/06/2017 04:21:56 PM] (c)Copyright 1979, 1980, 1983, 1985-1993 The Regents of the Univ. of California
+[26/06/2017 04:21:56 PM] (c)Copyright 1980, 1984, 1986 Novell, Inc.
+[26/06/2017 04:21:56 PM] (c)Copyright 1986-2000 Sun Microsystems, Inc.
+[26/06/2017 04:21:56 PM] (c)Copyright 1985, 1986, 1988 Massachusetts Institute of Technology
+[26/06/2017 04:21:56 PM] (c)Copyright 1989-1993  The Open Software Foundation, Inc.
+[26/06/2017 04:21:56 PM] (c)Copyright 1990 Motorola, Inc.
+[26/06/2017 04:21:56 PM] (c)Copyright 1990, 1991, 1992 Cornell University
+[26/06/2017 04:21:56 PM] (c)Copyright 1989-1991 The University of Maryland
+[26/06/2017 04:21:56 PM] (c)Copyright 1988 Carnegie Mellon University
+[26/06/2017 04:21:56 PM] (c)Copyright 1991-2006 Mentat Inc.
+[26/06/2017 04:21:56 PM] (c)Copyright 1996 Morning Star Technologies, Inc.
+[26/06/2017 04:21:56 PM] (c)Copyright 1996 Progressive Systems, Inc.
+[26/06/2017 04:21:56 PM] 
+[26/06/2017 04:21:56 PM] Confidential computer software. Valid license from HP required for
+[26/06/2017 04:21:56 PM] possession, use or copying.  Consistent with FAR 12.211 and 12.212,
+[26/06/2017 04:21:56 PM] Commercial Computer Software, Computer Software Documentation, and
+[26/06/2017 04:21:56 PM] Technical Data for Commercial Items are licensed to the U.S. Government
+[26/06/2017 04:21:56 PM] under vendor's standard commercial license.
+[26/06/2017 04:21:56 PM] 
+[26/06/2017 04:21:56 PM] Warning!! Authorized users only. All activity may be monitored and reported.
+[26/06/2017 04:21:56 PM] 
+[26/06/2017 04:21:56 PM] You have mail.
+[26/06/2017 04:21:57 PM]                                                                                                                                                                                         
+[26/06/2017 04:21:57 PM] Value of TERM has been set to "vt100". 
+[26/06/2017 04:21:57 PM] WARNING:  YOU ARE SUPERUSER !!
+[26/06/2017 04:21:57 PM] 
+[26/06/2017 04:22:39 PM] LGDFDFH1:/>su - sysadm01
+[26/06/2017 04:22:39 PM] (c)Copyright 1983-2006 Hewlett-Packard Development Company, L.P.
+[26/06/2017 04:22:39 PM] (c)Copyright 1979, 1980, 1983, 1985-1993 The Regents of the Univ. of California
+[26/06/2017 04:22:39 PM] (c)Copyright 1980, 1984, 1986 Novell, Inc.
+[26/06/2017 04:22:39 PM] (c)Copyright 1986-2000 Sun Microsystems, Inc.
+[26/06/2017 04:22:39 PM] (c)Copyright 1985, 1986, 1988 Massachusetts Institute of Technology
+[26/06/2017 04:22:39 PM] (c)Copyright 1989-1993  The Open Software Foundation, Inc.
+[26/06/2017 04:22:39 PM] (c)Copyright 1990 Motorola, Inc.
+[26/06/2017 04:22:39 PM] (c)Copyright 1990, 1991, 1992 Cornell University
+[26/06/2017 04:22:39 PM] (c)Copyright 1989-1991 The University of Maryland
+[26/06/2017 04:22:39 PM] (c)Copyright 1988 Carnegie Mellon University
+[26/06/2017 04:22:39 PM] (c)Copyright 1991-2006 Mentat Inc.
+[26/06/2017 04:22:39 PM] (c)Copyright 1996 Morning Star Technologies, Inc.
+[26/06/2017 04:22:39 PM] (c)Copyright 1996 Progressive Systems, Inc.
+[26/06/2017 04:22:39 PM] 
+[26/06/2017 04:22:39 PM] Confidential computer software. Valid license from HP required for
+[26/06/2017 04:22:39 PM] possession, use or copying.  Consistent with FAR 12.211 and 12.212,
+[26/06/2017 04:22:39 PM] Commercial Computer Software, Computer Software Documentation, and
+[26/06/2017 04:22:39 PM] Technical Data for Commercial Items are licensed to the U.S. Government
+[26/06/2017 04:22:39 PM] under vendor's standard commercial license.
+[26/06/2017 04:22:39 PM] 
+[26/06/2017 04:22:39 PM] Warning!! Authorized users only. All activity may be monitored and reported.
+[26/06/2017 04:22:39 PM] 
+[26/06/2017 04:23:39 PM] LGDFDFH1:/home/sysadm01>exit                                                                                                                                                            
+[26/06/2017 04:23:39 PM] logout
+[26/06/2017 04:23:40 PM] LGDFDFH1:/>exit
+[26/06/2017 04:23:40 PM] logout root
+[26/06/2017 04:23:40 PM] 
+[26/06/2017 04:23:40 PM] Connection closed by foreign host.
+
+[END] 26/06/2017 04:23:40 PM

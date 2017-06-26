@@ -1,0 +1,24 @@
+[BEGIN] 26/06/2017 04:07:32 PM
+[26/06/2017 04:07:32 PM] Connecting to 10.119.211.76
+[26/06/2017 04:07:32 PM] USER[1007033524], PC[10.119.236.192], TARGET[10.119.211.76]
+[26/06/2017 04:07:32 PM] Warning: your password will expire in 1 day
+[26/06/2017 04:07:32 PM] Last login: Mon Jun 26 15:45:57 2017 from 10.119.200.44
+[26/06/2017 04:07:32 PM] 
+[26/06/2017 04:07:32 PM] INFORMATION: This session will expire after 8143 hours and 52 minutes.
+[26/06/2017 04:07:43 PM] [xtmplsk@LGDEBWHUBH2 ~]$ su -
+[26/06/2017 04:07:44 PM] Password: 
+[26/06/2017 04:08:03 PM] [root@LGDEBWHUBH2 ~]# chage -I -1 -m 0 -M 400 -E -1 xtmplsk
+[26/06/2017 04:08:19 PM] [root@LGDEBWHUBH2 ~]# chage -l xtmplsk
+[26/06/2017 04:08:19 PM] Last password change					: Mar 29, 2017
+[26/06/2017 04:08:19 PM] Password expires					: May 03, 2018
+[26/06/2017 04:08:19 PM] Password inactive					: never
+[26/06/2017 04:08:19 PM] Account expires						: never
+[26/06/2017 04:08:19 PM] Minimum number of days between password change		: 0
+[26/06/2017 04:08:19 PM] Maximum number of days between password change		: 400
+[26/06/2017 04:08:19 PM] Number of days of warning before password expires	: 7
+[26/06/2017 04:08:51 PM] [root@LGDEBWHUBH2 ~]# exit
+[26/06/2017 04:08:51 PM] logout
+[26/06/2017 04:08:54 PM] [xtmplsk@LGDEBWHUBH2 ~]$ 
+[26/06/2017 04:08:54 PM] Connection closed by foreign host.
+
+[END] 26/06/2017 04:08:54 PM

@@ -1,0 +1,39 @@
+[BEGIN] 26/06/2017 03:19:24 PM
+[26/06/2017 03:19:24 PM] Connecting to 10.119.211.81
+[26/06/2017 03:19:25 PM] USER[1007033524], PC[10.119.236.192], TARGET[10.119.211.81]
+[26/06/2017 03:19:25 PM] Last login: Mon Jun 26 15:07:22 2017 from 10.119.200.44
+[26/06/2017 03:19:25 PM] 
+[26/06/2017 03:19:25 PM] INFORMATION: This session will expire after 8144 hours and 40 minutes.
+[26/06/2017 03:20:05 PM] [xadmlvd@LGDFMODFSH1 ~]$ usermod -c "Le Viet Dung" xadmlvd
+[26/06/2017 03:20:05 PM] -bash: /usr/sbin/usermod: Permission denied
+[26/06/2017 03:20:54 PM] [xadmlvd@LGDFMODFSH1 ~]$ sudo usermod -c "Le Viet Dung" xadmlvd
+[26/06/2017 03:20:54 PM] 
+[26/06/2017 03:20:54 PM] We trust you have received the usual lecture from the local System
+[26/06/2017 03:20:54 PM] Administrator. It usually boils down to these three things:
+[26/06/2017 03:20:54 PM] 
+[26/06/2017 03:20:54 PM]     #1) Respect the privacy of others.
+[26/06/2017 03:20:54 PM]     #2) Think before you type.
+[26/06/2017 03:20:54 PM]     #3) With great power comes great responsibility.
+[26/06/2017 03:20:54 PM] 
+[26/06/2017 03:21:04 PM] [sudo] password for xadmlvd: 
+[26/06/2017 03:21:05 PM] Sorry, try again.
+[26/06/2017 03:21:29 PM] [sudo] password for xadmlvd: 
+[26/06/2017 03:21:30 PM] Sorry, try again.
+[26/06/2017 03:21:37 PM] [sudo] password for xadmlvd: 
+[26/06/2017 03:21:38 PM] Sorry, try again.
+[26/06/2017 03:21:38 PM] sudo: 3 incorrect password attempts
+[26/06/2017 03:21:45 PM] [xadmlvd@LGDFMODFSH1 ~]$ su -
+[26/06/2017 03:21:52 PM] Password: 
+[26/06/2017 03:21:54 PM] su: incorrect password
+[26/06/2017 03:21:59 PM] [xadmlvd@LGDFMODFSH1 ~]$ usermod -c "Le Viet Dung" xadmlvd
+[26/06/2017 03:21:59 PM] -bash: /usr/sbin/usermod: Permission denied
+[26/06/2017 03:22:09 PM] [xadmlvd@LGDFMODFSH1 ~]$ su -
+[26/06/2017 03:22:14 PM] Password: 
+[26/06/2017 03:22:16 PM] su: incorrect password
+[26/06/2017 03:22:35 PM] [xadmlvd@LGDFMODFSH1 ~]$ su -
+[26/06/2017 03:22:35 PM] Password: 
+[26/06/2017 03:22:36 PM] su: incorrect password
+[26/06/2017 03:22:51 PM] [xadmlvd@LGDFMODFSH1 ~]$ exit
+[26/06/2017 03:22:51 PM] Connection closed by foreign host.
+
+[END] 26/06/2017 03:22:51 PM

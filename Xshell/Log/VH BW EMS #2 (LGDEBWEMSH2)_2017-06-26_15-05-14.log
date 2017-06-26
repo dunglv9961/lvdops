@@ -1,0 +1,48 @@
+[BEGIN] 26/06/2017 03:05:14 PM
+[26/06/2017 03:05:14 PM] Connecting to 10.119.211.72
+[26/06/2017 03:05:14 PM] USER[1007033524], PC[10.119.236.192], TARGET[10.119.211.72]
+[26/06/2017 03:05:14 PM] [xadmlvd@LGDEBWEMSH2 ~]$ 
+[26/06/2017 03:05:14 PM] INFORMATION: This session will expire after 8144 hours and 54 minutes.
+[26/06/2017 03:05:32 PM] cat /etc/passwd
+[26/06/2017 03:05:32 PM] root:x:0:0:root:/root:/bin/bash
+[26/06/2017 03:05:32 PM] bin:x:1:1:bin:/bin:/sbin/nologin
+[26/06/2017 03:05:32 PM] daemon:x:2:2:daemon:/sbin:/sbin/nologin
+[26/06/2017 03:05:32 PM] adm:x:3:4:adm:/var/adm:/sbin/nologin
+[26/06/2017 03:05:32 PM] lp:x:4:7:lp:/var/spool/lpd:/sbin/nologin
+[26/06/2017 03:05:32 PM] sync:x:5:0:sync:/sbin:/bin/sync
+[26/06/2017 03:05:32 PM] shutdown:x:6:0:shutdown:/sbin:/sbin/shutdown
+[26/06/2017 03:05:32 PM] halt:x:7:0:halt:/sbin:/sbin/halt
+[26/06/2017 03:05:32 PM] mail:x:8:12:mail:/var/spool/mail:/sbin/nologin
+[26/06/2017 03:05:32 PM] uucp:x:10:14:uucp:/var/spool/uucp:/sbin/nologin
+[26/06/2017 03:05:32 PM] operator:x:11:0:operator:/root:/sbin/nologin
+[26/06/2017 03:05:32 PM] games:x:12:100:games:/usr/games:/sbin/nologin
+[26/06/2017 03:05:32 PM] gopher:x:13:30:gopher:/var/gopher:/sbin/nologin
+[26/06/2017 03:05:32 PM] ftp:x:14:50:FTP User:/var/ftp:/sbin/nologin
+[26/06/2017 03:05:32 PM] nobody:x:99:99:Nobody:/:/sbin/nologin
+[26/06/2017 03:05:32 PM] dbus:x:81:81:System message bus:/:/sbin/nologin
+[26/06/2017 03:05:32 PM] usbmuxd:x:113:113:usbmuxd user:/:/sbin/nologin
+[26/06/2017 03:05:32 PM] rpc:x:32:32:Rpcbind Daemon:/var/cache/rpcbind:/sbin/nologin
+[26/06/2017 03:05:32 PM] rtkit:x:499:499:RealtimeKit:/proc:/sbin/nologin
+[26/06/2017 03:05:32 PM] avahi-autoipd:x:170:170:Avahi IPv4LL Stack:/var/lib/avahi-autoipd:/sbin/nologin
+[26/06/2017 03:05:32 PM] vcsa:x:69:69:virtual console memory owner:/dev:/sbin/nologin
+[26/06/2017 03:05:32 PM] abrt:x:173:173::/etc/abrt:/sbin/nologin
+[26/06/2017 03:05:32 PM] rpcuser:x:29:29:RPC Service User:/var/lib/nfs:/sbin/nologin
+[26/06/2017 03:05:32 PM] nfsnobody:x:65534:65534:Anonymous NFS User:/var/lib/nfs:/sbin/nologin
+[26/06/2017 03:05:32 PM] haldaemon:x:68:68:HAL daemon:/:/sbin/nologin
+[26/06/2017 03:05:32 PM] ntp:x:38:38::/etc/ntp:/sbin/nologin
+[26/06/2017 03:05:32 PM] apache:x:48:48:Apache:/var/www:/sbin/nologin
+[26/06/2017 03:05:32 PM] saslauth:x:498:76:Saslauthd user:/var/empty/saslauth:/sbin/nologin
+[26/06/2017 03:05:32 PM] postfix:x:89:89::/var/spool/postfix:/sbin/nologin
+[26/06/2017 03:05:32 PM] gdm:x:42:42::/var/lib/gdm:/sbin/nologin
+[26/06/2017 03:05:32 PM] pulse:x:497:495:PulseAudio System Daemon:/var/run/pulse:/sbin/nologin
+[26/06/2017 03:05:32 PM] sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
+[26/06/2017 03:05:32 PM] tcpdump:x:72:72::/:/sbin/nologin
+[26/06/2017 03:05:32 PM] xtmplsk:x:9000:9000:TA Temp Account:/home/xtmplsk:/bin/bash
+[26/06/2017 03:05:32 PM] rvmsvc01:x:4000:4000:EAI BizWorks Service Account:/engn001/rvmsvc01:/bin/bash
+[26/06/2017 03:05:32 PM] xadmlvd:x:9001:9001::/home/xadmlvd:/bin/bash
+[26/06/2017 03:06:37 PM] [xadmlvd@LGDEBWEMSH2 ~]$ exit
+[26/06/2017 03:06:37 PM] logout
+[26/06/2017 03:06:37 PM] 
+[26/06/2017 03:06:37 PM] Connection closed by foreign host.
+
+[END] 26/06/2017 03:06:37 PM

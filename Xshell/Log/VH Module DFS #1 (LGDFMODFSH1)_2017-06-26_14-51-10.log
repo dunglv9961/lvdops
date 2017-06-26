@@ -1,0 +1,109 @@
+[BEGIN] 26/06/2017 02:51:10 PM
+[26/06/2017 02:51:10 PM] Connecting to 10.119.211.81
+[26/06/2017 02:51:10 PM] USER[1007033524], PC[10.119.236.192], TARGET[10.119.211.81]
+[26/06/2017 02:51:10 PM] Warning: your password will expire in 1 day
+[26/06/2017 02:51:10 PM] Last login: Sat Jun 24 10:30:38 2017 from 10.119.200.44
+[26/06/2017 02:51:10 PM] 
+[26/06/2017 02:51:10 PM] INFORMATION: This session will expire after 8145 hours and 8 minutes.
+[26/06/2017 02:51:17 PM] [xtmplsk@LGDFMODFSH1 ~]$ cat /etc/passwd
+[26/06/2017 02:51:17 PM] root:x:0:0:root:/root:/bin/bash
+[26/06/2017 02:51:17 PM] bin:x:1:1:bin:/bin:/sbin/nologin
+[26/06/2017 02:51:17 PM] daemon:x:2:2:daemon:/sbin:/sbin/nologin
+[26/06/2017 02:51:17 PM] adm:x:3:4:adm:/var/adm:/sbin/nologin
+[26/06/2017 02:51:17 PM] lp:x:4:7:lp:/var/spool/lpd:/sbin/nologin
+[26/06/2017 02:51:17 PM] sync:x:5:0:sync:/sbin:/bin/sync
+[26/06/2017 02:51:17 PM] shutdown:x:6:0:shutdown:/sbin:/sbin/shutdown
+[26/06/2017 02:51:17 PM] halt:x:7:0:halt:/sbin:/sbin/halt
+[26/06/2017 02:51:17 PM] mail:x:8:12:mail:/var/spool/mail:/sbin/nologin
+[26/06/2017 02:51:17 PM] uucp:x:10:14:uucp:/var/spool/uucp:/sbin/nologin
+[26/06/2017 02:51:17 PM] operator:x:11:0:operator:/root:/sbin/nologin
+[26/06/2017 02:51:17 PM] games:x:12:100:games:/usr/games:/sbin/nologin
+[26/06/2017 02:51:17 PM] gopher:x:13:30:gopher:/var/gopher:/sbin/nologin
+[26/06/2017 02:51:17 PM] ftp:x:14:50:FTP User:/var/ftp:/sbin/nologin
+[26/06/2017 02:51:17 PM] nobody:x:99:99:Nobody:/:/sbin/nologin
+[26/06/2017 02:51:17 PM] dbus:x:81:81:System message bus:/:/sbin/nologin
+[26/06/2017 02:51:17 PM] usbmuxd:x:113:113:usbmuxd user:/:/sbin/nologin
+[26/06/2017 02:51:17 PM] rpc:x:32:32:Rpcbind Daemon:/var/cache/rpcbind:/sbin/nologin
+[26/06/2017 02:51:17 PM] rtkit:x:499:499:RealtimeKit:/proc:/sbin/nologin
+[26/06/2017 02:51:17 PM] avahi-autoipd:x:170:170:Avahi IPv4LL Stack:/var/lib/avahi-autoipd:/sbin/nologin
+[26/06/2017 02:51:17 PM] vcsa:x:69:69:virtual console memory owner:/dev:/sbin/nologin
+[26/06/2017 02:51:17 PM] abrt:x:173:173::/etc/abrt:/sbin/nologin
+[26/06/2017 02:51:17 PM] rpcuser:x:29:29:RPC Service User:/var/lib/nfs:/sbin/nologin
+[26/06/2017 02:51:17 PM] nfsnobody:x:65534:65534:Anonymous NFS User:/var/lib/nfs:/sbin/nologin
+[26/06/2017 02:51:17 PM] haldaemon:x:68:68:HAL daemon:/:/sbin/nologin
+[26/06/2017 02:51:17 PM] ntp:x:38:38::/etc/ntp:/sbin/nologin
+[26/06/2017 02:51:17 PM] apache:x:48:48:Apache:/var/www:/sbin/nologin
+[26/06/2017 02:51:17 PM] saslauth:x:498:76:Saslauthd user:/var/empty/saslauth:/sbin/nologin
+[26/06/2017 02:51:17 PM] postfix:x:89:89::/var/spool/postfix:/sbin/nologin
+[26/06/2017 02:51:17 PM] gdm:x:42:42::/var/lib/gdm:/sbin/nologin
+[26/06/2017 02:51:17 PM] pulse:x:497:495:PulseAudio System Daemon:/var/run/pulse:/sbin/nologin
+[26/06/2017 02:51:17 PM] sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
+[26/06/2017 02:51:17 PM] tcpdump:x:72:72::/:/sbin/nologin
+[26/06/2017 02:51:17 PM] xtmplsk:x:9000:9000:TA Temp Account:/home/xtmplsk:/bin/bash
+[26/06/2017 02:51:17 PM] dfsadmht:x:4000:4000:HT DFS FTP Read and Write Account:/data0h1/HT_DFS:/bin/bash
+[26/06/2017 02:51:17 PM] dfsopsht:x:4010:4010:HT DFS FTP and SMB Read Only Account:/home/dfsopsht:/bin/bash
+[26/06/2017 02:51:17 PM] edcadmht:x:4020:4020:HT DFS EDC Admin User Account:/data0h1/HT_DFS:/bin/bash
+[26/06/2017 02:51:17 PM] pdmops01:x:4030:4030:Pioneer FTP Write User:/data0h1/OLED_Register:/bin/bash
+[26/06/2017 02:51:17 PM] pdmops02:x:4040:4040:Pioneer Samba Read Only User:/home/pdmops02:/bin/bash
+[26/06/2017 02:51:17 PM] pdmops03:x:4050:4050:Pioneer Samba Read Write User:/home/pdmops03:/bin/bash
+[26/06/2017 02:56:44 PM] [xtmplsk@LGDFMODFSH1 ~]$ useradd xadmlvd 
+[26/06/2017 02:56:44 PM] -bash: /usr/sbin/useradd: Permission denied
+[26/06/2017 02:56:53 PM] [xtmplsk@LGDFMODFSH1 ~]$ su -
+[26/06/2017 02:56:56 PM] Password: 
+[26/06/2017 02:57:04 PM] [root@LGDFMODFSH1 ~]# useradd xadmlvd
+[26/06/2017 02:57:12 PM] [root@LGDFMODFSH1 ~]# passwd xadmlvd
+[26/06/2017 02:57:12 PM] Changing password for user xadmlvd.
+[26/06/2017 02:57:33 PM] New password:  
+[26/06/2017 02:57:37 PM] Retype new password: 
+[26/06/2017 02:57:37 PM] passwd: all authentication tokens updated successfully.
+[26/06/2017 02:57:51 PM] [root@LGDFMODFSH1 ~]# cat /etc/passwd
+[26/06/2017 02:57:51 PM] root:x:0:0:root:/root:/bin/bash
+[26/06/2017 02:57:51 PM] bin:x:1:1:bin:/bin:/sbin/nologin
+[26/06/2017 02:57:51 PM] daemon:x:2:2:daemon:/sbin:/sbin/nologin
+[26/06/2017 02:57:51 PM] adm:x:3:4:adm:/var/adm:/sbin/nologin
+[26/06/2017 02:57:51 PM] lp:x:4:7:lp:/var/spool/lpd:/sbin/nologin
+[26/06/2017 02:57:51 PM] sync:x:5:0:sync:/sbin:/bin/sync
+[26/06/2017 02:57:51 PM] shutdown:x:6:0:shutdown:/sbin:/sbin/shutdown
+[26/06/2017 02:57:51 PM] halt:x:7:0:halt:/sbin:/sbin/halt
+[26/06/2017 02:57:51 PM] mail:x:8:12:mail:/var/spool/mail:/sbin/nologin
+[26/06/2017 02:57:51 PM] uucp:x:10:14:uucp:/var/spool/uucp:/sbin/nologin
+[26/06/2017 02:57:51 PM] operator:x:11:0:operator:/root:/sbin/nologin
+[26/06/2017 02:57:51 PM] games:x:12:100:games:/usr/games:/sbin/nologin
+[26/06/2017 02:57:51 PM] gopher:x:13:30:gopher:/var/gopher:/sbin/nologin
+[26/06/2017 02:57:51 PM] ftp:x:14:50:FTP User:/var/ftp:/sbin/nologin
+[26/06/2017 02:57:51 PM] nobody:x:99:99:Nobody:/:/sbin/nologin
+[26/06/2017 02:57:51 PM] dbus:x:81:81:System message bus:/:/sbin/nologin
+[26/06/2017 02:57:51 PM] usbmuxd:x:113:113:usbmuxd user:/:/sbin/nologin
+[26/06/2017 02:57:51 PM] rpc:x:32:32:Rpcbind Daemon:/var/cache/rpcbind:/sbin/nologin
+[26/06/2017 02:57:51 PM] rtkit:x:499:499:RealtimeKit:/proc:/sbin/nologin
+[26/06/2017 02:57:51 PM] avahi-autoipd:x:170:170:Avahi IPv4LL Stack:/var/lib/avahi-autoipd:/sbin/nologin
+[26/06/2017 02:57:51 PM] vcsa:x:69:69:virtual console memory owner:/dev:/sbin/nologin
+[26/06/2017 02:57:51 PM] abrt:x:173:173::/etc/abrt:/sbin/nologin
+[26/06/2017 02:57:51 PM] rpcuser:x:29:29:RPC Service User:/var/lib/nfs:/sbin/nologin
+[26/06/2017 02:57:51 PM] nfsnobody:x:65534:65534:Anonymous NFS User:/var/lib/nfs:/sbin/nologin
+[26/06/2017 02:57:51 PM] haldaemon:x:68:68:HAL daemon:/:/sbin/nologin
+[26/06/2017 02:57:51 PM] ntp:x:38:38::/etc/ntp:/sbin/nologin
+[26/06/2017 02:57:51 PM] apache:x:48:48:Apache:/var/www:/sbin/nologin
+[26/06/2017 02:57:51 PM] saslauth:x:498:76:Saslauthd user:/var/empty/saslauth:/sbin/nologin
+[26/06/2017 02:57:51 PM] postfix:x:89:89::/var/spool/postfix:/sbin/nologin
+[26/06/2017 02:57:51 PM] gdm:x:42:42::/var/lib/gdm:/sbin/nologin
+[26/06/2017 02:57:51 PM] pulse:x:497:495:PulseAudio System Daemon:/var/run/pulse:/sbin/nologin
+[26/06/2017 02:57:51 PM] sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
+[26/06/2017 02:57:51 PM] tcpdump:x:72:72::/:/sbin/nologin
+[26/06/2017 02:57:51 PM] xtmplsk:x:9000:9000:TA Temp Account:/home/xtmplsk:/bin/bash
+[26/06/2017 02:57:51 PM] dfsadmht:x:4000:4000:HT DFS FTP Read and Write Account:/data0h1/HT_DFS:/bin/bash
+[26/06/2017 02:57:51 PM] dfsopsht:x:4010:4010:HT DFS FTP and SMB Read Only Account:/home/dfsopsht:/bin/bash
+[26/06/2017 02:57:51 PM] edcadmht:x:4020:4020:HT DFS EDC Admin User Account:/data0h1/HT_DFS:/bin/bash
+[26/06/2017 02:57:51 PM] pdmops01:x:4030:4030:Pioneer FTP Write User:/data0h1/OLED_Register:/bin/bash
+[26/06/2017 02:57:51 PM] pdmops02:x:4040:4040:Pioneer Samba Read Only User:/home/pdmops02:/bin/bash
+[26/06/2017 02:57:51 PM] pdmops03:x:4050:4050:Pioneer Samba Read Write User:/home/pdmops03:/bin/bash
+[26/06/2017 02:57:51 PM] xadmlvd:x:9001:9001::/home/xadmlvd:/bin/bash
+[26/06/2017 02:59:00 PM] [root@LGDFMODFSH1 ~]# exit
+[26/06/2017 02:59:00 PM] logout
+[26/06/2017 02:59:02 PM] [xtmplsk@LGDFMODFSH1 ~]$ ls
+[26/06/2017 03:01:59 PM] [xtmplsk@LGDFMODFSH1 ~]$ exit
+[26/06/2017 03:01:59 PM] logout
+[26/06/2017 03:01:59 PM] 
+[26/06/2017 03:01:59 PM] Connection closed by foreign host.
+
+[END] 26/06/2017 03:01:59 PM

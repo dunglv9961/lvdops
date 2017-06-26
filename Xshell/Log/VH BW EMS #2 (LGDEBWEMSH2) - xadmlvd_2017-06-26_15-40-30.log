@@ -1,0 +1,115 @@
+[BEGIN] 26/06/2017 03:40:30 PM
+[26/06/2017 03:40:30 PM] Connecting to 10.119.211.72
+[26/06/2017 03:40:30 PM] USER[1007033524], PC[10.119.236.192], TARGET[10.119.211.72]
+[26/06/2017 03:40:30 PM] Last login: Mon Jun 26 15:05:14 2017 from 10.119.200.44
+[26/06/2017 03:40:30 PM] 
+[26/06/2017 03:40:30 PM] INFORMATION: This session will expire after 8144 hours and 19 minutes.
+[26/06/2017 03:40:37 PM] [xadmlvd@LGDEBWEMSH2 ~]$ su -
+[26/06/2017 03:40:37 PM] Password: 
+[26/06/2017 03:40:39 PM] su: incorrect password
+[26/06/2017 03:41:11 PM] [xadmlvd@LGDEBWEMSH2 ~]$ cat /etc/passwd | grep x
+[26/06/2017 03:41:11 PM] root:x:0:0:root:/root:/bin/bash
+[26/06/2017 03:41:11 PM] bin:x:1:1:bin:/bin:/sbin/nologin
+[26/06/2017 03:41:11 PM] daemon:x:2:2:daemon:/sbin:/sbin/nologin
+[26/06/2017 03:41:11 PM] adm:x:3:4:adm:/var/adm:/sbin/nologin
+[26/06/2017 03:41:11 PM] lp:x:4:7:lp:/var/spool/lpd:/sbin/nologin
+[26/06/2017 03:41:11 PM] sync:x:5:0:sync:/sbin:/bin/sync
+[26/06/2017 03:41:11 PM] shutdown:x:6:0:shutdown:/sbin:/sbin/shutdown
+[26/06/2017 03:41:11 PM] halt:x:7:0:halt:/sbin:/sbin/halt
+[26/06/2017 03:41:11 PM] mail:x:8:12:mail:/var/spool/mail:/sbin/nologin
+[26/06/2017 03:41:11 PM] uucp:x:10:14:uucp:/var/spool/uucp:/sbin/nologin
+[26/06/2017 03:41:11 PM] operator:x:11:0:operator:/root:/sbin/nologin
+[26/06/2017 03:41:11 PM] games:x:12:100:games:/usr/games:/sbin/nologin
+[26/06/2017 03:41:11 PM] gopher:x:13:30:gopher:/var/gopher:/sbin/nologin
+[26/06/2017 03:41:11 PM] ftp:x:14:50:FTP User:/var/ftp:/sbin/nologin
+[26/06/2017 03:41:11 PM] nobody:x:99:99:Nobody:/:/sbin/nologin
+[26/06/2017 03:41:11 PM] dbus:x:81:81:System message bus:/:/sbin/nologin
+[26/06/2017 03:41:11 PM] usbmuxd:x:113:113:usbmuxd user:/:/sbin/nologin
+[26/06/2017 03:41:11 PM] rpc:x:32:32:Rpcbind Daemon:/var/cache/rpcbind:/sbin/nologin
+[26/06/2017 03:41:11 PM] rtkit:x:499:499:RealtimeKit:/proc:/sbin/nologin
+[26/06/2017 03:41:11 PM] avahi-autoipd:x:170:170:Avahi IPv4LL Stack:/var/lib/avahi-autoipd:/sbin/nologin
+[26/06/2017 03:41:11 PM] vcsa:x:69:69:virtual console memory owner:/dev:/sbin/nologin
+[26/06/2017 03:41:11 PM] abrt:x:173:173::/etc/abrt:/sbin/nologin
+[26/06/2017 03:41:11 PM] rpcuser:x:29:29:RPC Service User:/var/lib/nfs:/sbin/nologin
+[26/06/2017 03:41:11 PM] nfsnobody:x:65534:65534:Anonymous NFS User:/var/lib/nfs:/sbin/nologin
+[26/06/2017 03:41:11 PM] haldaemon:x:68:68:HAL daemon:/:/sbin/nologin
+[26/06/2017 03:41:11 PM] ntp:x:38:38::/etc/ntp:/sbin/nologin
+[26/06/2017 03:41:11 PM] apache:x:48:48:Apache:/var/www:/sbin/nologin
+[26/06/2017 03:41:11 PM] saslauth:x:498:76:Saslauthd user:/var/empty/saslauth:/sbin/nologin
+[26/06/2017 03:41:11 PM] postfix:x:89:89::/var/spool/postfix:/sbin/nologin
+[26/06/2017 03:41:11 PM] gdm:x:42:42::/var/lib/gdm:/sbin/nologin
+[26/06/2017 03:41:11 PM] pulse:x:497:495:PulseAudio System Daemon:/var/run/pulse:/sbin/nologin
+[26/06/2017 03:41:11 PM] sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
+[26/06/2017 03:41:11 PM] tcpdump:x:72:72::/:/sbin/nologin
+[26/06/2017 03:41:11 PM] xtmplsk:x:9000:9000:TA Temp Account:/home/xtmplsk:/bin/bash
+[26/06/2017 03:41:11 PM] rvmsvc01:x:4000:4000:EAI BizWorks Service Account:/engn001/rvmsvc01:/bin/bash
+[26/06/2017 03:41:11 PM] xadmlvd:x:9001:9001:Le Viet Dung:/home/xadmlvd:/bin/bash
+[26/06/2017 03:41:29 PM] [xadmlvd@LGDEBWEMSH2 ~]$ cat /etc/passwd | grep 90
+[26/06/2017 03:41:29 PM] xtmplsk:x:9000:9000:TA Temp Account:/home/xtmplsk:/bin/bash
+[26/06/2017 03:41:29 PM] xadmlvd:x:9001:9001:Le Viet Dung:/home/xadmlvd:/bin/bash
+[26/06/2017 03:41:43 PM] [xadmlvd@LGDEBWEMSH2 ~]$ cat /etc/group
+[26/06/2017 03:41:43 PM] root:x:0:
+[26/06/2017 03:41:43 PM] bin:x:1:bin,daemon
+[26/06/2017 03:41:43 PM] daemon:x:2:bin,daemon
+[26/06/2017 03:41:43 PM] sys:x:3:bin,adm
+[26/06/2017 03:41:43 PM] adm:x:4:adm,daemon
+[26/06/2017 03:41:43 PM] tty:x:5:
+[26/06/2017 03:41:43 PM] disk:x:6:
+[26/06/2017 03:41:43 PM] lp:x:7:daemon
+[26/06/2017 03:41:43 PM] mem:x:8:
+[26/06/2017 03:41:43 PM] kmem:x:9:
+[26/06/2017 03:41:43 PM] wheel:x:10:xtmplsk
+[26/06/2017 03:41:43 PM] mail:x:12:mail,postfix
+[26/06/2017 03:41:43 PM] uucp:x:14:
+[26/06/2017 03:41:43 PM] man:x:15:
+[26/06/2017 03:41:43 PM] games:x:20:
+[26/06/2017 03:41:43 PM] gopher:x:30:
+[26/06/2017 03:41:43 PM] video:x:39:
+[26/06/2017 03:41:43 PM] dip:x:40:
+[26/06/2017 03:41:43 PM] ftp:x:50:
+[26/06/2017 03:41:43 PM] lock:x:54:
+[26/06/2017 03:41:43 PM] audio:x:63:
+[26/06/2017 03:41:43 PM] nobody:x:99:
+[26/06/2017 03:41:43 PM] users:x:100:
+[26/06/2017 03:41:43 PM] dbus:x:81:
+[26/06/2017 03:41:43 PM] usbmuxd:x:113:
+[26/06/2017 03:41:43 PM] rpc:x:32:
+[26/06/2017 03:41:43 PM] utmp:x:22:
+[26/06/2017 03:41:43 PM] utempter:x:35:
+[26/06/2017 03:41:43 PM] rtkit:x:499:
+[26/06/2017 03:41:43 PM] avahi-autoipd:x:170:
+[26/06/2017 03:41:43 PM] desktop_admin_r:x:498:
+[26/06/2017 03:41:43 PM] desktop_user_r:x:497:
+[26/06/2017 03:41:43 PM] floppy:x:19:
+[26/06/2017 03:41:43 PM] vcsa:x:69:
+[26/06/2017 03:41:43 PM] abrt:x:173:
+[26/06/2017 03:41:43 PM] cdrom:x:11:
+[26/06/2017 03:41:43 PM] tape:x:33:
+[26/06/2017 03:41:43 PM] dialout:x:18:
+[26/06/2017 03:41:43 PM] wbpriv:x:88:
+[26/06/2017 03:41:43 PM] rpcuser:x:29:
+[26/06/2017 03:41:43 PM] nfsnobody:x:65534:
+[26/06/2017 03:41:43 PM] haldaemon:x:68:haldaemon
+[26/06/2017 03:41:43 PM] ntp:x:38:
+[26/06/2017 03:41:43 PM] apache:x:48:
+[26/06/2017 03:41:43 PM] saslauth:x:76:
+[26/06/2017 03:41:43 PM] postdrop:x:90:
+[26/06/2017 03:41:43 PM] postfix:x:89:
+[26/06/2017 03:41:43 PM] cgred:x:496:
+[26/06/2017 03:41:43 PM] gdm:x:42:
+[26/06/2017 03:41:43 PM] pulse:x:495:
+[26/06/2017 03:41:43 PM] pulse-access:x:494:
+[26/06/2017 03:41:43 PM] fuse:x:493:
+[26/06/2017 03:41:43 PM] sshd:x:74:
+[26/06/2017 03:41:43 PM] slocate:x:21:
+[26/06/2017 03:41:43 PM] stapusr:x:156:
+[26/06/2017 03:41:43 PM] stapsys:x:157:
+[26/06/2017 03:41:43 PM] stapdev:x:158:
+[26/06/2017 03:41:43 PM] tcpdump:x:72:
+[26/06/2017 03:41:43 PM] xtmplsk:x:9000:
+[26/06/2017 03:41:43 PM] rvmsvc01:x:4000:
+[26/06/2017 03:41:43 PM] xadmlvd:x:9001:
+[26/06/2017 03:41:59 PM] [xadmlvd@LGDEBWEMSH2 ~]$ exit
+[26/06/2017 03:41:59 PM] Connection closed by foreign host.
+
+[END] 26/06/2017 03:41:59 PM

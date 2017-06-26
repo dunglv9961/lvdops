@@ -1,0 +1,467 @@
+[BEGIN] 26/06/2017 02:26:12 PM
+[26/06/2017 02:26:12 PM] Connecting to 10.119.211.151
+[26/06/2017 02:26:12 PM] USER[1007033524], PC[10.119.236.192], TARGET[10.119.211.151]
+[26/06/2017 02:26:14 PM] Last successful login:       Sat Jun 24 10:29:16 TST 2017 10.119.200.44  
+[26/06/2017 02:26:14 PM] Last login: Sun Jun 25 12:25:03 2017
+[26/06/2017 02:26:14 PM] Warning!! Authorized users only. All activity may be monitored and reported.
+[26/06/2017 02:26:14 PM] 
+[26/06/2017 02:26:14 PM] INFORMATION: This session will expire after 8145 hours and 33 minutes.
+[26/06/2017 02:26:14 PM] 
+[26/06/2017 02:26:14 PM] (c)Copyright 1983-2006 Hewlett-Packard Development Company, L.P.
+[26/06/2017 02:26:14 PM] (c)Copyright 1979, 1980, 1983, 1985-1993 The Regents of the Univ. of California
+[26/06/2017 02:26:14 PM] (c)Copyright 1980, 1984, 1986 Novell, Inc.
+[26/06/2017 02:26:14 PM] (c)Copyright 1986-2000 Sun Microsystems, Inc.
+[26/06/2017 02:26:14 PM] (c)Copyright 1985, 1986, 1988 Massachusetts Institute of Technology
+[26/06/2017 02:26:14 PM] (c)Copyright 1989-1993  The Open Software Foundation, Inc.
+[26/06/2017 02:26:14 PM] (c)Copyright 1990 Motorola, Inc.
+[26/06/2017 02:26:14 PM] (c)Copyright 1990, 1991, 1992 Cornell University
+[26/06/2017 02:26:14 PM] (c)Copyright 1989-1991 The University of Maryland
+[26/06/2017 02:26:14 PM] (c)Copyright 1988 Carnegie Mellon University
+[26/06/2017 02:26:14 PM] (c)Copyright 1991-2006 Mentat Inc.
+[26/06/2017 02:26:14 PM] (c)Copyright 1996 Morning Star Technologies, Inc.
+[26/06/2017 02:26:14 PM] (c)Copyright 1996 Progressive Systems, Inc.
+[26/06/2017 02:26:14 PM] 
+[26/06/2017 02:26:14 PM] Confidential computer software. Valid license from HP required for
+[26/06/2017 02:26:14 PM] possession, use or copying.  Consistent with FAR 12.211 and 12.212,
+[26/06/2017 02:26:14 PM] Commercial Computer Software, Computer Software Documentation, and
+[26/06/2017 02:26:14 PM] Technical Data for Commercial Items are licensed to the U.S. Government
+[26/06/2017 02:26:14 PM] under vendor's standard commercial license.
+[26/06/2017 02:26:14 PM] 
+[26/06/2017 02:26:14 PM] Warning!! Authorized users only. All activity may be monitored and reported.
+[26/06/2017 02:26:14 PM] 
+[26/06/2017 02:26:14 PM] You have mail.
+[26/06/2017 02:26:16 PM]                                                                                                                                                                                         
+[26/06/2017 02:26:16 PM] Value of TERM has been set to "vt100". 
+[26/06/2017 02:26:18 PM] LGDAMEH1:/engn0h1/messvcd5] cd bin/
+[26/06/2017 02:26:20 PM] LGDAMEH1:/engn0h1/messvcd5/bin] ls
+[26/06/2017 02:26:20 PM] AAPsvr*            backup/            EDSsvr*            JEUS_down          MAILsvr*           msend*             PTFsvr*            RTRsvr*            TIMsvr*
+[26/06/2017 02:26:20 PM] APCsvr*            copy_bin*          EIFsvr*            LOGsvr*            make*              PPCsvr*            PTFsvr_MULTIFAB    SMSsvr*            UIFsvr*
+[26/06/2017 02:26:20 PM] APSsvr*            DLSsvr*            EPPsvr*            MAILapp*           MATsvr*            PROsvr             RCPsvr*            SQLsvr*            USRRsvr*
+[26/06/2017 02:26:20 PM] ARCapp*            DLYsvr*            GUIsvr*            MAILapp_20170619*  MDLsvr*            PRSsvr             RDXsvr*            svrStop*           ./
+[26/06/2017 02:26:20 PM] ARCapp_MULTIFAB    EDPsvr*            JEUS_boot          MAILapp_20170621*  MPSsvr*            PTFBACKUP/         RTREVPsvr*         TAPsvr*            ../
+[26/06/2017 02:26:25 PM] LGDAMEH1:/engn0h1/messvcd5/bin] pck
+[26/06/2017 02:26:25 PM] ksh: pck:  not found
+[26/06/2017 02:26:43 PM] LGDAMEH1:/engn0h1/messvcd5/bin] ll | grep SMSsvr
+[26/06/2017 02:26:43 PM] 9434 -rwxr-xr-x   1 messvcd5   4829832 Jun  2 12:07 SMSsvr*
+[26/06/2017 02:27:51 PM] LGDAMEH1:/engn0h1/messvcd5/bin] pchk
+[26/06/2017 02:27:51 PM] ksh: pchk:  not found
+[26/06/2017 02:28:07 PM] LGDAMEH1:/engn0h1/messvcd5/bin] type pchk
+[26/06/2017 02:28:07 PM] pchk not found
+[26/06/2017 02:36:02 PM] LGDAMEH1:/engn0h1/messvcd5/bin] ls -F
+[26/06/2017 02:36:03 PM] AAPsvr*            backup/            EDSsvr*            JEUS_down          MAILsvr*           msend*             PTFsvr*            RTRsvr*            TIMsvr*
+[26/06/2017 02:36:03 PM] APCsvr*            copy_bin*          EIFsvr*            LOGsvr*            make*              PPCsvr*            PTFsvr_MULTIFAB    SMSsvr*            UIFsvr*
+[26/06/2017 02:36:03 PM] APSsvr*            DLSsvr*            EPPsvr*            MAILapp*           MATsvr*            PROsvr             RCPsvr*            SQLsvr*            USRRsvr*
+[26/06/2017 02:36:03 PM] ARCapp*            DLYsvr*            GUIsvr*            MAILapp_20170619*  MDLsvr*            PRSsvr             RDXsvr*            svrStop*           ./
+[26/06/2017 02:36:03 PM] ARCapp_MULTIFAB    EDPsvr*            JEUS_boot          MAILapp_20170621*  MPSsvr*            PTFBACKUP/         RTREVPsvr*         TAPsvr*            ../
+[26/06/2017 02:36:19 PM] LGDAMEH1:/engn0h1/messvcd5/bin] man ls
+[26/06/2017 02:36:19 PM] 
+[26/06/2017 02:36:19 PM]  ls(1)                                                                 ls(1)
+[26/06/2017 02:36:19 PM] 
+[26/06/2017 02:36:19 PM]  NAME
+[26/06/2017 02:36:19 PM]       ls, lc, l, ll, lsf, lsr, lsx - list contents of directories
+[26/06/2017 02:36:19 PM] 
+[26/06/2017 02:36:19 PM]  SYNOPSIS
+[26/06/2017 02:36:19 PM]       ls [-abcdefgilmnopqrstuxACFHLR1] [names]
+[26/06/2017 02:36:19 PM] 
+[26/06/2017 02:36:19 PM]       lc [-abcdefgilmnopqrstuxACFHLR1] [names]
+[26/06/2017 02:36:19 PM] 
+[26/06/2017 02:36:19 PM]       l [ls_options] [names]
+[26/06/2017 02:36:19 PM]       ll [ls_options] [names]
+[26/06/2017 02:36:19 PM]       lsf [ls_options] [names]
+[26/06/2017 02:36:19 PM]       lsr [ls_options] [names]
+[26/06/2017 02:36:19 PM]       lsx [ls_options] [names]
+[26/06/2017 02:36:19 PM] 
+[26/06/2017 02:36:19 PM]  DESCRIPTION
+[26/06/2017 02:36:19 PM]       For each directory argument, the ls command lists the contents of the
+[26/06/2017 02:36:19 PM]       directory.  For each file argument, ls repeats its name and any other
+[26/06/2017 02:36:19 PM]       information requested.  The output is sorted in ascending collation
+[26/06/2017 02:36:19 PM]       order by default (see Environment Variables below).  When no argument
+[26/06/2017 02:36:19 PM]       is given, the current directory is listed.  When several arguments are
+[26/06/2017 02:36:19 PM]       given, the arguments are first sorted appropriately, but file
+[26/06/2017 02:36:19 PM]       arguments appear before directories and their contents.
+[26/06/2017 02:36:19 PM] 
+[26/06/2017 02:36:19 PM]       If you are a user with appropriate privileges, all files except . and
+[26/06/2017 02:36:19 PM]       .. are listed by default.
+[26/06/2017 02:36:19 PM] 
+[26/06/2017 02:36:19 PM]       There are three major listing formats.  The format chosen depends on
+[26/06/2017 02:36:19 PM]       whether the output is going to a login device (determined by whether
+[26/06/2017 02:36:19 PM]       output device file is a tty device), and can also be controlled by
+[26/06/2017 02:36:23 PM]       option flags.
+[26/06/2017 02:36:23 PM] 
+[26/06/2017 02:36:23 PM]       The default format for a login device is to list the contents of
+[26/06/2017 02:36:23 PM]       directories in multicolumn format, with entries sorted vertically by
+[26/06/2017 02:36:23 PM]       column.  (When individual file names (as opposed to directory names)
+[26/06/2017 02:36:23 PM]       appear in the argument list, those file names are always sorted across
+[26/06/2017 02:36:23 PM]       the page rather than down the page in columns because individual file
+[26/06/2017 02:36:23 PM]       names can be arbitrarily long.) If the standard output is not a login
+[26/06/2017 02:36:23 PM]       device, the default format is to list one entry per line.
+[26/06/2017 02:36:23 PM] 
+[26/06/2017 02:36:23 PM]       The -C and -x options enable multicolumn formats, and the -m option
+[26/06/2017 02:36:23 PM]       enables stream output format in which files are listed across the
+[26/06/2017 02:36:23 PM]       page, separated by commas.  In order to determine output formats for
+[26/06/2017 02:36:23 PM]       the -C, -x, and -m options, ls uses an environment variable, COLUMNS,
+[26/06/2017 02:36:23 PM]       to determine the number of character positions available on each
+[26/06/2017 02:36:23 PM]       output line.  If this variable is not set, the terminfo database is
+[26/06/2017 02:36:23 PM]       used to determine the number of columns, based on the environment
+[26/06/2017 02:36:23 PM]       variable TERM.  If this information cannot be obtained, 80 columns is
+[26/06/2017 02:36:23 PM]       assumed.
+[26/06/2017 02:36:23 PM] 
+[26/06/2017 02:36:23 PM]       The command lc functions the same as ls except that the lc default
+[26/06/2017 02:36:23 PM]       output is columnar, even if output is redirected.
+[26/06/2017 02:36:23 PM] 
+[26/06/2017 02:36:23 PM]  Hewlett-Packard Company            - 1 -       HP-UX 11i Version 3 Feb 2007
+[26/06/2017 02:36:23 PM] 
+[26/06/2017 02:36:23 PM]  ls(1)                                                                 ls(1)
+[26/06/2017 02:36:23 PM] 
+[26/06/2017 02:36:23 PM]     Options
+[26/06/2017 02:36:23 PM]       ls recognizes the following options:
+[26/06/2017 02:36:23 PM] 
+[26/06/2017 02:36:23 PM]            -a   List all entries; usually entries whose names begin with a
+[26/06/2017 02:36:23 PM]                 period (.) are not listed.
+[26/06/2017 02:36:24 PM] 
+[26/06/2017 02:36:24 PM]            -b   List nonprinting characters in the octal \ddd notation.
+[26/06/2017 02:36:24 PM] 
+[26/06/2017 02:36:24 PM]            -c   Use time of last modification of the inode (file created,
+[26/06/2017 02:36:24 PM]                 mode changed, etc.) for sorting (-t) or printing (-l (ell)).
+[26/06/2017 02:36:24 PM] 
+[26/06/2017 02:36:24 PM]            -d   If an argument is a directory, list only its name (not its
+[26/06/2017 02:36:24 PM]                 contents); often used with -l (ell) to get the status of a
+[26/06/2017 02:36:24 PM]                 directory.
+[26/06/2017 02:36:24 PM] 
+[26/06/2017 02:36:24 PM]                 Under the UNIX 2003 environment (see standards(5)), ls with
+[26/06/2017 02:36:24 PM]                 -d does not follow symbolic links unless the -H or -L option
+[26/06/2017 02:36:24 PM]                 is specified.
+[26/06/2017 02:36:24 PM] 
+[26/06/2017 02:36:24 PM]            -e   List the extent attributes of the file.  If any of the files
+[26/06/2017 02:36:24 PM]                 has a extent attribute, this option lists the extent size,
+[26/06/2017 02:36:24 PM]                 space reserved and allocation flags.  This option must be
+[26/06/2017 02:36:24 PM]                 used with the -l (ell) option.
+[26/06/2017 02:36:24 PM] 
+[26/06/2017 02:36:24 PM]            -f   Interpret each argument as a directory and list the name
+[26/06/2017 02:36:24 PM]                 found in each slot.  This option disables -l (ell), -r, -s,
+[26/06/2017 02:36:24 PM]                 and -t, and enables -a; the order is the order in which
+[26/06/2017 02:36:24 PM]                 entries appear in the directory.
+[26/06/2017 02:36:24 PM] 
+[26/06/2017 02:36:24 PM]            -g   Same as -l (ell), except that only the group is printed
+[26/06/2017 02:36:24 PM]                 (owner is omitted).  If both -l (ell) and -g are specified,
+[26/06/2017 02:36:24 PM]                 the owner is not printed.
+[26/06/2017 02:36:24 PM] 
+[26/06/2017 02:36:24 PM]            -i   For each file, list the inode number in the first column of
+[26/06/2017 02:36:24 PM]                 the report.  When used in multicolumn output, the number
+[26/06/2017 02:36:24 PM]                 precedes the file name in each column.
+[26/06/2017 02:36:24 PM] 
+[26/06/2017 02:36:28 PM]            -l   (ell) List in long format, giving mode, number of links,
+[26/06/2017 02:36:28 PM]                 owner, group, size in bytes, and time of last modification
+[26/06/2017 02:36:28 PM]                 for each file (see further DESCRIPTION and Access Control
+[26/06/2017 02:36:28 PM]                 Lists below).  If the time of last modification is greater
+[26/06/2017 02:36:28 PM]                 than six months ago, or any time in the future, the year is
+[26/06/2017 02:36:28 PM]                 substituted for the hour and minute of the modification
+[26/06/2017 02:36:28 PM]                 time.  If the file is a special file, the size field
+[26/06/2017 02:36:28 PM]                 contains the major and minor device numbers rather than a
+[26/06/2017 02:36:28 PM]                 size.  If the file is a symbolic link, the filename is
+[26/06/2017 02:36:28 PM]                 printed, followed by -> and the pathname of the referenced
+[26/06/2017 02:36:28 PM]                 file.
+[26/06/2017 02:36:28 PM] 
+[26/06/2017 02:36:28 PM]                 Under the UNIX 2003 environment (see standards(5)), ls with
+[26/06/2017 02:36:28 PM]                 -l does not follow symbolic links unless the -H or -L option
+[26/06/2017 02:36:28 PM] 
+[26/06/2017 02:36:28 PM]  Hewlett-Packard Company            - 2 -       HP-UX 11i Version 3 Feb 2007
+[26/06/2017 02:36:28 PM] 
+[26/06/2017 02:36:28 PM]  ls(1)                                                                 ls(1)
+[26/06/2017 02:36:28 PM] 
+[26/06/2017 02:36:28 PM]                 is specified.
+[26/06/2017 02:36:28 PM] 
+[26/06/2017 02:36:28 PM]            -m   Stream output format.
+[26/06/2017 02:36:28 PM] 
+[26/06/2017 02:36:28 PM]            -n   The same as -l, (ell) except that the owner's UID and
+[26/06/2017 02:36:28 PM]                 group's GID numbers are printed, rather than the associated
+[26/06/2017 02:36:28 PM]                 character strings.
+[26/06/2017 02:36:28 PM] 
+[26/06/2017 02:36:28 PM]            -o   The same as -l, (ell) except that only the owner is printed
+[26/06/2017 02:36:28 PM]                 (group is omitted).  (If both -l (ell) and -o are specified,
+[26/06/2017 02:36:28 PM]                 the group is not printed).
+[26/06/2017 02:36:28 PM] 
+[26/06/2017 02:36:28 PM]            -p   Put a slash (/) after each file name if that file is a
+[26/06/2017 02:36:30 PM]                 directory.
+[26/06/2017 02:36:30 PM] 
+[26/06/2017 02:36:30 PM]            -q   List nonprinting characters in file names as the character
+[26/06/2017 02:36:30 PM]                 (?).
+[26/06/2017 02:36:30 PM] 
+[26/06/2017 02:36:30 PM]            -r   Reverse the order of sort to get reverse (descending)
+[26/06/2017 02:36:30 PM]                 collation or oldest first, as appropriate.
+[26/06/2017 02:36:30 PM] 
+[26/06/2017 02:36:30 PM]            -s   List size in blocks of 512-byte units, including indirect
+[26/06/2017 02:36:30 PM]                 blocks, for each entry.  The first entry listed is the total
+[26/06/2017 02:36:30 PM]                 number of blocks in the directory.  When used in multicolumn
+[26/06/2017 02:36:30 PM]                 output, the number of blocks precedes the file name in each
+[26/06/2017 02:36:30 PM]                 column.  The number of indirect blocks in a file is
+[26/06/2017 02:36:30 PM]                 filesystem dependent.
+[26/06/2017 02:36:30 PM] 
+[26/06/2017 02:36:30 PM]            -t   Sort by time modified (latest first) before sorting
+[26/06/2017 02:36:30 PM]                 alphabetically.
+[26/06/2017 02:36:30 PM] 
+[26/06/2017 02:36:30 PM]            -u   Use time of last access instead of last modification for
+[26/06/2017 02:36:30 PM]                 sorting (-t option) or printing (-l (ell) option).
+[26/06/2017 02:36:30 PM] 
+[26/06/2017 02:36:30 PM]            -x   List multicolumn output with entries sorted across rather
+[26/06/2017 02:36:30 PM]                 than down the page.
+[26/06/2017 02:36:30 PM] 
+[26/06/2017 02:36:30 PM]            -A   The same as -a, except that the current directory . and
+[26/06/2017 02:36:30 PM]                 parent directory .. are not listed.  For a user with
+[26/06/2017 02:36:30 PM]                 appropriate privileges, this flag defaults to on, and is
+[26/06/2017 02:36:30 PM]                 turned off by -A.
+[26/06/2017 02:36:30 PM] 
+[26/06/2017 02:36:30 PM]            -C   List multicolumn output with entries sorted down the
+[26/06/2017 02:36:30 PM]                 columns.
+[26/06/2017 02:36:30 PM] 
+[26/06/2017 02:36:31 PM]            -F   After each file name, put one of:
+[26/06/2017 02:36:31 PM] 
+[26/06/2017 02:36:31 PM]                 +  A slash (/) if the file is a directory or a symbolic link
+[26/06/2017 02:36:31 PM]                    to a directory.
+[26/06/2017 02:36:31 PM]                 +  An asterisk (*) if the file is executable;
+[26/06/2017 02:36:31 PM] 
+[26/06/2017 02:36:31 PM]  Hewlett-Packard Company            - 3 -       HP-UX 11i Version 3 Feb 2007
+[26/06/2017 02:36:31 PM] 
+[26/06/2017 02:36:31 PM]  ls(1)                                                                 ls(1)
+[26/06/2017 02:36:31 PM] 
+[26/06/2017 02:36:31 PM]                 +  An at-sign (@) if the file is a symbolic link to a file;
+[26/06/2017 02:36:31 PM]                 +  A vertical bar (|) if the file is a fifo.
+[26/06/2017 02:36:31 PM] 
+[26/06/2017 02:36:31 PM]                 Under the UNIX 2003 environment (see standards(5)), ls with
+[26/06/2017 02:36:31 PM]                 -F does not follow symbolic links unless the -H or -L option
+[26/06/2017 02:36:31 PM]                 is specified.
+[26/06/2017 02:36:31 PM] 
+[26/06/2017 02:36:31 PM]            -H   If a symbolic link referencing a file of type directory is
+[26/06/2017 02:36:31 PM]                 specified on the command line, ls evaluates the file
+[26/06/2017 02:36:31 PM]                 information and file type to be those of the file referenced
+[26/06/2017 02:36:31 PM]                 by the link, and not the link itself. However, ls writes the
+[26/06/2017 02:36:31 PM]                 name of the link itself and not the file referenced by the
+[26/06/2017 02:36:31 PM]                 link.
+[26/06/2017 02:36:31 PM] 
+[26/06/2017 02:36:31 PM]            -L   Evaluate the file information and file type for all symbolic
+[26/06/2017 02:36:31 PM]                 links (whether named on the command line or encountered in a
+[26/06/2017 02:36:31 PM]                 file hierarchy) to be those of the file referenced by the
+[26/06/2017 02:36:31 PM]                 link, and not the link itself.  However, ls writes the name
+[26/06/2017 02:36:31 PM]                 of the link itself and not the file referenced by the link.
+[26/06/2017 02:36:31 PM]                 When -L is used with -l, write the contents of symbolic
+[26/06/2017 02:36:31 PM]                 links in the long format.
+[26/06/2017 02:36:31 PM] 
+[26/06/2017 02:36:33 PM]            -R   Recursively list subdirectories encountered.
+[26/06/2017 02:36:33 PM] 
+[26/06/2017 02:36:33 PM]            -1   (one) List the file names in single column format regardless
+[26/06/2017 02:36:33 PM]                 of the output device.  This forces single column format to
+[26/06/2017 02:36:33 PM]                 the user's terminal.
+[26/06/2017 02:36:33 PM] 
+[26/06/2017 02:36:33 PM]       Specifying more than one of the options in the following mutually
+[26/06/2017 02:36:33 PM]       exclusive pairs is not considered an error: -C and -l (ell), -m and -l
+[26/06/2017 02:36:33 PM]       (ell), -x and -l (ell), -C and -1 (one), -H and -L, and -c and -u.
+[26/06/2017 02:36:33 PM] 
+[26/06/2017 02:36:33 PM]       ls is known by several shorthand-version names for the various
+[26/06/2017 02:36:33 PM]       formats:
+[26/06/2017 02:36:33 PM] 
+[26/06/2017 02:36:33 PM]            l    is equivalent to ls -m
+[26/06/2017 02:36:33 PM]            ll   is equivalent to ls -l (ell)
+[26/06/2017 02:36:33 PM]            lsf  is equivalent to ls -F
+[26/06/2017 02:36:33 PM]            lsr  is equivalent to ls -R
+[26/06/2017 02:36:33 PM]            lsx  is equivalent to ls -x
+[26/06/2017 02:36:33 PM] 
+[26/06/2017 02:36:33 PM]       The shorthand notations are implemented as links to ls.  Option
+[26/06/2017 02:36:33 PM]       arguments to the shorthand versions behave exactly as if the long form
+[26/06/2017 02:36:33 PM]       above had been used with the additional arguments.
+[26/06/2017 02:36:33 PM] 
+[26/06/2017 02:36:33 PM]       Mode Bits Interpretation (-l option)
+[26/06/2017 02:36:33 PM]       The mode printed in listings produced by the -l (ell) option consists
+[26/06/2017 02:36:33 PM]       of 10 characters, for example, -rwxr-xr-x.
+[26/06/2017 02:36:33 PM] 
+[26/06/2017 02:36:33 PM]       The first character indicates the entry type:
+[26/06/2017 02:36:33 PM] 
+[26/06/2017 02:36:33 PM]  Hewlett-Packard Company            - 4 -       HP-UX 11i Version 3 Feb 2007
+[26/06/2017 02:36:33 PM] 
+[26/06/2017 02:36:33 PM]  ls(1)                                                                 ls(1)
+[26/06/2017 02:36:34 PM] 
+[26/06/2017 02:36:34 PM]            b    Block special file
+[26/06/2017 02:36:34 PM]            c    Character special file
+[26/06/2017 02:36:34 PM]            d    Directory
+[26/06/2017 02:36:34 PM]            l    Symbolic link
+[26/06/2017 02:36:34 PM]            n    Network special file
+[26/06/2017 02:36:34 PM]            p    Fifo (also called a "named pipe") special file
+[26/06/2017 02:36:34 PM]            s    Socket
+[26/06/2017 02:36:34 PM]            -    Ordinary file
+[26/06/2017 02:36:34 PM] 
+[26/06/2017 02:36:34 PM]       The next 9 characters are interpreted as three sets of three
+[26/06/2017 02:36:34 PM]       characters each which identify access and execution permissions for
+[26/06/2017 02:36:34 PM]       the owner, group, and others categories, as described in chmod(1).
+[26/06/2017 02:36:34 PM]       The - indicates the permission is not granted.  The various
+[26/06/2017 02:36:34 PM]       permissions can be put together in any combination, except that the x,
+[26/06/2017 02:36:34 PM]       s, S, t, and T characters are mutually exclusive, as implied below.
+[26/06/2017 02:36:34 PM] 
+[26/06/2017 02:36:34 PM]            -r--------     Read by owner
+[26/06/2017 02:36:34 PM]            --w-------     Write by owner
+[26/06/2017 02:36:34 PM]            ---x------     Execute (or search directory) by owner; do not set
+[26/06/2017 02:36:34 PM]                           user ID on execution
+[26/06/2017 02:36:34 PM]            ---s------     Execute/search by owner; set user ID on execution
+[26/06/2017 02:36:34 PM]            ---S------     No execute/search by owner; set user ID on
+[26/06/2017 02:36:34 PM]                           execution
+[26/06/2017 02:36:34 PM]            ----r-----     Read by group
+[26/06/2017 02:36:34 PM]            -----w----     Write by group
+[26/06/2017 02:36:34 PM]            ------x---     Execute/search by group; do not set group ID on
+[26/06/2017 02:36:34 PM]                           execution
+[26/06/2017 02:36:34 PM]            ------s---     Execute/search by group; set group ID on execution
+[26/06/2017 02:36:34 PM]            ------S---     No execute/search by group; set group ID on
+[26/06/2017 02:36:34 PM]                           execution
+[26/06/2017 02:36:34 PM]            -------r--     Read by others
+[26/06/2017 02:36:37 PM]            --------w-     Write by others
+[26/06/2017 02:36:37 PM]            ---------x     Execute/search by others; do not set sticky bit on
+[26/06/2017 02:36:37 PM]                           execution
+[26/06/2017 02:36:37 PM]            ---------t     Execute/search by others; set sticky bit on
+[26/06/2017 02:36:37 PM]                           execution
+[26/06/2017 02:36:37 PM]            ---------T     No execute/search by others; set sticky bit on
+[26/06/2017 02:36:37 PM]                           execution
+[26/06/2017 02:36:37 PM] 
+[26/06/2017 02:36:37 PM]       The mode characters are interpreted as follows:
+[26/06/2017 02:36:37 PM] 
+[26/06/2017 02:36:37 PM]            -    Deny all permissions in the corresponding position.
+[26/06/2017 02:36:37 PM] 
+[26/06/2017 02:36:37 PM]            r    Grant read permission to the corresponding user class.
+[26/06/2017 02:36:37 PM] 
+[26/06/2017 02:36:37 PM]            w    Grant write permission to the corresponding user class.
+[26/06/2017 02:36:37 PM] 
+[26/06/2017 02:36:37 PM]            x    Grant execute (or search in directory) permission to the
+[26/06/2017 02:36:37 PM]                 corresponding user class.
+[26/06/2017 02:36:37 PM] 
+[26/06/2017 02:36:37 PM]  Hewlett-Packard Company            - 5 -       HP-UX 11i Version 3 Feb 2007
+[26/06/2017 02:36:37 PM] 
+[26/06/2017 02:36:37 PM]  ls(1)                                                                 ls(1)
+[26/06/2017 02:36:37 PM] 
+[26/06/2017 02:36:37 PM]            s    Grant execute (search) permission to the corresponding user
+[26/06/2017 02:36:37 PM]                 class.  Execute the file as if by the owner (set user ID,
+[26/06/2017 02:36:37 PM]                 SUID) or group (set group ID, SGID), as indicated by
+[26/06/2017 02:36:37 PM]                 position.
+[26/06/2017 02:36:37 PM] 
+[26/06/2017 02:36:37 PM]            S    Deny execute (search) permission to the corresponding user
+[26/06/2017 02:36:37 PM]                 class.  Execute the file as if by the owner (set user ID,
+[26/06/2017 02:36:37 PM]                 SUID) or group (set group ID, SGID), as indicated by
+[26/06/2017 02:36:37 PM]                 position.
+[26/06/2017 02:36:40 PM] 
+[26/06/2017 02:36:40 PM]            t    Grant execute (search) permission to others.  The "sticky"
+[26/06/2017 02:36:40 PM]                 bit is set (see the description of S_ISVTX in chmod(2)).
+[26/06/2017 02:36:40 PM] 
+[26/06/2017 02:36:40 PM]            T    Deny execute (search directory) permission to others.  The
+[26/06/2017 02:36:40 PM]                 "sticky" bit is set.
+[26/06/2017 02:36:40 PM] 
+[26/06/2017 02:36:40 PM]       When an option is specified that results in a listing of directory
+[26/06/2017 02:36:40 PM]       and/or file sizes in bytes or blocks (such as the -s or -l (ell)
+[26/06/2017 02:36:40 PM]       option), a total count of blocks, including indirect blocks, is also
+[26/06/2017 02:36:40 PM]       printed at the beginning of the listing.
+[26/06/2017 02:36:40 PM] 
+[26/06/2017 02:36:40 PM]     Access Control Lists (ACLs)
+[26/06/2017 02:36:40 PM]       If a file has optional ACL entries, the -l (ell) option displays a
+[26/06/2017 02:36:40 PM]       plus sign (+) after the file's permissions.  The permissions shown are
+[26/06/2017 02:36:40 PM]       a summary representation of the file's access control list, as
+[26/06/2017 02:36:40 PM]       returned by stat() in the st_mode field (see stat(2)).  To list the
+[26/06/2017 02:36:40 PM]       contents of an access control list, use the lsacl command (see
+[26/06/2017 02:36:40 PM]       lsacl(1) and acl(5)) for HFS file systems, or the getacl command (see
+[26/06/2017 02:36:40 PM]       getacl(1) and aclv(5)) for JFS file systems.
+[26/06/2017 02:36:40 PM] 
+[26/06/2017 02:36:40 PM]  EXTERNAL INFLUENCES
+[26/06/2017 02:36:40 PM]       For information about the UNIX standard environment, see standards(5).
+[26/06/2017 02:36:40 PM] 
+[26/06/2017 02:36:40 PM]     Environment Variables
+[26/06/2017 02:36:40 PM]       If the COLUMNS variable is set, ls uses the width provided in
+[26/06/2017 02:36:40 PM]       determining positioning of columnar output.
+[26/06/2017 02:36:40 PM] 
+[26/06/2017 02:36:40 PM]       LANG determines the locale to use for the locale categories when both
+[26/06/2017 02:36:40 PM]       LC_ALL and the corresponding environment variable (beginning with LC_)
+[26/06/2017 02:36:40 PM]       do not specify a locale.  If LANG is not set or is null, it defaults
+[26/06/2017 02:36:40 PM]       to C (see lang(5)).
+[26/06/2017 02:36:41 PM] 
+[26/06/2017 02:36:41 PM]       LC_COLLATE determines the order in which the output is sorted.
+[26/06/2017 02:36:41 PM] 
+[26/06/2017 02:36:41 PM]       LC_CTYPE determines which characters are classified as nonprinting for
+[26/06/2017 02:36:41 PM]       the -b and -q options, and the interpretation of single- and/or
+[26/06/2017 02:36:41 PM]       multibyte characters within file names.
+[26/06/2017 02:36:41 PM] 
+[26/06/2017 02:36:41 PM]       LC_TIME determines the date and time strings output by the -g, -l
+[26/06/2017 02:36:41 PM]       (ell), -n, and -o options.
+[26/06/2017 02:36:41 PM] 
+[26/06/2017 02:36:41 PM]  Hewlett-Packard Company            - 6 -       HP-UX 11i Version 3 Feb 2007
+[26/06/2017 02:36:41 PM] 
+[26/06/2017 02:36:41 PM]  ls(1)                                                                 ls(1)
+[26/06/2017 02:36:41 PM] 
+[26/06/2017 02:36:41 PM]       LC_MESSAGES determines the language in which messages (other than the
+[26/06/2017 02:36:41 PM]       date and time strings) are displayed.
+[26/06/2017 02:36:41 PM] 
+[26/06/2017 02:36:41 PM]       If any internationalization variable contains an invalid setting, they
+[26/06/2017 02:36:41 PM]       all default to C (see environ(5)).
+[26/06/2017 02:36:41 PM] 
+[26/06/2017 02:36:41 PM]     International Code Set Support
+[26/06/2017 02:36:41 PM]       Single- and multibyte character code sets are supported.
+[26/06/2017 02:36:41 PM] 
+[26/06/2017 02:36:41 PM]  RETURN VALUE
+[26/06/2017 02:36:41 PM]       ls exits with one of the following values:
+[26/06/2017 02:36:41 PM] 
+[26/06/2017 02:36:41 PM]             0   All input files were listed successfully.
+[26/06/2017 02:36:41 PM] 
+[26/06/2017 02:36:41 PM]            >0   ls was aborted because errors occurred when accessing files.
+[26/06/2017 02:36:41 PM]                 The following conditions cause an error:
+[26/06/2017 02:36:41 PM] 
+[26/06/2017 02:36:41 PM]                 +  Specified file not found.
+[26/06/2017 02:36:43 PM]                 +  User has no permission to read the directory.
+[26/06/2017 02:36:43 PM]                 +  Process could not get enough memory.
+[26/06/2017 02:36:43 PM]                 +  Invalid option specified.
+[26/06/2017 02:36:43 PM] 
+[26/06/2017 02:36:43 PM]  EXAMPLES
+[26/06/2017 02:36:43 PM]       Print a long listing of all the files in the current working directory
+[26/06/2017 02:36:43 PM]       (including the file sizes).  List the most recently modified
+[26/06/2017 02:36:43 PM]       (youngest) file first, followed by the next older file, and so forth,
+[26/06/2017 02:36:43 PM]       to the oldest.  Files whose names begin with a . are also printed.
+[26/06/2017 02:36:43 PM] 
+[26/06/2017 02:36:43 PM]            ls -alst
+[26/06/2017 02:36:43 PM] 
+[26/06/2017 02:36:43 PM]  WARNINGS
+[26/06/2017 02:36:43 PM]       Setting options based on whether the output is a login (tty) device is
+[26/06/2017 02:36:43 PM]       undesirable because ls -s is very different from ls -s | lp.  On the
+[26/06/2017 02:36:43 PM]       other hand, not using this setting makes old shell scripts that used
+[26/06/2017 02:36:43 PM]       ls almost inevitably fail.
+[26/06/2017 02:36:43 PM] 
+[26/06/2017 02:36:43 PM]       Nonprinting characters in file names (without the -b or -q option) may
+[26/06/2017 02:36:43 PM]       cause columnar output to be misaligned.
+[26/06/2017 02:36:43 PM] 
+[26/06/2017 02:36:43 PM]  DEPENDENCIES
+[26/06/2017 02:36:43 PM]     NFS
+[26/06/2017 02:36:43 PM]       The -l (ell) option does not display a plus sign (+) after the access
+[26/06/2017 02:36:43 PM]       permission bits of networked files to represent existence of optional
+[26/06/2017 02:36:43 PM]       access control list entries.
+[26/06/2017 02:36:43 PM] 
+[26/06/2017 02:36:43 PM]  AUTHOR
+[26/06/2017 02:36:43 PM]       ls was developed by AT&T, the University of California, Berkeley and
+[26/06/2017 02:36:43 PM]       HP.
+[26/06/2017 02:36:43 PM] 
+[26/06/2017 02:36:43 PM]  FILES
+[26/06/2017 02:36:45 PM] 
+[26/06/2017 02:36:45 PM]  Hewlett-Packard Company            - 7 -       HP-UX 11i Version 3 Feb 2007
+[26/06/2017 02:36:45 PM] 
+[26/06/2017 02:36:45 PM]  ls(1)                                                                 ls(1)
+[26/06/2017 02:36:45 PM] 
+[26/06/2017 02:36:45 PM]       /etc/group                    For group IDs for -l (ell) and -g.
+[26/06/2017 02:36:45 PM]       /etc/passwd                   For user IDs for -l (ell) and -o.
+[26/06/2017 02:36:45 PM]       /usr/share/lib/terminfo/?/*   For terminal information.
+[26/06/2017 02:36:45 PM] 
+[26/06/2017 02:36:45 PM]  SEE ALSO
+[26/06/2017 02:36:45 PM]       chmod(1), find(1), getacl(1), lsacl(1), stat(2), acl(5), aclv(5),
+[26/06/2017 02:36:45 PM]       standards(5).
+[26/06/2017 02:36:45 PM] 
+[26/06/2017 02:36:45 PM]  STANDARDS CONFORMANCE
+[26/06/2017 02:36:45 PM]       ls: SVID2, SVID3, XPG2, XPG3, XPG4, POSIX.2
+[26/06/2017 02:36:45 PM] 
+[26/06/2017 02:36:45 PM]  Hewlett-Packard Company            - 8 -       HP-UX 11i Version 3 Feb 2007
+[26/06/2017 02:36:45 PM] 
+[26/06/2017 02:38:25 PM] LGDAMEH1:/engn0h1/messvcd5/bin] cat pass  ^[  
+[26/06/2017 02:38:33 PM] LGDAMEH1:/engn0h1/messvcd5/bin] cat etc/passwd
+[26/06/2017 02:38:34 PM] cat: Cannot open etc/passwd: No such file or directory
+[26/06/2017 02:38:39 PM] LGDAMEH1:/engn0h1/messvcd5/bin] exit
+[26/06/2017 02:38:39 PM] logout
+[26/06/2017 02:38:39 PM] 
+[26/06/2017 02:38:39 PM] Connection closed by foreign host.
+
+[END] 26/06/2017 02:38:39 PM

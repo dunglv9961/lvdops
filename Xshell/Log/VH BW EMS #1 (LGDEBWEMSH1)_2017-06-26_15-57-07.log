@@ -1,0 +1,85 @@
+[BEGIN] 26/06/2017 03:57:07 PM
+[26/06/2017 03:57:07 PM] Disconnected from remote host(VH BW EMS #1 (LGDEBWEMSH1) - xadmlvd) at 15:57:00.
+Type `help' to learn how to use Xshell prompt.
+[e:\~]$ 
+Looking up proxy server '10.119.200.44'...
+Host '10.119.200.44' resolved to 10.119.200.44.
+Connecting to 10.119.200.44:21080...
+Connection established.
+To escape to local shell, press 'Ctrl+Alt+]'.
+Connecting to 10.119.211.71
+[26/06/2017 03:57:07 PM] USER[1007033524], PC[10.119.236.192], TARGET[10.119.211.71]
+[26/06/2017 03:57:07 PM] Warning: your password will expire in 1 day
+[26/06/2017 03:57:07 PM] Last login: Mon Jun 26 15:45:16 2017 from 10.119.200.44
+[26/06/2017 03:57:07 PM] 
+[26/06/2017 03:57:07 PM] INFORMATION: This session will expire after 8144 hours and 2 minutes.
+[26/06/2017 03:57:11 PM] [xtmplsk@LGDEBWEMSH1 ~]$ chage
+[26/06/2017 03:57:11 PM] Usage: chage [options] LOGIN
+[26/06/2017 03:57:11 PM] 
+[26/06/2017 03:57:11 PM] Options:
+[26/06/2017 03:57:11 PM]   -d, --lastday LAST_DAY        set date of last password change to LAST_DAY
+[26/06/2017 03:57:11 PM]   -E, --expiredate EXPIRE_DATE  set account expiration date to EXPIRE_DATE
+[26/06/2017 03:57:11 PM]   -h, --help                    display this help message and exit
+[26/06/2017 03:57:11 PM]   -I, --inactive INACTIVE       set password inactive after expiration
+[26/06/2017 03:57:11 PM]                                 to INACTIVE
+[26/06/2017 03:57:11 PM]   -l, --list                    show account aging information
+[26/06/2017 03:57:11 PM]   -m, --mindays MIN_DAYS        set minimum number of days before password
+[26/06/2017 03:57:11 PM]                                 change to MIN_DAYS
+[26/06/2017 03:57:11 PM]   -M, --maxdays MAX_DAYS        set maximim number of days before password
+[26/06/2017 03:57:11 PM]                                 change to MAX_DAYS
+[26/06/2017 03:57:11 PM]   -R, --root CHROOT_DIR         directory to chroot into
+[26/06/2017 03:57:11 PM]   -W, --warndays WARN_DAYS      set expiration warning days to WARN_DAYS
+[26/06/2017 03:57:11 PM] 
+[26/06/2017 03:57:30 PM] [xtmplsk@LGDEBWEMSH1 ~]$ chage -l xtmplsk
+[26/06/2017 03:57:30 PM] Last password change					: Mar 29, 2017
+[26/06/2017 03:57:30 PM] Password expires					: Jun 27, 2017
+[26/06/2017 03:57:30 PM] Password inactive					: never
+[26/06/2017 03:57:30 PM] Account expires						: never
+[26/06/2017 03:57:30 PM] Minimum number of days between password change		: 1
+[26/06/2017 03:57:30 PM] Maximum number of days between password change		: 90
+[26/06/2017 03:57:30 PM] Number of days of warning before password expires	: 7
+[26/06/2017 04:02:10 PM] [xtmplsk@LGDEBWEMSH1 ~]$ chage xtmplsk
+[26/06/2017 04:02:10 PM] chage: Permission denied.
+[26/06/2017 04:02:24 PM] [xtmplsk@LGDEBWEMSH1 ~]$ su -
+[26/06/2017 04:02:24 PM] Password: 
+[26/06/2017 04:02:31 PM] [root@LGDEBWEMSH1 ~]# chage xtmplsk
+[26/06/2017 04:02:31 PM] Changing the aging information for xtmplsk
+[26/06/2017 04:02:31 PM] Enter the new value, or press ENTER for the default
+[26/06/2017 04:02:31 PM] 
+[26/06/2017 04:02:40 PM] 	Minimum Password Age [1]: 0
+[26/06/2017 04:02:46 PM] 	Maximum Password Age [90]: 90
+[26/06/2017 04:03:14 PM] 	Last Password Change (YYYY-MM-DD) [2017-03-29]: ^[^[
+[26/06/2017 04:03:14 PM] chage: error changing fields
+[26/06/2017 04:03:19 PM] [root@LGDEBWEMSH1 ~]# chage xtmplsk
+[26/06/2017 04:03:20 PM] Changing the aging information for xtmplsk
+[26/06/2017 04:03:20 PM] Enter the new value, or press ENTER for the default
+[26/06/2017 04:03:20 PM] 
+[26/06/2017 04:03:24 PM] 	Minimum Password Age [1]: 0
+[26/06/2017 04:03:45 PM] 	Maximum Password Age [90]: 300^H^H^H^Hxx^H^H^[^[
+[26/06/2017 04:03:45 PM] chage: error changing fields
+[26/06/2017 04:03:48 PM] [root@LGDEBWEMSH1 ~]# chage xtmplsk
+[26/06/2017 04:03:49 PM] Changing the aging information for xtmplsk
+[26/06/2017 04:03:49 PM] Enter the new value, or press ENTER for the default
+[26/06/2017 04:03:49 PM] 
+[26/06/2017 04:03:51 PM] 	Minimum Password Age [1]: 0
+[26/06/2017 04:03:57 PM] 	Maximum Password Age [90]: 365
+[26/06/2017 04:03:59 PM] 	Last Password Change (YYYY-MM-DD) [2017-03-29]: 
+[26/06/2017 04:04:02 PM] 	Password Expiration Warning [7]: 
+[26/06/2017 04:04:06 PM] 	Password Inactive [-1]: 
+[26/06/2017 04:04:10 PM] 	Account Expiration Date (YYYY-MM-DD) [-1]: 
+[26/06/2017 04:04:16 PM] [root@LGDEBWEMSH1 ~]# chage -l xtmplsk
+[26/06/2017 04:04:16 PM] Last password change					: Mar 29, 2017
+[26/06/2017 04:04:16 PM] Password expires					: Mar 29, 2018
+[26/06/2017 04:04:16 PM] Password inactive					: never
+[26/06/2017 04:04:16 PM] Account expires						: never
+[26/06/2017 04:04:16 PM] Minimum number of days between password change		: 0
+[26/06/2017 04:04:16 PM] Maximum number of days between password change		: 365
+[26/06/2017 04:04:16 PM] Number of days of warning before password expires	: 7
+[26/06/2017 04:06:16 PM] [root@LGDEBWEMSH1 ~]# exit
+[26/06/2017 04:06:16 PM] logout
+[26/06/2017 04:06:18 PM] [xtmplsk@LGDEBWEMSH1 ~]$ exit
+[26/06/2017 04:06:18 PM] logout
+[26/06/2017 04:06:19 PM] 
+[26/06/2017 04:06:19 PM] Connection closed by foreign host.
+
+[END] 26/06/2017 04:06:19 PM

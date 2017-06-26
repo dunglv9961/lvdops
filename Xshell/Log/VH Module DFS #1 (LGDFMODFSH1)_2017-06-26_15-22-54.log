@@ -1,0 +1,27 @@
+[BEGIN] 26/06/2017 03:22:54 PM
+[26/06/2017 03:22:54 PM] Disconnected from remote host(VH Module DFS #1 (LGDFMODFSH1)) at 15:22:51.
+Type `help' to learn how to use Xshell prompt.
+[e:\~]$ 
+Looking up proxy server '10.119.200.44'...
+Host '10.119.200.44' resolved to 10.119.200.44.
+Connecting to 10.119.200.44:21080...
+Connection established.
+To escape to local shell, press 'Ctrl+Alt+]'.
+Connecting to 10.119.211.81
+[26/06/2017 03:22:54 PM] USER[1007033524], PC[10.119.236.192], TARGET[10.119.211.81]
+[26/06/2017 03:22:54 PM] Last login: Mon Jun 26 15:19:25 2017 from 10.119.200.44
+[26/06/2017 03:22:54 PM] 
+[26/06/2017 03:22:54 PM] INFORMATION: This session will expire after 8144 hours and 37 minutes.
+[26/06/2017 03:22:58 PM] [xadmlvd@LGDFMODFSH1 ~]$ su -
+[26/06/2017 03:23:07 PM] Password: 
+[26/06/2017 03:23:10 PM] su: incorrect password
+[26/06/2017 03:24:34 PM] [xadmlvd@LGDFMODFSH1 ~]$ su - xtmplsk
+[26/06/2017 03:24:42 PM] Password: 
+[26/06/2017 03:24:44 PM] su: incorrect password
+[26/06/2017 03:28:25 PM] [xadmlvd@LGDFMODFSH1 ~]$ su -
+[26/06/2017 03:28:25 PM] Password: 
+[26/06/2017 03:28:27 PM] su: incorrect password
+[26/06/2017 03:30:37 PM] [xadmlvd@LGDFMODFSH1 ~]$ exit
+[26/06/2017 03:30:37 PM] Connection closed by foreign host.
+
+[END] 26/06/2017 03:30:37 PM

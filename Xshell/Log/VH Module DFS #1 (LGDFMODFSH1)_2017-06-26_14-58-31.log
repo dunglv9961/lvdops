@@ -1,0 +1,13 @@
+[BEGIN] 26/06/2017 02:58:31 PM
+[26/06/2017 02:58:31 PM] Connecting to 10.119.211.81
+[26/06/2017 02:58:31 PM] USER[1007033524], PC[10.119.236.192], TARGET[10.119.211.81]
+[26/06/2017 02:58:31 PM] [xadmlvd@LGDFMODFSH1 ~]$ 
+[26/06/2017 02:58:31 PM] INFORMATION: This session will expire after 8145 hours and 1 minutes.
+[26/06/2017 02:58:45 PM]  
+[26/06/2017 02:58:51 PM] [xadmlvd@LGDFMODFSH1 ~]$ ls
+[26/06/2017 02:58:55 PM] [xadmlvd@LGDFMODFSH1 ~]$ pwd
+[26/06/2017 02:58:55 PM] /home/xadmlvd
+[26/06/2017 02:59:37 PM] [xadmlvd@LGDFMODFSH1 ~]$ exit
+[26/06/2017 02:59:37 PM] Connection closed by foreign host.
+
+[END] 26/06/2017 02:59:37 PM

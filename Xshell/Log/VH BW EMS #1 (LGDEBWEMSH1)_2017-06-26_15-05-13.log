@@ -1,0 +1,342 @@
+[BEGIN] 26/06/2017 03:05:13 PM
+[26/06/2017 03:05:13 PM] Connecting to 10.119.211.71
+[26/06/2017 03:05:13 PM] USER[1007033524], PC[10.119.236.192], TARGET[10.119.211.71]
+[26/06/2017 03:05:13 PM] [xadmlvd@LGDEBWEMSH1 ~]$ 
+[26/06/2017 03:05:13 PM] INFORMATION: This session will expire after 8144 hours and 54 minutes.
+[26/06/2017 03:05:19 PM] ls
+[26/06/2017 03:05:32 PM] [xadmlvd@LGDEBWEMSH1 ~]$ cat /etc/passwd
+[26/06/2017 03:05:32 PM] root:x:0:0:root:/root:/bin/bash
+[26/06/2017 03:05:32 PM] bin:x:1:1:bin:/bin:/sbin/nologin
+[26/06/2017 03:05:32 PM] daemon:x:2:2:daemon:/sbin:/sbin/nologin
+[26/06/2017 03:05:32 PM] adm:x:3:4:adm:/var/adm:/sbin/nologin
+[26/06/2017 03:05:32 PM] lp:x:4:7:lp:/var/spool/lpd:/sbin/nologin
+[26/06/2017 03:05:32 PM] sync:x:5:0:sync:/sbin:/bin/sync
+[26/06/2017 03:05:32 PM] shutdown:x:6:0:shutdown:/sbin:/sbin/shutdown
+[26/06/2017 03:05:32 PM] halt:x:7:0:halt:/sbin:/sbin/halt
+[26/06/2017 03:05:32 PM] mail:x:8:12:mail:/var/spool/mail:/sbin/nologin
+[26/06/2017 03:05:32 PM] uucp:x:10:14:uucp:/var/spool/uucp:/sbin/nologin
+[26/06/2017 03:05:32 PM] operator:x:11:0:operator:/root:/sbin/nologin
+[26/06/2017 03:05:32 PM] games:x:12:100:games:/usr/games:/sbin/nologin
+[26/06/2017 03:05:32 PM] gopher:x:13:30:gopher:/var/gopher:/sbin/nologin
+[26/06/2017 03:05:32 PM] ftp:x:14:50:FTP User:/var/ftp:/sbin/nologin
+[26/06/2017 03:05:32 PM] nobody:x:99:99:Nobody:/:/sbin/nologin
+[26/06/2017 03:05:32 PM] dbus:x:81:81:System message bus:/:/sbin/nologin
+[26/06/2017 03:05:32 PM] usbmuxd:x:113:113:usbmuxd user:/:/sbin/nologin
+[26/06/2017 03:05:32 PM] rpc:x:32:32:Rpcbind Daemon:/var/cache/rpcbind:/sbin/nologin
+[26/06/2017 03:05:32 PM] rtkit:x:499:499:RealtimeKit:/proc:/sbin/nologin
+[26/06/2017 03:05:32 PM] avahi-autoipd:x:170:170:Avahi IPv4LL Stack:/var/lib/avahi-autoipd:/sbin/nologin
+[26/06/2017 03:05:32 PM] vcsa:x:69:69:virtual console memory owner:/dev:/sbin/nologin
+[26/06/2017 03:05:32 PM] abrt:x:173:173::/etc/abrt:/sbin/nologin
+[26/06/2017 03:05:32 PM] rpcuser:x:29:29:RPC Service User:/var/lib/nfs:/sbin/nologin
+[26/06/2017 03:05:32 PM] nfsnobody:x:65534:65534:Anonymous NFS User:/var/lib/nfs:/sbin/nologin
+[26/06/2017 03:05:32 PM] haldaemon:x:68:68:HAL daemon:/:/sbin/nologin
+[26/06/2017 03:05:32 PM] ntp:x:38:38::/etc/ntp:/sbin/nologin
+[26/06/2017 03:05:32 PM] apache:x:48:48:Apache:/var/www:/sbin/nologin
+[26/06/2017 03:05:32 PM] saslauth:x:498:76:Saslauthd user:/var/empty/saslauth:/sbin/nologin
+[26/06/2017 03:05:32 PM] postfix:x:89:89::/var/spool/postfix:/sbin/nologin
+[26/06/2017 03:05:32 PM] gdm:x:42:42::/var/lib/gdm:/sbin/nologin
+[26/06/2017 03:05:32 PM] pulse:x:497:495:PulseAudio System Daemon:/var/run/pulse:/sbin/nologin
+[26/06/2017 03:05:32 PM] sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
+[26/06/2017 03:05:32 PM] tcpdump:x:72:72::/:/sbin/nologin
+[26/06/2017 03:05:32 PM] xtmplsk:x:9000:9000:TA Temp Account:/home/xtmplsk:/bin/bash
+[26/06/2017 03:05:32 PM] rvmsvc01:x:4000:4000:EAI BizWorks Service Account:/engn001/rvmsvc01:/bin/bash
+[26/06/2017 03:05:32 PM] xadmlvd:x:9001:9001::/home/xadmlvd:/bin/bash
+[26/06/2017 03:05:52 PM] [xadmlvd@LGDEBWEMSH1 ~]$ man useradd
+[26/06/2017 03:05:52 PM] USERADD(8)                System Management Commands                USERADD(8)
+[26/06/2017 03:05:52 PM] 
+[26/06/2017 03:05:52 PM] NAME
+[26/06/2017 03:05:52 PM]        useradd - create a new user or update default new user information
+[26/06/2017 03:05:52 PM] 
+[26/06/2017 03:05:52 PM] SYNOPSIS
+[26/06/2017 03:05:52 PM]        useradd [options] LOGIN
+[26/06/2017 03:05:52 PM] 
+[26/06/2017 03:05:52 PM]        useradd -D
+[26/06/2017 03:05:52 PM] 
+[26/06/2017 03:05:52 PM]        useradd -D [options]
+[26/06/2017 03:05:52 PM] 
+[26/06/2017 03:05:52 PM] DESCRIPTION
+[26/06/2017 03:05:52 PM]        When invoked without the -D option, the useradd command creates a new user account using the values specified on the command line plus the default values from the
+[26/06/2017 03:05:52 PM]        system. Depending on command line options, the useradd command will update system files and may also create the new user큦 home directory and copy initial files.
+[26/06/2017 03:05:52 PM] 
+[26/06/2017 03:05:52 PM]        By default, a group will also be created for the new user (see -g, -N, -U, and USERGROUPS_ENAB).
+[26/06/2017 03:05:52 PM] 
+[26/06/2017 03:05:52 PM] OPTIONS
+[26/06/2017 03:05:52 PM]        The options which apply to the useradd command are:
+[26/06/2017 03:05:52 PM] 
+[26/06/2017 03:05:52 PM]        -b, --base-dir BASE_DIR
+[26/06/2017 03:05:52 PM]            The default base directory for the system if -d HOME_DIR is not specified.  BASE_DIR is concatenated with the account name to define the home directory. The
+[26/06/2017 03:05:52 PM]            BASE_DIR must exist otherwise the home directory cannot be created.
+[26/06/2017 03:05:52 PM] 
+[26/06/2017 03:05:52 PM]            If this option is not specified, useradd will use the base directory specified by the HOME variable in /etc/default/useradd, or /home by default.
+[26/06/2017 03:05:52 PM] 
+[26/06/2017 03:05:52 PM]        -c, --comment COMMENT
+[26/06/2017 03:05:52 PM]            Any text string. It is generally a short description of the login, and is currently used as the field for the user큦 full name.
+[26/06/2017 03:05:52 PM] 
+[26/06/2017 03:05:52 PM]        -d, --home-dir HOME_DIR
+[26/06/2017 03:05:52 PM]            The new user will be created using HOME_DIR as the value for the user큦 login directory. The default is to append the LOGIN name to BASE_DIR and use that as the
+[26/06/2017 03:05:56 PM]            login directory name.
+[26/06/2017 03:05:57 PM] 
+[26/06/2017 03:05:57 PM]        -D, --defaults
+[26/06/2017 03:05:57 PM]            See below, the subsection "Changing the default values".
+[26/06/2017 03:05:57 PM] 
+[26/06/2017 03:05:57 PM]        -e, --expiredate EXPIRE_DATE
+[26/06/2017 03:05:58 PM]            The date on which the user account will be disabled. The date is specified in the format YYYY-MM-DD.
+[26/06/2017 03:05:58 PM] 
+[26/06/2017 03:05:59 PM]            If not specified, useradd will use the default expiry date specified by the EXPIRE variable in /etc/default/useradd, or an empty string (no expiry) by default.
+[26/06/2017 03:05:59 PM] 
+[26/06/2017 03:05:59 PM]        -f, --inactive INACTIVE
+[26/06/2017 03:05:59 PM]            The number of days after a password expires until the account is permanently disabled. A value of 0 disables the account as soon as the password has expired,
+[26/06/2017 03:05:59 PM]            and a value of -1 disables the feature.
+[26/06/2017 03:05:59 PM] 
+[26/06/2017 03:05:59 PM]            If not specified, useradd will use the default inactivity period specified by the INACTIVE variable in /etc/default/useradd, or -1 by default.
+[26/06/2017 03:05:59 PM] 
+[26/06/2017 03:05:59 PM]        -g, --gid GROUP
+[26/06/2017 03:06:00 PM]            The group name or number of the user큦 initial login group. The group name must exist. A group number must refer to an already existing group.
+[26/06/2017 03:06:00 PM] 
+[26/06/2017 03:06:01 PM]            If not specified, the behavior of useradd will depend on the USERGROUPS_ENAB variable in /etc/login.defs. If this variable is set to yes (or -U/--user-group is
+[26/06/2017 03:06:01 PM]            specified on the command line), a group will be created for the user, with the same name as her loginname. If the variable is set to no (or -N/--no-user-group
+[26/06/2017 03:06:01 PM]            is specified on the command line), useradd will set the primary group of the new user to the value specified by the GROUP variable in /etc/default/useradd, or
+[26/06/2017 03:06:01 PM]            100 by default.
+[26/06/2017 03:06:02 PM] 
+[26/06/2017 03:06:02 PM]        -G, --groups GROUP1[,GROUP2,...[,GROUPN]]]
+[26/06/2017 03:06:02 PM]            A list of supplementary groups which the user is also a member of. Each group is separated from the next by a comma, with no intervening whitespace. The groups
+[26/06/2017 03:06:02 PM]            are subject to the same restrictions as the group given with the -g option. The default is for the user to belong only to the initial group.
+[26/06/2017 03:06:03 PM] 
+[26/06/2017 03:06:03 PM]        -h, --help
+[26/06/2017 03:06:03 PM]            Display help message and exit.
+[26/06/2017 03:06:03 PM] 
+[26/06/2017 03:06:03 PM]        -k, --skel SKEL_DIR
+[26/06/2017 03:06:03 PM]            The skeleton directory, which contains files and directories to be copied in the user큦 home directory, when the home directory is created by useradd.
+[26/06/2017 03:06:03 PM] 
+[26/06/2017 03:06:03 PM]            This option is only valid if the -m (or --create-home) option is specified.
+[26/06/2017 03:06:04 PM]        -D, --defaults
+[26/06/2017 03:06:04 PM] 
+[26/06/2017 03:06:04 PM]            login directory name.
+[26/06/2017 03:06:04 PM]            The new user will be created using HOME_DIR as the value for the user큦 login directory. The default is to append the LOGIN name to BASE_DIR and use that as the
+[26/06/2017 03:06:04 PM]        -d, --home-dir HOME_DIR
+[26/06/2017 03:06:04 PM] 
+[26/06/2017 03:06:04 PM]            Any text string. It is generally a short description of the login, and is currently used as the field for the user큦 full name.
+[26/06/2017 03:06:04 PM]        -c, --comment COMMENT
+[26/06/2017 03:06:04 PM] 
+[26/06/2017 03:06:04 PM]            If this option is not specified, useradd will use the base directory specified by the HOME variable in /etc/default/useradd, or /home by default.
+[26/06/2017 03:06:04 PM] 
+[26/06/2017 03:06:04 PM]            BASE_DIR must exist otherwise the home directory cannot be created.
+[26/06/2017 03:06:04 PM]            The default base directory for the system if -d HOME_DIR is not specified.  BASE_DIR is concatenated with the account name to define the home directory. The
+[26/06/2017 03:06:05 PM]        -b, --base-dir BASE_DIR
+[26/06/2017 03:06:05 PM] 
+[26/06/2017 03:06:05 PM]        The options which apply to the useradd command are:
+[26/06/2017 03:06:05 PM] OPTIONS
+[26/06/2017 03:06:05 PM] 
+[26/06/2017 03:06:05 PM]        By default, a group will also be created for the new user (see -g, -N, -U, and USERGROUPS_ENAB).
+[26/06/2017 03:06:05 PM] 
+[26/06/2017 03:06:05 PM]        system. Depending on command line options, the useradd command will update system files and may also create the new user큦 home directory and copy initial files.
+[26/06/2017 03:06:05 PM]        When invoked without the -D option, the useradd command creates a new user account using the values specified on the command line plus the default values from the
+[26/06/2017 03:06:05 PM] DESCRIPTION
+[26/06/2017 03:06:05 PM] 
+[26/06/2017 03:06:05 PM]        useradd -D [options]
+[26/06/2017 03:06:05 PM] 
+[26/06/2017 03:06:05 PM]        useradd -D
+[26/06/2017 03:06:05 PM] 
+[26/06/2017 03:06:06 PM]        useradd -D
+       useradd -D [options]
+DESCRIPTION
+       When invoked without the -D option, the useradd command creates a new user account using the values specified on the command line plus the default values from the
+       system. Depending on command line options, the useradd command will update system files and may also create the new user큦 home directory and copy initial files.
+       By default, a group will also be created for the new user (see -g, -N, -U, and USERGROUPS_ENAB).
+OPTIONS
+       The options which apply to the useradd command are:
+       -b, --base-dir BASE_DIR
+           The default base directory for the system if -d HOME_DIR is not specified.  BASE_DIR is concatenated with the account name to define the home directory. The
+           BASE_DIR must exist otherwise the home directory cannot be created.
+           If this option is not specified, useradd will use the base directory specified by the HOME variable in /etc/default/useradd, or /home by default.
+       -c, --comment COMMENT
+           Any text string. It is generally a short description of the login, and is currently used as the field for the user큦 full name.
+       -d, --home-dir HOME_DIR
+           The new user will be created using HOME_DIR as the value for the user큦 login directory. The default is to append the LOGIN name to BASE_DIR and use that as the
+           login directory name.
+       -D, --defaults
+           See below, the subsection "Changing the default values".
+       -e, --expiredate EXPIRE_DATE
+           The date on which the user account will be disabled. The date is specified in the format YYYY-MM-DD.
+[26/06/2017 03:06:06 PM]            If not specified, useradd will use the default expiry date specified by the EXPIRE variable in /etc/default/useradd, or an empty string (no expiry) by default.
+[26/06/2017 03:06:06 PM] 
+[26/06/2017 03:06:06 PM]        -f, --inactive INACTIVE
+[26/06/2017 03:06:06 PM]            The number of days after a password expires until the account is permanently disabled. A value of 0 disables the account as soon as the password has expired,
+[26/06/2017 03:06:06 PM]            and a value of -1 disables the feature.
+[26/06/2017 03:06:06 PM] 
+[26/06/2017 03:06:09 PM]            If not specified, useradd will use the default inactivity period specified by the INACTIVE variable in /etc/default/useradd, or -1 by default.
+[26/06/2017 03:06:11 PM] 
+[26/06/2017 03:06:12 PM]        -g, --gid GROUP
+[26/06/2017 03:06:12 PM]            The group name or number of the user큦 initial login group. The group name must exist. A group number must refer to an already existing group.
+[26/06/2017 03:06:12 PM] 
+[26/06/2017 03:06:12 PM]            If not specified, the behavior of useradd will depend on the USERGROUPS_ENAB variable in /etc/login.defs. If this variable is set to yes (or -U/--user-group is
+[26/06/2017 03:06:12 PM]            specified on the command line), a group will be created for the user, with the same name as her loginname. If the variable is set to no (or -N/--no-user-group
+[26/06/2017 03:06:12 PM]            is specified on the command line), useradd will set the primary group of the new user to the value specified by the GROUP variable in /etc/default/useradd, or
+[26/06/2017 03:06:12 PM]            100 by default.
+[26/06/2017 03:06:12 PM] 
+[26/06/2017 03:06:12 PM]        -G, --groups GROUP1[,GROUP2,...[,GROUPN]]]
+[26/06/2017 03:06:12 PM]            A list of supplementary groups which the user is also a member of. Each group is separated from the next by a comma, with no intervening whitespace. The groups
+[26/06/2017 03:06:12 PM]            are subject to the same restrictions as the group given with the -g option. The default is for the user to belong only to the initial group.
+[26/06/2017 03:06:13 PM] 
+[26/06/2017 03:06:14 PM]        -h, --help
+[26/06/2017 03:06:14 PM]            Display help message and exit.
+[26/06/2017 03:06:15 PM] 
+[26/06/2017 03:06:15 PM]        -k, --skel SKEL_DIR
+[26/06/2017 03:06:15 PM]            The skeleton directory, which contains files and directories to be copied in the user큦 home directory, when the home directory is created by useradd.
+[26/06/2017 03:06:15 PM] 
+[26/06/2017 03:06:16 PM]            This option is only valid if the -m (or --create-home) option is specified.
+[26/06/2017 03:06:16 PM] 
+[26/06/2017 03:06:16 PM]            If this option is not set, the skeleton directory is defined by the SKEL variable in /etc/default/useradd or, by default, /etc/skel.
+[26/06/2017 03:06:16 PM] 
+[26/06/2017 03:06:16 PM]            If possible, the ACLs and extended attributes are copied.
+[26/06/2017 03:06:16 PM] 
+[26/06/2017 03:06:16 PM]        -K, --key KEY=VALUE
+[26/06/2017 03:06:16 PM]            Overrides /etc/login.defs defaults (UID_MIN, UID_MAX, UMASK, PASS_MAX_DAYS and others).
+[26/06/2017 03:06:16 PM] 
+[26/06/2017 03:06:16 PM]            Example: -K PASS_MAX_DAYS=-1 can be used when creating system account to turn off password ageing, even though system account has no password at all. Multiple
+[26/06/2017 03:06:17 PM]            -K options can be specified, e.g.: -K UID_MIN=100 -K UID_MAX=499
+[26/06/2017 03:06:18 PM] 
+[26/06/2017 03:06:18 PM]        -l, --no-log-init
+[26/06/2017 03:06:18 PM]            Do not add the user to the lastlog and faillog databases.
+[26/06/2017 03:06:18 PM] 
+[26/06/2017 03:06:18 PM]            By default, the user큦 entries in the lastlog and faillog databases are resetted to avoid reusing the entry from a previously deleted user.
+[26/06/2017 03:06:18 PM] 
+[26/06/2017 03:06:18 PM]        -m, --create-home
+[26/06/2017 03:06:18 PM]            Create the user큦 home directory if it does not exist. The files and directories contained in the skeleton directory (which can be defined with the -k option)
+[26/06/2017 03:06:18 PM]            will be copied to the home directory.
+[26/06/2017 03:06:18 PM] 
+[26/06/2017 03:06:18 PM]            By default, if this option is not specified and CREATE_HOME is not enabled, no home directories are created.
+[26/06/2017 03:06:18 PM] 
+[26/06/2017 03:06:18 PM]            The directory where the user큦 home directory is created must exist and have proper SELinux context and permissions. Otherwise the user큦 home directory cannot
+[26/06/2017 03:06:18 PM]            be created or accessed.
+[26/06/2017 03:06:18 PM] 
+[26/06/2017 03:06:19 PM]        -M, --no-create-home
+[26/06/2017 03:06:19 PM]            Do not create the user큦 home directory, even if the system wide setting from /etc/login.defs (CREATE_HOME) is set to yes.
+[26/06/2017 03:06:19 PM] 
+[26/06/2017 03:06:19 PM]        -N, --no-user-group
+[26/06/2017 03:06:19 PM]            Do not create a group with the same name as the user, but add the user to the group specified by the -g option or by the GROUP variable in /etc/default/useradd.
+[26/06/2017 03:06:19 PM] 
+[26/06/2017 03:06:19 PM]            The default behavior (if the -g, -N, and -U options are not specified) is defined by the USERGROUPS_ENAB variable in /etc/login.defs.
+[26/06/2017 03:06:19 PM] 
+[26/06/2017 03:06:19 PM]        -o, --non-unique
+[26/06/2017 03:06:19 PM]            Allow the creation of a user account with a duplicate (non-unique) UID.
+[26/06/2017 03:06:20 PM] 
+[26/06/2017 03:06:20 PM]            This option is only valid in combination with the -u option.
+[26/06/2017 03:06:20 PM] 
+[26/06/2017 03:06:21 PM]        -p, --password PASSWORD
+[26/06/2017 03:06:21 PM]            The encrypted password, as returned by crypt(3). The default is to disable the password.
+[26/06/2017 03:06:21 PM] 
+[26/06/2017 03:06:21 PM]            Note: This option is not recommended because the password (or encrypted password) will be visible by users listing the processes.
+[26/06/2017 03:06:21 PM] 
+[26/06/2017 03:06:22 PM]            You should make sure the password respects the system큦 password policy.
+[26/06/2017 03:06:22 PM] 
+[26/06/2017 03:06:22 PM]        -r, --system
+[26/06/2017 03:06:22 PM]            Create a system account.
+[26/06/2017 03:06:22 PM] 
+[26/06/2017 03:06:22 PM]            System users will be created with no aging information in /etc/shadow, and their numeric identifiers are chosen in the SYS_UID_MIN-SYS_UID_MAX range, defined in
+[26/06/2017 03:06:22 PM]            /etc/login.defs, instead of UID_MIN-UID_MAX (and their GID counterparts for the creation of groups).
+[26/06/2017 03:06:22 PM] 
+[26/06/2017 03:06:23 PM]            Note that useradd will not create a home directory for such an user, regardless of the default setting in /etc/login.defs (CREATE_HOME). You have to specify the
+[26/06/2017 03:06:23 PM]            -m options if you want a home directory for a system account to be created.
+[26/06/2017 03:06:23 PM] 
+[26/06/2017 03:06:23 PM]        -R, --root CHROOT_DIR
+[26/06/2017 03:06:23 PM]            Apply changes in the CHROOT_DIR directory and use the configuration files from the CHROOT_DIR directory.
+[26/06/2017 03:06:23 PM] 
+[26/06/2017 03:06:23 PM]        -s, --shell SHELL
+[26/06/2017 03:06:23 PM]            The name of the user큦 login shell. The default is to leave this field blank, which causes the system to select the default login shell specified by the SHELL
+[26/06/2017 03:06:23 PM]            variable in /etc/default/useradd, or an empty string by default.
+[26/06/2017 03:06:24 PM] 
+[26/06/2017 03:06:24 PM]        -u, --uid UID
+[26/06/2017 03:06:24 PM]            The numerical value of the user큦 ID. This value must be unique, unless the -o option is used. The value must be non-negative. The default is to use the
+[26/06/2017 03:06:24 PM]            smallest ID value greater than or equal to UID_MIN and greater than every other user.
+[26/06/2017 03:06:24 PM] 
+[26/06/2017 03:06:24 PM]            See also the -r option and the UID_MAX description.
+[26/06/2017 03:06:24 PM] 
+[26/06/2017 03:06:24 PM]        -U, --user-group
+[26/06/2017 03:06:25 PM]            Create a group with the same name as the user, and add the user to this group.
+[26/06/2017 03:06:25 PM] 
+[26/06/2017 03:06:25 PM]            The default behavior (if the -g, -N, and -U options are not specified) is defined by the USERGROUPS_ENAB variable in /etc/login.defs.
+[26/06/2017 03:06:25 PM] 
+[26/06/2017 03:06:26 PM]        -Z, --selinux-user SEUSER
+[26/06/2017 03:06:26 PM]            The SELinux user for the user큦 login. The default is to leave this field blank, which causes the system to select the default SELinux user.
+[26/06/2017 03:06:26 PM] 
+[26/06/2017 03:06:26 PM]    Changing the default values
+[26/06/2017 03:06:26 PM]        When invoked with only the -D option, useradd will display the current default values. When invoked with -D plus other options, useradd will update the default
+[26/06/2017 03:06:26 PM]        values for the specified options. Valid default-changing options are:
+[26/06/2017 03:06:27 PM] 
+[26/06/2017 03:06:27 PM]        -b, --base-dir BASE_DIR
+[26/06/2017 03:06:27 PM]            The path prefix for a new user큦 home directory. The user큦 name will be affixed to the end of BASE_DIR to form the new user큦 home directory name, if the -d
+[26/06/2017 03:06:27 PM]            option is not used when creating a new account.
+[26/06/2017 03:06:28 PM] 
+[26/06/2017 03:06:28 PM]            This option sets the HOME variable in /etc/default/useradd.
+[26/06/2017 03:06:28 PM] 
+[26/06/2017 03:06:28 PM]        -e, --expiredate EXPIRE_DATE
+[26/06/2017 03:06:28 PM]            The date on which the user account is disabled.
+[26/06/2017 03:06:29 PM] 
+[26/06/2017 03:06:29 PM]            This option sets the EXPIRE variable in /etc/default/useradd.
+[26/06/2017 03:06:29 PM] 
+[26/06/2017 03:06:29 PM]        -f, --inactive INACTIVE
+[26/06/2017 03:06:29 PM]            The number of days after a password has expired before the account will be disabled.
+[26/06/2017 03:06:29 PM] 
+[26/06/2017 03:06:29 PM]            This option sets the INACTIVE variable in /etc/default/useradd.
+[26/06/2017 03:06:29 PM] 
+[26/06/2017 03:06:30 PM]        -g, --gid GROUP
+[26/06/2017 03:06:30 PM]            The group name or ID for a new user큦 initial group (when the -N/--no-user-group is used or when the USERGROUPS_ENAB variable is set to no in /etc/login.defs).
+[26/06/2017 03:06:30 PM]            The named group must exist, and a numerical group ID must have an existing entry.
+[26/06/2017 03:06:30 PM] 
+[26/06/2017 03:06:30 PM]            This option sets the GROUP variable in /etc/default/useradd.
+[26/06/2017 03:06:30 PM] 
+[26/06/2017 03:06:30 PM]        -s, --shell SHELL
+[26/06/2017 03:06:30 PM]            The name of a new user큦 login shell.
+[26/06/2017 03:06:30 PM] 
+[26/06/2017 03:06:30 PM]            This option sets the SHELL variable in /etc/default/useradd.
+[26/06/2017 03:06:30 PM] 
+[26/06/2017 03:06:30 PM] NOTES
+[26/06/2017 03:06:30 PM]        The system administrator is responsible for placing the default user files in the /etc/skel/ directory (or any other skeleton directory specified in
+[26/06/2017 03:06:30 PM]        /etc/default/useradd or on the command line).
+[26/06/2017 03:06:30 PM] 
+[26/06/2017 03:06:30 PM] CAVEATS
+[26/06/2017 03:06:30 PM]        You may not add a user to a NIS or LDAP group. This must be performed on the corresponding server.
+[26/06/2017 03:06:30 PM] 
+[26/06/2017 03:06:30 PM]        Similarly, if the username already exists in an external user database such as NIS or LDAP, useradd will deny the user account creation request.
+[26/06/2017 03:06:30 PM] 
+[26/06/2017 03:06:30 PM]        Usernames may only be up to 32 characters long.
+[26/06/2017 03:06:30 PM] 
+[26/06/2017 03:06:30 PM] CONFIGURATION
+[26/06/2017 03:06:30 PM]        The following configuration variables in /etc/login.defs change the behavior of this tool:
+[26/06/2017 03:06:30 PM] 
+[26/06/2017 03:06:30 PM]        CREATE_HOME (boolean)
+[26/06/2017 03:06:30 PM]            Indicate if a home directory should be created by default for new users.
+[26/06/2017 03:06:31 PM] 
+[26/06/2017 03:06:31 PM]            This setting does not apply to system users, and can be overridden on the command line.
+[26/06/2017 03:06:31 PM] 
+[26/06/2017 03:06:31 PM]        GID_MAX (number), GID_MIN (number)
+[26/06/2017 03:06:31 PM]            Range of group IDs used for the creation of regular groups by useradd, groupadd, or newusers.
+[26/06/2017 03:06:31 PM] 
+[26/06/2017 03:06:31 PM]            The default value for GID_MIN (resp.  GID_MAX) is 500 (resp. 60000).
+[26/06/2017 03:06:31 PM] 
+[26/06/2017 03:06:31 PM]        MAIL_DIR (string)
+[26/06/2017 03:06:31 PM]            The mail spool directory. This is needed to manipulate the mailbox when its corresponding user account is modified or deleted. If not specified, a compile-time
+[26/06/2017 03:06:31 PM]            default is used.
+[26/06/2017 03:06:31 PM] 
+[26/06/2017 03:06:31 PM]        MAIL_FILE (string)
+[26/06/2017 03:06:31 PM]            Defines the location of the users mail spool files relatively to their home directory.
+[26/06/2017 03:06:31 PM] 
+[26/06/2017 03:06:31 PM]        The MAIL_DIR and MAIL_FILE variables are used by useradd, usermod, and userdel to create, move, or delete the user큦 mail spool.
+[26/06/2017 03:06:31 PM] 
+[26/06/2017 03:06:31 PM]        If MAIL_CHECK_ENAB is set to yes, they are also used to define the MAIL environment variable.
+[26/06/2017 03:06:31 PM] 
+[26/06/2017 03:06:31 PM]        MAX_MEMBERS_PER_GROUP (number)
+[26/06/2017 03:06:31 PM]            Maximum members per group entry. When the maximum is reached, a new group entry (line) is started in /etc/group (with the same name, same password, and same
+[26/06/2017 03:06:31 PM]            GID).
+[26/06/2017 03:06:31 PM] 
+[26/06/2017 03:06:31 PM]            The default value is 0, meaning that there are no limits in the number of members in a group.
+[26/06/2017 03:06:31 PM] 
+[26/06/2017 03:06:31 PM]            This feature (split group) permits to limit the length of lines in the group file. This is useful to make sure that lines for NIS groups are not larger than
+[26/06/2017 03:06:32 PM]            1024 characters.
+[26/06/2017 03:06:32 PM] 
+[26/06/2017 03:06:32 PM]            If you need to enforce such limit, you can use 25.
+[26/06/2017 03:06:37 PM] [xadmlvd@LGDEBWEMSH1 ~]$ 
+[26/06/2017 03:06:37 PM] Connection closed by foreign host.
+
+[END] 26/06/2017 03:06:37 PM
