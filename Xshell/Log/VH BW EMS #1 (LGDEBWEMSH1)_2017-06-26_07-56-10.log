@@ -1,0 +1,21 @@
+[BEGIN] 26/06/2017 07:56:10 AM
+[26/06/2017 07:56:10 AM] Connecting to 10.119.211.71
+[26/06/2017 07:56:10 AM] USER[1007033524], PC[10.119.236.192], TARGET[10.119.211.71]
+[26/06/2017 07:56:10 AM] Warning: your password will expire in 1 day
+[26/06/2017 07:56:10 AM] Last login: Sat Jun 24 10:27:21 2017 from 10.119.200.44
+[26/06/2017 07:56:10 AM] 
+[26/06/2017 07:56:10 AM] INFORMATION: This session will expire after 8152 hours and 3 minutes.
+[26/06/2017 08:09:10 AM] [xtmplsk@LGDEBWEMSH1 ~]$ cat /var/log/messages | grep kernel firmware
+[26/06/2017 08:09:10 AM] cat: grep: firmware: No such file or directory
+[26/06/2017 08:09:10 AM] /var/log/messages: Permission denied
+[26/06/2017 08:09:46 AM] [xtmplsk@LGDEBWEMSH1 ~]$ su -
+[26/06/2017 08:09:47 AM] Password: 
+[26/06/2017 08:10:02 AM] [root@LGDEBWEMSH1 ~]# cat /var/log/messages | grep kernel firmware
+[26/06/2017 08:10:02 AM] grep: firmware: No such file or directory
+[26/06/2017 08:10:13 AM] [root@LGDEBWEMSH1 ~]# cat /var/log/messages | grep "kernel firmware"
+[26/06/2017 08:37:24 AM] [root@LGDEBWEMSH1 ~]# exit
+[26/06/2017 08:37:24 AM] logout
+[26/06/2017 08:37:25 AM] [xtmplsk@LGDEBWEMSH1 ~]$ 
+[26/06/2017 08:37:25 AM] Connection closed by foreign host.
+
+[END] 26/06/2017 08:37:25 AM
