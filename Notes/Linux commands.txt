@@ -70,3 +70,16 @@ check_net_recovery
 
 c) In reality, the paranoid ones go for
 full test restore as well.
+-----------------------------
+To disable password aging / expiration for user foo, type command as follows and set:
+Minimum Password Age to 0
+Maximum Password Age to 99999
+Password Inactive to -1
+Account Expiration Date to -1
+Interactive mode command:
+# chage username
+
+OR
+# chage -I -1 -m 0 -M 99999 -E -1 username
+
+chage -I -1 -m 0 -M 400 -E -1 xtmplsk

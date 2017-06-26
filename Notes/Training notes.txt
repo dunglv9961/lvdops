@@ -90,6 +90,9 @@ passwd : !dlatl00
 id : root
 passwd : !dlatl00
 
+id: xadmlvd
+passwd : dunglv269;
+usermod -c "Le Viet Dung" xadmlvd
 --------------------------
 Using iDRAC
 http://192.168.0.120
