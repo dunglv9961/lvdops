@@ -1,10 +1,55 @@
 https://www.microsoft.com/net/framework/versions/net462?source=getdotnet&utm_source=getdotnet&utm_medium=referral
 
+------------------------
+
+192.168.26.130
+root/123!@#
+dunglv/123!@#
+
+192.168.26.129
+root/123!@#
+dunglv / 123!@#
+---------------------------
+Install SSH service for Ubuntu
+sudo apt-get install openssh-server
+sudo service ssh status
+
+You may change some settings (e.g., the listening port, and root login permission) by editing the configuration file via command:
+sudo nano /etc/ssh/sshd_config
+On Ubuntu desktop, you may use gedit instead of nano:
+Finally apply the changes by restarting or reloading SSH:
+sudo service ssh restart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------
 
 
 Connection Information:
 gcloudvcs.lgdisplay.com
-
 
 
 

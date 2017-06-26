@@ -117,12 +117,3 @@ Occasionally the iDRAC may need to be reset after issuing the above command due 
 
 	-------------------
 
-------------------------
-
-192.168.26.130
-root/123!@#
-dunglv/123!@#
-
-192.168.26.129
-root/123!@#
-dunglv / 123!@#
