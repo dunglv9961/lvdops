@@ -153,7 +153,7 @@ ExpectSend_Send_1=!dlatl00
 FilePath=%n_%Y-%m-%d_%t.log
 Overwrite=1
 TermCode=0
-AutoStart=0
+AutoStart=1
 Timestamp=1
 Prompt=0
 [CONNECTION:RLOGIN]

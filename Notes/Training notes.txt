@@ -27,8 +27,11 @@ pass: 10070335241Q@w
 Connect to SBC servers using sbc\clu_adm19 / P@ssw0rd
 sys_adm01 / camon!12
 
-
-
+217.11: sys_adm01/P@ssw0rd
+217.12: sys_adm01/P@ssw0rd
+200.52: sys_adm01/P@ssw0rd
+200.53: sys_adm01/P@ssw0rd
+211.69: sys_adm01/P@ssw0rd
 ---------------------------------CMC ------------------
 Chassis Management Controller 
 https://10.119.170.40
