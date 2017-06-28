@@ -16,6 +16,9 @@ https://10.119.200.44/login/login.html?lang=eng
 user: 1007033524
 pass: 
 
+-------------------------
+\\10.119.211.122 File server.
+
 ------------------------SBC-----------------------------------
 http://10.119.211.55:8080
 user: sbc\1007033524
@@ -36,7 +39,7 @@ sysadmin / P@ssw0rd
 
 
 Change to root account in maintenance mode:
-type: Support Maintenance
+type: Support then Maintenance
 type: /opt/Symantec/sdcssagent/IPS/sisipsoverride.sh
 Select 2. Override Prevention Completely
 Select 6. 8 hours
