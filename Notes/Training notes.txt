@@ -28,6 +28,16 @@ Connect to SBC servers using sbc\clu_adm19 / P@ssw0rd
 sys_adm01 / camon!12
 
 
+
+---------------------------------CMC ------------------
+Chassis Management Controller 
+https://10.119.170.40
+root / P@ssw0rd
+
+password for enable mode in switch : calvin
+command: connect switch-a1 
+
+
 -----------------------------Backup---------------------
 Netbackup Appliance
 https://10.119.211.21
