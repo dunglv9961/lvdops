@@ -1,5 +1,5 @@
 [CONNECTION:PROXY]
-Proxy=
+Proxy=LVD
 StartUp=0
 [CONNECTION:SERIAL]
 BaudRate=6
@@ -146,8 +146,8 @@ UserName=admin
 FilePath=%n_%Y-%m-%d_%t.log
 Overwrite=1
 TermCode=0
-AutoStart=0
-Timestamp=0
+AutoStart=1
+Timestamp=1
 Prompt=0
 [CONNECTION:RLOGIN]
 TermSpeed=38400

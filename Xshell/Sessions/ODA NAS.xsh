@@ -1,5 +1,5 @@
 [CONNECTION:PROXY]
-Proxy=
+Proxy=LVD
 StartUp=0
 [CONNECTION:SERIAL]
 BaudRate=6
