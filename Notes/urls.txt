@@ -21,6 +21,9 @@ Finally apply the changes by restarting or reloading SSH:
 sudo service ssh restart
 
 
+IP: 10.119.224.47/24
+Gate: 10.119.224.1
+DNS : 172.21.239.140,141
 
 
 
