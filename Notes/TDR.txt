@@ -1,0 +1,14 @@
+
+
+- LG CNS get notification from LGDVH OSPI (Dang, Phu), check system (server, network, storage, etc.)
+- Analyze, fix, answer the cause of issue,
+
+- Time for process (max): 
++ day: 30 minutes.
++ night: 40 minutes. 
+
+- 
+
+
+
+
