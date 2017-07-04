@@ -1,0 +1,46 @@
+
+Basic network commands
+
+If you use ifconfig you must specify an interface to see its configuration.
+# ifconfig lan0
+
+If you just want to see ip addresses for all interfaces:
+# netstat -in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
