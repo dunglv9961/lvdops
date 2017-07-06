@@ -1,5 +1,5 @@
 
-
+03/07/2017
 - LG CNS get notification from LGDVH OSPI (Dang, Phu), check system (server, network, storage, etc.)
 - Analyze, fix, answer the cause of issue,
 
@@ -8,6 +8,8 @@
 + night: 40 minutes. 
 
 - 
+
+06/07/2017
 
 
 
