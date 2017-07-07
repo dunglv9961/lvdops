@@ -83,3 +83,20 @@ OR
 # chage -I -1 -m 0 -M 99999 -E -1 username
 
 chage -I -1 -m 0 -M 400 -E -1 xtmplsk
+
+
+---------------------------
+Find Distribution Version
+
+Type the following command:
+$ cat /etc/*release
+OR
+$ lsb_release -a
+
+
+
+
+
+
+
+

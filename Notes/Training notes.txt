@@ -133,6 +133,8 @@ Occasionally the iDRAC may need to be reset after issuing the above command due 
     racadm -r ip address -u user name -p password jobqueue delete -i JID_CLEARALL_FORCE
     Wait 120 secs
     racadm –r ip address –u user name –p password racreset
-
-	-------------------
-
+	
+	
+-------------------
+i-Messenger UC
+http://uchome.gimsg.com/mobile/download.html
