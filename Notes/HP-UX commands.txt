@@ -26,7 +26,7 @@ Physical volumes are organized into volume groups (VGs). A volume group can cons
 
 The pool of disk space that is represented by a volume group can be divided into logical volumes (LVs) of various sizes.
 
-
+Starting with volume group Version 2.2, LVM introduced a new type of logical volume: snapshot logical volume. Snapshots are point-in-time image of a logical volume. Snapshots allow you to create another copy of the logical volume (which can be used for a backup) without taking up as much of the physical space as the size of the logical volume. 
 
 
 
