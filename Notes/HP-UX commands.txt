@@ -20,9 +20,11 @@ If you just want to see ip addresses for all interfaces:
 
 
 
+An LVM system starts by initializing disks for LVM usage. An LVM disk is known as a physical volume (PV).
 
+Physical volumes are organized into volume groups (VGs). A volume group can consist of one or more physical volumes, and there can be more than one volume group in the system.
 
-
+The pool of disk space that is represented by a volume group can be divided into logical volumes (LVs) of various sizes.
 
 
 
