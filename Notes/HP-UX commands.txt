@@ -25,6 +25,8 @@ check_net_recovery
 
 c) In reality, the paranoid ones go for full test restore as well.
 
+---------------------------------
+To use HP SMH, enter the command /usr/sbin/smh
 
 
 
