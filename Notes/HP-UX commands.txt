@@ -7,7 +7,23 @@ If you use ifconfig you must specify an interface to see its configuration.
 If you just want to see ip addresses for all interfaces:
 # netstat -in
 
+-----------------------------------------------
+checking the status of ignite backup
 
+cat /var/opt/ignite/logs/ignite
+
+Some of options:
+
+a) Log files in /var/opt/ignite/...
+directories are always the simplest
+option.
+
+b) Refer to the following commands:
+
+check_tape_recovery
+check_net_recovery
+
+c) In reality, the paranoid ones go for full test restore as well.
 
 
 
