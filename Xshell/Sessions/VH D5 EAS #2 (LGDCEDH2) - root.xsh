@@ -104,7 +104,7 @@ InitNewlineMode=0
 InitKeypadMode=0
 TerminalNameForEcho=Xshell
 [TERMINAL:WINDOW]
-ColorScheme=XTerm
+ColorScheme=Hack
 FontQuality=0
 LineSpace=0
 CursorColor=65280
