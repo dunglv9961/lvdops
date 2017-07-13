@@ -37,6 +37,9 @@ messvchm / vhMessvchm1!
 
 
 
+ll | grep FILE ; ll | grep MAIL ; ll | grep SQL ; ll | grep MPS ; ll | grep MSG ; ll | grep txn_log ; ll | grep ARC
+
+
 
 
 
