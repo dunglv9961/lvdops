@@ -40,7 +40,7 @@ vi tmp_"date +%Y%m%d_%H%M"
 ll | grep FILE ; ll | grep MAIL ; ll | grep SQL ; ll | grep MPS ; ll | grep MSG ; ll | grep txn_log ; ll | grep ARC
 
 
-
+The Veritas Cluster File System, Technology and Usage
 
 
 
