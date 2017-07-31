@@ -1,5 +1,5 @@
 [CONNECTION:PROXY]
-Proxy=LVD
+Proxy=
 StartUp=0
 [CONNECTION:SERIAL]
 BaudRate=6
@@ -15,6 +15,7 @@ Description=Xshell session file
 SockConn=1
 SshLogin=0
 SshTunneling=0
+SshPacket=0
 TelnetOptNego=0
 [CONNECTION:SSH]
 LaunchAuthAgent=1
