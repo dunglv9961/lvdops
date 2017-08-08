@@ -15,6 +15,7 @@ Description=Xshell session file
 SockConn=1
 SshLogin=0
 SshTunneling=0
+SshPacket=0
 TelnetOptNego=0
 [CONNECTION:SSH]
 LaunchAuthAgent=1
@@ -74,7 +75,7 @@ CodePage=65001
 InitAutoWrapMode=1
 Cols=80
 InitEchoMode=0
-Type=xterm
+Type=linux
 DisableAlternateScreen=0
 CJKAmbiAsWide=0
 ScrollBottomOnKeyPress=0
@@ -104,7 +105,7 @@ InitKeypadMode=0
 TerminalNameForEcho=Xshell
 [TERMINAL:WINDOW]
 FontQuality=0
-ColorScheme=XTerm
+ColorScheme=LVD
 LineSpace=0
 CursorColor=65280
 CursorBlinkInterval=600
