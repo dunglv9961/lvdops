@@ -6,9 +6,15 @@ paulsmith81 rlaghdrl12!
 MES: Manufacturing Excution System
 MAS: Manufacturing Analysis System
 
+DNS Server:
+172.21.239.140
+172.21.239.141
+
+
 iMessager: mynam
 
-Windows Pro Key: V2JRP-HPF9B-36P84-T7P93-9PXH7
+Windows 7 Pro Key: V2JRP-HPF9B-36P84-T7P93-9PXH7
+Office 2013 Professional Key: 8HWXV-TNRDR-VVWX8-MFH9B-88C9V 
 
 https://ucloud.lgcns.com/VmCube/Login
 http://lets.lgdisplay.com:8086/portal/main/portalMain.do
