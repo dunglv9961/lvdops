@@ -15,6 +15,7 @@ Description=Xshell session file
 SockConn=1
 SshLogin=0
 SshTunneling=0
+SshPacket=0
 TelnetOptNego=0
 [CONNECTION:SSH]
 LaunchAuthAgent=1
@@ -104,7 +105,7 @@ InitNewlineMode=0
 InitKeypadMode=0
 TerminalNameForEcho=Xshell
 [TERMINAL:WINDOW]
-ColorScheme=XTerm
+ColorScheme=White on Black
 FontQuality=0
 LineSpace=0
 CursorColor=65280
@@ -115,7 +116,7 @@ TabColorOther=0
 FontSize=9
 CursorBlink=0
 BoldMethod=2
-BGImageFile=
+BGImageFile=E:\Downloads\binglybongly_wallpaper.bmp
 CursorTextColor=0
 BGImagePos=0
 FontFace=Consolas
