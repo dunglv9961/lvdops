@@ -63,6 +63,8 @@ IPMI Web
 https://10.119.211.22
 sysadmin / P@ssw0rd
 
+Support Kakao Talk ID: ddele
+
 
 Change to root account in maintenance mode:
 type: Support then Maintenance
