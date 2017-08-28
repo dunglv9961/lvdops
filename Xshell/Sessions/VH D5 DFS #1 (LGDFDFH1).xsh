@@ -9,7 +9,7 @@ Parity=0
 DataBits=3
 ComPort=0
 [SessionInfo]
-Version=5.2
+Version=5.3
 Description=Xshell session file
 [TRACE]
 SockConn=1
@@ -135,7 +135,7 @@ Passphrase=
 Delegation=0
 UseInitScript=0
 TelnetLoginPrompt=ogin:
-Password=X6NvrrtCbTe+MFcZ0sDzOvCrIrypBEhKEBOB/O8x45iEzinRLHk9RIBf
+Password=r2hYMd6J6lP1oVcZ0sDzOvCrIrypBEhKEBOB/O8x45iEzinRLHk9RIBf
 RloginPasswordPrompt=assword:
 UseExpectSend=0
 TelnetPasswordPrompt=assword:

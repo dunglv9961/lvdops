@@ -9,12 +9,13 @@ Parity=0
 DataBits=3
 ComPort=0
 [SessionInfo]
-Version=5.2
+Version=5.3
 Description=Xshell session file
 [TRACE]
 SockConn=1
 SshLogin=0
 SshTunneling=0
+SshPacket=0
 TelnetOptNego=0
 [CONNECTION:SSH]
 LaunchAuthAgent=1
@@ -134,7 +135,7 @@ Passphrase=
 Delegation=0
 UseInitScript=0
 TelnetLoginPrompt=ogin:
-Password=CK9QtrxPOWoGghirVzrbMbP2de3vywzsjk9fZQY3kpkvERlvHuF9nA==
+Password=+GRnKdmEvg4GghirVzrbMbP2de3vywzsjk9fZQY3kpkvERlvHuF9nA==
 RloginPasswordPrompt=assword:
 UseExpectSend=0
 TelnetPasswordPrompt=assword:
