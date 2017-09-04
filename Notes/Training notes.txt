@@ -102,6 +102,11 @@ SAN switch
 admin/password
 
 
+ESRS
+root/comdel0!
+root/emc2admin
+
+
 -----------------Unix/Linux--------------------------
 Proxy
 Host: 10.119.200.43
