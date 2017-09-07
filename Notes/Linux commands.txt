@@ -82,7 +82,10 @@ $ lsb_release -a
 ls -d */ to list directories within the current directory
 
 -------------------------
+Assign IP Address, Netmask and Broadcast to Interface eth0
+ifconfig eth0 192.168.1.12 netmask 255.255.255.0 broadcast 192.168.1.255
 
+----------------------------
 
 
 
