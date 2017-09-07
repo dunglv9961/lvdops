@@ -77,6 +77,11 @@ OR
 $ lsb_release -a
 
 
+-------------------------
+
+ls -d */ to list directories within the current directory
+
+-------------------------
 
 
 

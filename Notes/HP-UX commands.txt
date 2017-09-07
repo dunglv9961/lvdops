@@ -67,7 +67,11 @@ OS info:
    vmunix _release_version:               
 @(#) $Revision: vmunix:    B.11.31_LR FLAVOR=perf 
 
+------------------------
 
+ls -d */ to list directories within the current directory
+
+---------------------------------------------
 
 
 
