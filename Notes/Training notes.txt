@@ -96,6 +96,10 @@ http://10.119.211.205/
 http://10.119.211.206/
 sysadmin/sysadmin
 
+Change to Engineering mode:
+press: Ctrl+Alt+Shift+F12
+pass: messner
+
 SAN switch
 10.119.211.207
 10.119.211.208
