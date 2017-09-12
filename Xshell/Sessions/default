@@ -102,7 +102,7 @@ RecvLLAsCRLF=0
 EraseWithBackgroundColor=1
 InitNewlineMode=0
 InitKeypadMode=0
-TerminalNameForEcho=
+TerminalNameForEcho=Xshell
 [TERMINAL:WINDOW]
 FontQuality=0
 ColorScheme=LVD
@@ -117,7 +117,7 @@ CursorBlink=0
 BGImageFile=
 BoldMethod=2
 CursorTextColor=0
-BGImagePos=0
+BGImagePos=2
 FontFace=DejaVu Sans Mono
 CharSpace=0
 MarginBottom=5
