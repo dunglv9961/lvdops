@@ -105,7 +105,7 @@ InitKeypadMode=0
 TerminalNameForEcho=
 [TERMINAL:WINDOW]
 FontQuality=0
-ColorScheme=XTerm
+ColorScheme=LVD
 LineSpace=0
 CursorColor=65280
 CursorBlinkInterval=600

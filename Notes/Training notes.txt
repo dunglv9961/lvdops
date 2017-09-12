@@ -164,3 +164,8 @@ Occasionally the iDRAC may need to be reset after issuing the above command due 
 -------------------
 i-Messenger UC
 http://uchome.gimsg.com/mobile/download.html
+
+Veritas for EPO
+admin/password
+
+
